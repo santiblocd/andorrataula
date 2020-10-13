@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Andorra Park Hotel La Pérgola</title>
