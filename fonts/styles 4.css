@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Gellix-SemiBold';
+  src: url('Gellix-SemiBold.eot?#iefix') format('embedded-opentype'),  url('Gellix-SemiBold.otf')  format('opentype'),
+	     url('Gellix-SemiBold.woff') format('woff'), url('Gellix-SemiBold.ttf')  format('truetype'), url('Gellix-SemiBold.svg#Gellix-SemiBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

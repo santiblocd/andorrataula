@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Gellix-RegularItalic';
+  src: url('Gellix-RegularItalic.eot?#iefix') format('embedded-opentype'),  url('Gellix-RegularItalic.otf')  format('opentype'),
+	     url('Gellix-RegularItalic.woff') format('woff'), url('Gellix-RegularItalic.ttf')  format('truetype'), url('Gellix-RegularItalic.svg#Gellix-RegularItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

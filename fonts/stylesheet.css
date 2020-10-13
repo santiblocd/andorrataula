@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Source Serif Pro';
+    src: url('SourceSerifPro-Black.eot');
+    src: url('SourceSerifPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('SourceSerifPro-Black.woff2') format('woff2'),
+        url('SourceSerifPro-Black.woff') format('woff'),
+        url('SourceSerifPro-Black.ttf') format('truetype'),
+        url('SourceSerifPro-Black.svg#SourceSerifPro-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

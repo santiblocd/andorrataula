@@ -1,0 +1,756 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+body.loaded {
+  opacity: 1;
+}
+body.startloading {
+  opacity: 0;
+}
+@font-face {
+  font-family: 'SourceSerifPro-Semibold';
+  src: url('../fonts/SourceSerifPro-Semibold.eot?#iefix') format('embedded-opentype'), url('../fonts/SourceSerifPro-Semibold.otf') format('opentype'), url('../fonts/SourceSerifPro-Semibold.woff') format('woff'), url('../fonts/SourceSerifPro-Semibold.ttf') format('truetype'), url('../fonts/SourceSerifPro-Semibold.svg#SourceSerifPro-Semibold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SourceSerifPro-Black';
+  src: url('../fonts/SourceSerifPro-Black.eot?#iefix') format('embedded-opentype'), url('../fonts/SourceSerifPro-Black.otf') format('opentype'), url('../fonts/SourceSerifPro-Black.woff') format('woff'), url('../fonts/SourceSerifPro-Black.ttf') format('truetype'), url('../fonts/SourceSerifPro-Black.svg#SourceSerifPro-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gellix-Regular';
+  src: url('../fonts/Gellix-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Gellix-Regular.otf') format('opentype'), url('../fonts/Gellix-Regular.woff') format('woff'), url('../fonts/Gellix-Regular.ttf') format('truetype'), url('../fonts/Gellix-Regular.svg#Gellix-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gellix-RegularItalic';
+  src: url('../fonts/Gellix-RegularItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Gellix-RegularItalic.otf') format('opentype'), url('../fonts/Gellix-RegularItalic.woff') format('woff'), url('../fonts/Gellix-RegularItalic.ttf') format('truetype'), url('../fonts/Gellix-RegularItalic.svg#Gellix-RegularItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gellix-SemiBold';
+  src: url('../fonts/Gellix-SemiBold.eot?#iefix') format('embedded-opentype'), url('../fonts/Gellix-SemiBold.otf') format('opentype'), url('../fonts/Gellix-SemiBold.woff') format('woff'), url('../fonts/Gellix-SemiBold.ttf') format('truetype'), url('../fonts/Gellix-SemiBold.svg#Gellix-SemiBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gellix-Bold';
+  src: url('../fonts/Gellix-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Gellix-Bold.otf') format('opentype'), url('../fonts/Gellix-Bold.woff') format('woff'), url('../fonts/Gellix-Bold.ttf') format('truetype'), url('../fonts/Gellix-Bold.svg#Gellix-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: white;
+  border-radius: 0px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #fdc413;
+  border-radius: 0px;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #fdc413;
+}
+.FontExtraGrande {
+  font-size: 30px;
+  font-family: 'Gellix-Bold';
+}
+.FontGrande {
+  font-size: 22px;
+}
+.FontMedium {
+  font-size: 20px;
+}
+.FontRegular2 {
+  font-size: 14px;
+  line-height: 18px;
+}
+.FontRegular {
+  font-size: 13px;
+}
+.FontSmall {
+  font-size: 12px;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'SourceSerifPro-Semibold';
+  margin: 0px!important;
+  padding: 0px;
+  text-rendering: optimizeLegibility;
+  font-smoothing: antialiased;
+}
+h2 {
+  font-size: 22px;
+}
+h3 {
+  font-family: 'Gellix-SemiBold';
+}
+p,
+li,
+a {
+  font-family: 'Gellix-Regular';
+  text-rendering: optimizeLegibility;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  font-size: 13px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+body {
+  overflow: hidden;
+  position: relative;
+  background: #000;
+  height: 100vh;
+  background-color: #fdc413;
+}
+header {
+  height: 100vh;
+  width: 333px;
+  background-color: white;
+  float: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  padding: 30px;
+  box-sizing: border-box;
+}
+header nav {
+  z-index: 10;
+}
+header nav ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+header nav ul li {
+  padding: 5px 0px 5px 0px;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Gellix-SemiBold';
+  font-size: 22px;
+  position: relative;
+}
+header nav ul li a:before {
+  content: '';
+  width: 100%;
+  height: 2px;
+  bottom: -2px;
+  left: 0px;
+  background-color: black;
+  position: absolute;
+  display: none;
+}
+header nav ul li a:hover:before {
+  display: block;
+}
+header img {
+  text-align: center;
+  width: 50%;
+  height: auto;
+}
+header .texto-presentacion {
+  align-self: end;
+}
+nav.menu-lang {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  padding: 30px;
+  mix-blend-mode: difference;
+  z-index: 99;
+}
+nav.menu-lang li {
+  padding-left: 15px;
+}
+nav.menu-lang li a {
+  color: white;
+}
+h2.invitacion {
+  font-size: 30px;
+  font-family: 'Gellix-Bold';
+  font-family: 'SourceSerifPro-Semibold';
+  text-align: left;
+  padding-top: 30px;
+}
+.load {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background-color: #fdc413;
+  width: 0%;
+  height: 100%;
+  transition: all 0.5s;
+  z-index: 99;
+}
+.is-transitioning .load {
+  width: 75%;
+  height: 100%;
+}
+#intro-slider {
+  width: calc(100% - 333px);
+  height: 100vh;
+  float: right;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}
+.circle {
+  font-family: 'SourceSerifPro-Semibold';
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  z-index: 10;
+  position: absolute;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.circle.titulo {
+  background-color: black;
+  top: 100px;
+  left: 450px;
+  z-index: 99;
+}
+.circle.titulo span {
+  color: #fdc413;
+}
+.circle.titulo span img {
+  width: 80%;
+  margin: 0 auto;
+}
+.circle.titulo span.minus {
+  font-size: 30px;
+}
+.circle.titulo span.mayus {
+  text-transform: uppercase;
+  font-size: 20px;
+  display: block;
+}
+.circle.date {
+  background-color: black;
+  top: 300px;
+  left: 450px;
+}
+.circle.date p {
+  color: white;
+  font-family: 'SourceSerifPro-Semibold';
+  font-size: 25px;
+}
+.circle.date.animation {
+  animation-name: date;
+  animation-duration: 1s;
+  transition: all 1s ease-in-out;
+  z-index: 80;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+@keyframes date {
+  0% {
+    top: 100px;
+  }
+  20% {
+    top: 100px;
+  }
+  100% {
+    top: 300px;
+  }
+}
+.circle.info {
+  background-color: black;
+  top: 500px;
+  left: 450px;
+  opacity: 0;
+}
+.circle.info p {
+  color: white;
+  font-family: 'SourceSerifPro-Semibold';
+  font-size: 14px;
+  line-height: 18px;
+}
+.circle.info.animation {
+  opacity: 0;
+  animation-name: info;
+  animation-duration: 1s;
+  animation-delay: 1s;
+  transition: all 1s ease-in-out;
+  z-index: 70;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+@keyframes info {
+  0% {
+    top: 300px;
+  }
+  20% {
+    top: 300px;
+  }
+  100% {
+    top: 500px;
+    opacity: 1;
+  }
+}
+.circle.boton {
+  background-color: #fdc413;
+  cursor: pointer;
+  z-index: 99;
+}
+.circle.boton p {
+  font-size: 22px;
+  font-family: 'SourceSerifPro-Semibold';
+}
+.circle.boton:hover {
+  width: 230px;
+  height: 230px;
+  transition: all 0.2s ease-in-out;
+}
+.circlefull {
+  width: 100%;
+  height: 100vh;
+  top: 0px;
+  left: 0px;
+  border-radius: 0%;
+  position: absolute;
+  transition: all 0.5s ease-in-out;
+}
+.ficha-restaurante header {
+  width: 450px;
+}
+.circletopo .circle.titulo {
+  bottom: 30px;
+  right: 30px;
+  top: initial;
+  left: initial;
+}
+.participantes {
+  padding: 30px 30px 30px 80px;
+  background-color: #fdc413;
+  height: 100vh;
+  width: calc(100% - 333px);
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  z-index: 15;
+}
+.participantes h3 {
+  font-size: 30px;
+  font-family: 'Gellix-Bold';
+  padding-bottom: 20px;
+}
+.participantes ul {
+  list-style-type: none;
+  padding: 0px;
+  margin-bottom: 50px;
+  margin-top: 0px;
+}
+.participantes ul li {
+  text-decoration: none;
+  padding-bottom: 5px;
+}
+.participantes ul li a {
+  font-size: 22px;
+  font-family: 'SourceSerifPro-Semibold';
+  overflow: hidden;
+}
+.participantes ul li a span.bar {
+  position: relative;
+}
+.participantes ul li a span.bar:before {
+  content: '';
+  width: 100%;
+  height: 2px;
+  bottom: 0px;
+  left: 0px;
+  background-color: black;
+  position: absolute;
+  display: none;
+}
+.participantes ul li a:hover span.bar:before {
+  display: block;
+}
+.participantes ul li span.number {
+  padding-right: 15px;
+}
+.participantes .columna1 {
+  width: 50%;
+  float: left;
+}
+.participantes .columna2 {
+  width: 50%;
+  float: left;
+}
+.gallery {
+  width: calc(100% - 450px);
+  height: 100vh;
+  float: right;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}
+.gallery .slide {
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.gallery .slide img {
+  height: 100vh;
+  overflow: hidden;
+}
+.barra-left {
+  width: 450px;
+  height: calc(100vh - 170px);
+  position: fixed;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-top: 170px;
+  padding: 30px 10px 30px 10px;
+  justify-content: space-between;
+  overflow-y: scroll;
+  border-top: 1px dotted black;
+}
+.barra-left .info-restaurant {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.barra-left .info-restaurant h2 {
+  font-family: 'SourceSerifPro-Black';
+  font-size: 30px;
+}
+.barra-left .info-restaurant a {
+  text-decoration: none;
+}
+.barra-left .info-restaurant p {
+  margin: 0px;
+}
+.barra-left .info-restaurant .info-menu {
+  margin: 10px auto;
+  margin-bottom: 10px;
+}
+.barra-left .info-restaurant .info-menu ul {
+  list-style-type: none;
+  padding: 0px;
+}
+.barra-left .info-restaurant .info-menu ul li {
+  line-height: 17px;
+  font-size: 13px;
+}
+.barra-left .info-restaurant .info-menu .menu {
+  margin-top: 15px;
+  padding-top: 50px;
+  position: relative;
+}
+.barra-left .info-restaurant .info-menu .menu:before {
+  content: '.';
+  position: absolute;
+  top: 0px;
+  left: 50%;
+}
+.barra-left .info-restaurant .preu {
+  margin: 30px auto;
+}
+.barra-left .info-restaurant .preu p {
+  font-family: 'Gellix-SemiBold';
+  font-size: 22px;
+}
+.barra-left .info-restaurant .preu span {
+  font-family: 'Gellix-Regular';
+  font-size: 13px;
+}
+.barra-left .info-restaurant .boton {
+  width: 100px;
+  height: 100px;
+  background-color: #fdc413;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.barra-left .info-restaurant .boton:hover {
+  background-color: black;
+  transition: all 0.2s ease-in-out;
+}
+.barra-left .info-restaurant .boton:hover a {
+  color: white;
+}
+.barra-left .info-restaurant .direccion p {
+  font-size: 12px;
+  line-height: 15px;
+}
+@media screen and (max-height: 850px) {
+  .barra-left {
+    margin-top: 170px;
+    padding: 30px;
+    overflow-y: scroll;
+    height: calc(100vh - 150px);
+    border-top: 1px dotted black;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  .participantes .columna1,
+  .participantes .columna2 {
+    width: 100%;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  header img {
+    width: 40%;
+  }
+  .participantes {
+    overflow-y: scroll;
+  }
+  .participantes .columna1,
+  .participantes .columna2 {
+    width: 100%;
+  }
+}
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (orientation: portrait) {
+  .FontUltraGrande {
+    font-size: 70px;
+  }
+  .FontExtraGrande {
+    font-size: 60px;
+  }
+  .FontGrande {
+    font-size: 40px;
+  }
+  .FontMedium {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .FontRegular2 {
+    font-size: 50px;
+    line-height: 55px;
+  }
+  .FontRegular {
+    font-size: 30px;
+  }
+  .FontSmall {
+    font-size: 12px;
+  }
+  nav.menu-lang {
+    margin-top: 10px;
+    right: auto;
+    bottom: 0px;
+    top: initial;
+    z-index: initial;
+  }
+  nav.menu-lang li {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  nav.menu-lang li a {
+    font-size: 60px;
+  }
+  .hamburguer {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    z-index: 999999;
+    padding: 50px;
+  }
+  .hamburguer .bar1,
+  .hamburguer .bar2,
+  .hamburguer .bar3 {
+    height: 2px;
+    background-color: black;
+    width: 100px;
+    margin-bottom: 30px;
+    display: block;
+  }
+  .open header {
+    display: flex;
+  }
+  .open .hamburguer .bar1,
+  .open .hamburguer .bar3 {
+    opacity: 0;
+  }
+  header {
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    padding: 50px;
+    animation: all 0.2 ease-in-out;
+    display: none;
+    align-items: center;
+    justify-content: center;
+  }
+  header nav {
+    margin-bottom: 50px;
+  }
+  header nav ul li a {
+    font-size: 70px;
+  }
+  header .texto-presentacion {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  header .texto-presentacion h2 {
+    font-size: 60px;
+    display: flex;
+    align-items: flex-end;
+    display: none;
+  }
+  header img {
+    width: 30%;
+  }
+  .participantes {
+    width: 100%;
+    padding: 200px 50px 50px 50px;
+  }
+  .participantes h3 {
+    font-size: 60px;
+  }
+  .participantes ul li a {
+    font-size: 50px;
+    line-height: 55px;
+  }
+  .circle {
+    width: 400px;
+    height: 400px;
+  }
+  .circle.titulo {
+    top: 100px;
+    left: calc(50% - 200px);
+  }
+  .circle.titulo span.minus,
+  .circle.titulo span.mayus {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .circle.date {
+    left: calc(50% - 200px);
+    top: 500px;
+  }
+  .circle.date p {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  @keyframes date {
+    0% {
+      top: 100px;
+    }
+    20% {
+      top: 100px;
+    }
+    100% {
+      top: 500px;
+      opacity: 1;
+    }
+  }
+  .circle.info {
+    left: calc(50% - 200px);
+    top: 900px;
+  }
+  .circle.info p {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  @keyframes info {
+    0% {
+      top: 500px;
+    }
+    20% {
+      top: 500px;
+    }
+    100% {
+      top: 900px;
+      opacity: 1;
+    }
+  }
+  .circle.boton p {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  #intro-slider {
+    width: 100%;
+  }
+  .participantes .columna1,
+  .participantes .columna2 {
+    width: 100%;
+  }
+  .participantes-page .loaded {
+    overflow: auto;
+    height: auto;
+  }
+  .participantes-page .loaded .circletopo .circle.titulo {
+    display: none;
+  }
+  .participantes-page .loaded .participantes {
+    position: initial;
+  }
+  .ficha-restaurante .loaded {
+    overflow: auto;
+    height: auto;
+  }
+  .ficha-restaurante .loaded .restaurant {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left {
+    width: 100%;
+    position: initial;
+    height: auto;
+    margin-top: 0px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container {
+    width: 100%;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant h2 {
+    font-size: 70px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu h4 {
+    font-size: 60px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu ul {
+    margin: 20px 0px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu ul li {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .ficha-restaurante .loaded .restaurant .gallery {
+    width: 100%;
+    height: 50vh;
+  }
+  .ficha-restaurante .loaded .restaurant .gallery .slide {
+    height: 50vh;
+  }
+  .ficha-restaurante header {
+    width: 100%;
+  }
+}
