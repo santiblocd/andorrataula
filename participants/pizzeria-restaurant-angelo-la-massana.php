@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>1940 Restaurant</title>
+    <!-- title --> <title>Pizzeria Restaurant Angelo La Massana</title> <!-- END title -->
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
