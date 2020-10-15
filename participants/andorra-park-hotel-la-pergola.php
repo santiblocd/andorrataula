@@ -95,10 +95,11 @@
             </div>
             <div class="direccion">
               <p>C. de les Canals, 24 · Andorra la Vella</p>
-              <p>(+376) 877 777 · De dilluns a diumenge, de 12.30 h</p>
+              <p>(+376) 877 777</p>
+              <p> De dilluns a diumenge, de 12.30 h</p>
               <p>a 15.30 h i de 20 h a 23 h</p>
               <p>reservas@andorraparkhotel.com</p>
-              <p><a href="https://www.andorraparkhotel.com/ca/">página web</a></p>
+              <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
               <p><a href="#">@andorraparkhotel</a></p>
             </div>
           </div>
