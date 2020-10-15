@@ -44,17 +44,21 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br> acompanyat d'una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
                     —<br>
-                    <li>Salmó marinat amb tomàquet i guacamole<br> o <br>Trinxat d'Andorra amb foie-gras poêlé</li>
+                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
                     —<br>
-                    <li>Tronc de lluç al forn amb patata confitada<br>en oli verge extra DOP les Garrigues<br> o </br>Costelles de xai a la brasa amb pebrots de Padrón,<br> tomàquet a la provençal i patates al caliu</li>
+                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
                     —<br>
-                    <li>Coulant de xocolata amb sorbet de mandarina<br> o <br>Tatin de poma amb gelat de vainilla</li>
+                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
+                    —<br>
+                    <li>Pollastre de pagès estofat<br>amb bolets</li>
+                    —<br>
+                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>38€</p>
+                  <p>40 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -63,17 +67,17 @@
                 <div class="menu">
                   <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br> acompanyat d'una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Salmó marinat amb tomàquet i guacamole<br> o <br>Trinxat d'Andorra amb foie-gras poêlé</li>
+                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
                     —<br>
-                    <li>Tronc de lluç al forn amb patata confitada<br>en oli verge extra DOP les Garrigues<br> o </br>Costelles de xai a la brasa amb pebrots de Padrón,<br> tomàquet a la provençal i patates al caliu</li>
+                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
                     —<br>
-                    <li>Coulant de xocolata amb sorbet de mandarina<br> o <br>Tatin de poma amb gelat de vainilla</li>
+                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>38€</p>
+                  <p>20 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -83,7 +87,7 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes extres no incloses</p>
+              <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
               <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
@@ -93,8 +97,9 @@
               <p>C. de les Canals, 24 · Andorra la Vella</p>
               <p>(+376) 877 777 · De dilluns a diumenge, de 12.30 h</p>
               <p>a 15.30 h i de 20 h a 23 h</p>
+              <p>reservas@andorraparkhotel.com</p>
               <p><a href="https://www.andorraparkhotel.com/ca/">página web</a></p>
-              <p><a href="#">@instagram</a></p>
+              <p><a href="#">@andorraparkhotel</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
