@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel La Pérgola</title>
+    <title>Andorra Park Hotel - La Pérgola</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -35,14 +35,14 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Andorra Park Hotel<br> La Pérgola CA</h2>
+              <h2>Andorra Park Hotel<br> La Pérgola</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú degustació</h4>
+                  <h4>Menú gastronòmic</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula<br> acompanyat d'una Inedit Damm</li>
                     —<br>
