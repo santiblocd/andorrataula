@@ -99,6 +99,7 @@
               <p> De dilluns a diumenge, de 12.30 h</p>
               <p>a 15.30 h i de 20 h a 23 h</p>
               <p>reservas@andorraparkhotel.com</p>
+              <br>
               <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
               <p><a href="#">@andorraparkhotel</a></p>
             </div>
