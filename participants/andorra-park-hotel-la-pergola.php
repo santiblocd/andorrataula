@@ -87,11 +87,14 @@
             </div>
              <div class="boton">
               <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. de les Canals, 24 · Andorra la Vella</p>
               <p>(+376) 877 777 · De dilluns a diumenge, de 12.30 h</p>
               <p>a 15.30 h i de 20 h a 23 h</p>
+              <p><a href="https://www.andorraparkhotel.com/ca/">página web</a></p>
+              <p><a href="#">@instagram</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
@@ -100,7 +103,7 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
           <div class="slide">your 2</div>
           <div class="slide">your 3</div>
         </div>

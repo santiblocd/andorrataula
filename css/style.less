@@ -492,6 +492,18 @@ h2.invitacion {
 			height: 100vh;
 			overflow: hidden;
 		}
+
+		.tipomenu {
+			position: absolute;
+    		bottom: 30px;
+    		margin-left: 30px;
+    		.FontGrande();
+    		color: black;	
+    		background-color: white;
+    		padding: 5px 10px 5px 10px;
+    		border-radius: 3px;
+
+		}
 	}
 }
 
@@ -873,11 +885,14 @@ h2.invitacion {
 						.info-restaurant {
 							h2 {
 								.FontUltraGrande();
+								padding-top: 50px;
 							}
 
 							.info-menu {
 								h4 {
 									.FontExtraGrande();
+									padding-top: 30px;
+									padding-bottom: 30px;
 								}
 
 								ul {
@@ -886,17 +901,52 @@ h2.invitacion {
 										.FontMedium();
 									}
 								}
+
+								.menu {
+									margin-top: 50px;
+								}
+
+								.preu {
+									margin: 50px auto;
+
+									p {
+										.FontExtraGrande();
+									}
+
+									span {
+										.FontMedium();
+									}
+								}
+							}
+
+							.direccion {
+								padding: 20px 0px;
+
+								p {
+									.FontMedium();
+								}
+							}
+
+							.boton {
+								width: 300px;
+    							height: 300px;
+    							a {
+    								.FontMedium();
+    							}
 							}
 						}
 					}
 				}
-
 				.gallery {
 					width: 100%;
 		    		height: 50vh;
 
 		    		.slide {
 		    			height: 50vh;
+
+		    			.tipomenu {
+		    				.FontExtraGrande();
+		    			}
 		    		} 
 				}
 			}

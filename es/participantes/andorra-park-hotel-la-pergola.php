@@ -25,7 +25,7 @@
         <!-- END Menú > cambio de idiomas -->
     	</header>
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
-        <a class="circletopo" href="http://localhost/andorra">
+        <a class="circletopo" href="/">
           <div class="circle titulo">
             <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
           </div>

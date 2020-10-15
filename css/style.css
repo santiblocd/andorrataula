@@ -422,6 +422,16 @@ h2.invitacion {
   height: 100vh;
   overflow: hidden;
 }
+.gallery .slide .tipomenu {
+  position: absolute;
+  bottom: 30px;
+  margin-left: 30px;
+  font-size: 22px;
+  color: black;
+  background-color: white;
+  padding: 5px 10px 5px 10px;
+  border-radius: 3px;
+}
 .barra-left {
   width: 450px;
   height: calc(100vh - 170px);
@@ -732,14 +742,45 @@ h2.invitacion {
   }
   .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant h2 {
     font-size: 70px;
+    padding-top: 50px;
   }
   .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu h4 {
     font-size: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu ul {
     margin: 20px 0px;
   }
   .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu ul li {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu .menu {
+    margin-top: 50px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu .preu {
+    margin: 50px auto;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu .preu p {
+    font-size: 60px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .info-menu .preu span {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .direccion {
+    padding: 20px 0px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .direccion p {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .boton {
+    width: 300px;
+    height: 300px;
+  }
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .boton a {
     font-size: 35px;
     line-height: 40px;
   }
@@ -749,6 +790,9 @@ h2.invitacion {
   }
   .ficha-restaurante .loaded .restaurant .gallery .slide {
     height: 50vh;
+  }
+  .ficha-restaurante .loaded .restaurant .gallery .slide .tipomenu {
+    font-size: 60px;
   }
   .ficha-restaurante header {
     width: 100%;
