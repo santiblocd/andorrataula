@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/1940-restaurant.php">ES</a></li>
-          <li><a href="fr/participants/1940-restaurant.php">FR</a></li>
-          <li><a href="participants/a1940-restaurant.php">CA</a></li>
+          <li><a href="es/participantes/pizzeria-restaurant-angelo-la-massana.php">ES</a></li>
+          <li><a href="fr/participants/pizzeria-restaurant-angelo-la-massana.php">FR</a></li>
+          <li><a href="participants/pizzeria-restaurant-angelo-la-massana.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,28 +35,30 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>1940 Restaurant</h2>
+              <h2>Pizzeria Restaurant<br>Angelo La Massana</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú tradicional</h4>
+                  <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Croqueta de botifarra negra<br>amb poma i formatge de cabra<br>acompanyada d’una Inedit Damm</li>
                     —<br>
-                    <li>Amanida de bolets escabetxats amb cruixent<br>de llom ibèric i vinagreta de festucs<br> o <br>Lasanya de carxofes i gambes<br>amb salsa americana</li>
+                    <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
                     —<br>
-                    <li>Civet de caça amb cebetes,<br>bolets i trumfes</li>
+                    <li>Tàrtar de tonyina i alvocat<br>amb vinagreta de cítrics</li>
                     —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets<br> o <br>Pota de pop amb ceba, pebre vermell<br>de la Vera, cloïsses i mongetes</li>
+                    <li>Risotto de ceps de temporada</li>
                     —<br>
-                    <li>Torrada de brioix<br>amb gelat de canyella<br> o <br>Mouse de mel i mató<br>amb nous caramel•litzades</li>
+                    <li>Culatí al grill amb emulsió<br>emulsió de patata i parmesà</li>
+                    -<br>
+                    <li>Mató i mel orgànica amb compota de poma,<br>pera i crumble de nous</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>35 €</p>
+                  <p>30 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -65,13 +67,13 @@
                 <div class="menu">
                   <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Croqueta de pernil<br>de porc de raça bísara</li>
                     —<br>
-                    <li>Caneló de pollastre i verdures<br>amb beixamel gratinat al forn</li>
+                    <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
                     —<br>
-                    <li>Medallons de filet de bou<br>amb trumfes fregides i salsa barbacoa</li>
+                    <li>Ravioli farcit de carn amb sala de tomàquet,<br>formatge parmesà i alfàbrega</li>
                     —<br>
-                    <li>Flam de toffee<br>amb nata i caramel</li>
+                    <li>Crep amb Nutella</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -88,19 +90,18 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.1940restaurant.com/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.pizzeriaangelo.restaurant/" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>Av. Príncep Benlloch, 24 · Andorra la Vella</p>
-              <p>(+376) 860 006</p>
-              <p> De dilluns a diumenge, de 12 h a 15 h</p>
-              <p>i de 20.30 h a 22.30 h</p>
-              <p>dimarts, tancat</p>
-              <p>info@1940restaurant.com</p>
+              <p>Av. Sant Antoni, 22 · La Massana</p>
+              <p>(+376) 738 393</p>
+              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
+              <p>i de 20 h a 23 h</p>
+              <p>administracio@grupkanalla.com</p>
               <br>
-              <p><a href="https://www.1940restaurant.com/">www.1940restaurant.com</a></p>
-              <p><a href="#">@1940restaurant</a></p>
+              <p><a href="https://www.pizzeriaangelo.restaurant/">www.pizzeriaangelo.restaurant</a></p>
+              <p><a href="#">@angelo.massana</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
