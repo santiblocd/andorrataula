@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant Don Denis</title>
+    <title>Lo Racó de les Terres de l'Ebre - Hotel Eureka</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/restaurant-don-denis.php">ES</a></li>
-          <li><a href="fr/participants/restaurant-don-denis.php">FR</a></li>
-          <li><a href="participants/restaurant-don-denis.php">CA</a></li>
+          <li><a href="es/participantes/lo-raco-de-les-terres-de-lebre-hotel-eureka.php">ES</a></li>
+          <li><a href="fr/participants/lo-raco-de-les-terres-de-lebre-hotel-eureka.php">FR</a></li>
+          <li><a href="participants/lo-raco-de-les-terres-de-lebre-hotel-eureka.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,22 +35,26 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant Don Denis</h2>
+              <h2>Lo Racó de les Terres de l'Ebre<br>Hotel Eureka</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú tradicional</h4>
+                  <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Medalló de vieira sobre crema de carbassa,<br>brisa de caviar i aroma de tòfona<br>acompanyat d'una Inedit Damm</li>
                     —<br>
-                    <li>Amanida de pedrers, foie-gras<br>i confit d’ànec amb figues<br> o <br>Canelons de melós de vedella i ceps</li>
+                    <li>Burrata amb crema d’espinacs<br>i escuma de tomàquet morú</li>
                     —<br>
-                    <li>Magret d’ànec<br>amb poma caramel•litzada amb suc<br> o <br>Escamarlans saltats amb ou,<br>patates i pebrots de Padrón</li>
+                    <li>Caneló de marisc amb beixamel de bolets<br>i brots florals</li>
                     —<br>
-                    <li>Cheesecake sobre pa de pessic<br>de pastanaga<br> o <br>Mousse de llimona àcida</li>
+                    <li>Arròs de marisc i carxofa de Benicarló</li>
+                    -<br>
+                    <li>Filet de bou d’Andorra<br>amb Parmentier de remolatxa i pruna confitada</li>
+                    -<br>
+                    <li>Pastisset de crema de figues<br>i crema anglesa</li>
                     —<br>
                   </ul>
                 </div>
@@ -66,15 +70,15 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Canelons de melós de vedella i ceps</li>
+                    <li>Ració de croquetes d’estofat de vedella</li>
                     —<br>
-                    <li>Filet de turbot a la planxa</li>
+                    <li>FSuprema de lluç arrebossat<br>amb farina d’arròs i guarnició</li>
                     —<br>
-                    <li>Crep de sucre o de Nutella</li>
+                    <li>Postres del xef</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>19 €</p>
+                  <p>15 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -87,18 +91,18 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.dondenis.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hoteleureka.com" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>C. Isabelle Sandy, 3 · Escaldes-Engordany</p>
-              <p>(+376) 820 692</p>
-              <p> De dilluns a diumenge, de 12.30 h a 16 h</p>
-              <p>i de 19.30 h a 23 h</p>
-              <p>restaurantdondenis@andorra.ad</p>
+              <p>Av. Carlemany, 36 · Escaldes-Engordany</p>
+              <p>(+376) 880 666</p>
+              <p> De dilluns a diumenge, de 13 h a 16 h</p>
+              <p>i de 20 h a 23 h</p>
+              <p>hoteleureka@andorra.ad</p>
               <br>
-              <p><a href="https://www.dondenis.com/">www.dondenis.com</a></p>
-              <p><a href="#">@restaurantdondenis</a></p>
+              <p><a href="https://www.hoteleureka.com/">www.hoteleureka.com</a></p>
+              <p><a href="#">@hoteleureka</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
