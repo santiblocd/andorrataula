@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant Isard</title>
+    <title>Peixateria La Llotja</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/restaurant-isard.php">ES</a></li>
-          <li><a href="fr/participants/restaurant-isard.php">FR</a></li>
-          <li><a href="participants/restaurant-isard.php">CA</a></li>
+          <li><a href="es/participantes/peixateria-la-llotja.php">ES</a></li>
+          <li><a href="fr/participants/peixateria-la-llotja.php">FR</a></li>
+          <li><a href="participants/peixateria-la-llotja.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant Isard</h2>
+              <h2>Peixateria La Llotja</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -44,21 +44,18 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Blini de salmó marinat<br>acompanyat d'una Inedit Damm</li>
                     —<br>
-                    <li>Porros i carbassa confitats<br>amb dashi i caviar de truita de riu</li>
+                    <li>Cassoleta de bivalves<br> o <br>Trio de tàrtars</li>
                     —<br>
-                    <li>Ceps amb cansalada i llardons</li>
+                    <li>Papillota de llenguado i llegums<br> o <br>Tataki de tonyina Bluefin<br>amb alga wakame</li>
                     —<br>
-                    <li>Calamars farcits de botifarra<br>sobre crema de cranc de riu</li>
+                    <li>Coulant de xocolata<br>amb salsa de gerds<br> o <br>Maroshna al plat</li>
                     —<br>
-                    <li>Cua de bou desossada amb ratassia<br>i trompetes de la mort</li>
-                    -<br>
-                    <li>Pastís Tatin de caqui<br>amb gelat de marialluïsa</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>32 €</p>
+                  <p>40 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -69,15 +66,15 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Macarrons gratinats</li>
+                    <li>Raviolis de salmó</li>
                     —<br>
-                    <li>Llibrets de llom<br>amb formatge i pernil dolç</li>
+                    <li>Hamburguesa de rap i gamba<br>amb patates al forn</li>
                     —<br>
-                    <li>Brownie de xocolata<br>amb gelat de vainilla</li>
+                    <li>Maroshna al plat</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>15 €</p>
+                  <p>17 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -90,18 +87,18 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="mailto:reserves@hotelisard.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:andorralallotja@gmail.com" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>Av. Meritxell, 34 · Andorra la Vella</p>
-              <p>(+376) 876 800</p>
-              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20 h a 22.30 h</p>
-              <p>reserves@hotelisard.com</p>
+              <p>C. Santa Anna, local 1 · Escaldes-Engordany</p>
+              <p>(+376) 820 912</p>
+              <p> De dimarts a dissabte, de 13 h a 15 h</p>
+              <p>i de 20 h a 21.30 h</p>
+              <p>dilluns i diumenge, tancat</p>
+              <p>andorralallotja@gmail.com</p>
               <br>
-              <p><a href="https://www.hotelisard.com/">www.hotelisard.com</a></p>
-              <p><a href="#">@isardandorra</a></p>
+              <p><a href="#">@la_llotja_andorra</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
