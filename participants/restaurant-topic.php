@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant Sol i Neu - Club Hermitage</title>
+    <title>Restaurant Tòpic</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/restaurant-sol-i-neu-club-hermitage.php">ES</a></li>
-          <li><a href="fr/participants/restaurant-sol-i-neu-club-hermitage.php">FR</a></li>
-          <li><a href="participants/restaurant-sol-i-neu-club-hermitage.php">CA</a></li>
+          <li><a href="es/participantes/restaurant-topic.php">ES</a></li>
+          <li><a href="fr/participants/restaurant-topic.php">FR</a></li>
+          <li><a href="participants/restaurant-topic.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,31 +35,27 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant Sol i Neu<br>Club Hermitage</h2>
+              <h2>Restaurant Tòpic</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Bringuera d’Andorra<br>amb salsa vella de tomàquet<br>acompanyada d'una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
                     —<br>
-                    <li>El nostre ramen andorrà:<br>sopa de ceba a la nostra manera amb bolets,<br>cansalada viada i ou a baixa temperatura</li>
+                    <li>Amanida tèbia d’ou escaldat, poma<br>cansalada viada i daus de codonyat<br> o <br>Caneló de pollastre de pagès amb ceps</li>
                     —<br>
-                    <li>Tàrtar de tomàquet amb encenalls<br>de truita de riu fumada i crema d’ametlles</li>
+                    <li>Premsat de xai caramel•litzat<br>amb escalunyes i coca de bolets<br> o <br>Pop a la brasa amb romesco de farigola<br>i trumfes del país</li>
                     —<br>
-                    <li>Llom de llobarro rostit<br>amb suc i pil-pil de les espines</li>
-                    -<br>
-                    <li>Mandonguilles de l’àvia<br>amb tòfona i Parmentier</li>
-                    -<br>
-                    <li>Postres Alaska Soldeu</li>
+                    <li>Brownie banyat en xarop de ratafia de les valls,<br>menta i xocolata calenta<br> o <br>Pinya caramel•litzada amb gelat casolà<br>de vainilla i pluja de festucs</li>
                     —<br>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>40 €</p>
+                  <p>27 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -68,17 +64,17 @@
                 <div class="menu">
                   <h4>Menú junior</h4>
                   <ul>
-                    <li>Croqueta cremosa de pernil i pollastre</li>
+                    <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Macarrons de l’àvia gratinats</li>
+                    <li>Carpaccio de tomàquet<br>amb encenalls de pernil ibèric i formatge</li>
                     —<br>
-                    <li>Costelletes de xai a la brasa</li>
+                    <li>Hamburguesa de vedella d’Andorra<br>amb broqueta de patata casolana</li>
                     —<br>
-                    <li>Gelats artesans</li>
+                    <li>Flam d’ou amb nata o gelat artesà</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>20 €</p>
+                  <p>15 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -91,19 +87,18 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hotelcoma/topic.com/" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>Crta. General, 2 · Soldeu</p>
-              <p>(+376) 851 325</p>
+              <p>Carrer Major, 21 · Ordino</p>
+              <p>(+376) 736 102</p>
               <p>De dilluns a diumenge, de 13 h a 16 h</p>
               <p>i de 20 h a 23 h</p>
-              <p>Dimarts, tancat
-              <p>maitre.solineu@sporthotels.ad</p>
+              <p>matopic@hotelcoma.com</p>
               <br>
-              <p><a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html">www.hotelhermitage.sporthotels.ad</a></p>
-              <p><a href="#">@sporthotelhermitage</a></p>
+              <p><a href="https://www.hotelcoma/topic.com">www.hotelcoma/topic.com</a></p>
+              <p><a href="#">@restauranttopic</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
