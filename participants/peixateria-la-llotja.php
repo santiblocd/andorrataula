@@ -95,7 +95,7 @@
               <p>(+376) 820 912</p>
               <p> De dimarts a dissabte, de 13 h a 15 h</p>
               <p>i de 20 h a 21.30 h</p>
-              <p>dilluns i diumenge, tancat</p>
+              <p>Dilluns i diumenge, tancat</p>
               <p>andorralallotja@gmail.com</p>
               <br>
               <p><a href="#">@la_llotja_andorra</a></p>

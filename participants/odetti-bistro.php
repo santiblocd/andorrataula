@@ -19,8 +19,8 @@
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
           <li><a href="es/participantes/odetti-bistro.php">ES</a></li>
-          <li><a href="fr/participants/rdetti-bistro.php">FR</a></li>
-          <li><a href="participants/detti-bistro.php">CA</a></li>
+          <li><a href="fr/participants/odetti-bistro.php">FR</a></li>
+          <li><a href="participants/odetti-bistro.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -98,7 +98,7 @@
               <p>(+376) 807 575</p>
               <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
               <p>i de 20 h a 22.30 h</p>
-              <p>dimecres, tancat
+              <p>Dimecres, tancat
               <p>toska.andorra2018@gmail.com</p>
               <br>
               <p><a href="#">@odettibistro</a></p>

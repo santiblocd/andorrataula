@@ -95,7 +95,7 @@
               <p>(+376) 829 948</p>
               <p> De dilluns a diumenge, de 13.30 h a 15 h</p>
               <p>i de 20.30 h a 23 h</p>
-              <p>dilluns i diumenge nit, tancat</p>
+              <p>Dilluns i diumenge nit, tancat</p>
               <p>calaconxita@yahoo.es</p>
               <br>
               <p><a href="#">@calaconxita_restaurant.and</a></p>

@@ -95,7 +95,7 @@
               <p>(+376) 835 420</p>
               <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
               <p>i de 20.30 h a 22.30 h</p>
-              <p>dilluns nit i dimarts, tancat</p>
+              <p>Dilluns nit i dimarts, tancat</p>
               <p>bordaraubert@gmail.com</p>
               <br>
               <p><a href="https://www.bordaraubert.com/">www.bordaraubert.com</a></p>

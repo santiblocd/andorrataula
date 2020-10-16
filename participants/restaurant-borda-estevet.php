@@ -97,7 +97,7 @@
               <p>(+376) 864 026</p>
               <p> De dimarts a diumenge, de 13 h a 16 h</p>
               <p>i de 20 h a 23 h</p>
-              <p>diumenge nit, tancat</p>
+              <p>Diumenge nit, tancat</p>
               <p>gruptriomf@gmail.com</p>
               <br>
               <p><a href="#">@bordaestevet</a></p>

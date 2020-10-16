@@ -96,7 +96,7 @@
               <p>(+376) 860 006</p>
               <p> De dilluns a diumenge, de 12 h a 15 h</p>
               <p>i de 20.30 h a 22.30 h</p>
-              <p>dimarts, tancat</p>
+              <p>Dimarts, tancat</p>
               <p>info@1940restaurant.com</p>
               <br>
               <p><a href="https://www.1940restaurant.com/">www.1940restaurant.com</a></p>

@@ -99,7 +99,7 @@
               <p>(+376) 851 211</p>
               <p> De dijous a diumenge, de 13 h a 15 h</p>
               <p>i de 20 h a 22 h</p>
-              <p>dilluns, dimarts i dimecres, tancat</p>
+              <p>Dilluns, dimarts i dimecres, tancat</p>
               <p>lacortdepopaire@andorra.ad</p>
               <br>
               <p><a href="#">@lacortdepopaire</a></p>

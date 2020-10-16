@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant Minim's</title>
+    <title>Restaurant Panxo</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/restaurant-minims.php">ES</a></li>
-          <li><a href="fr/participants/restaurant-minims.php">FR</a></li>
-          <li><a href="participants/restaurant-minims.php">CA</a></li>
+          <li><a href="es/participantes/restaurant-panxo.php">ES</a></li>
+          <li><a href="fr/participants/restaurant-panxo.php">FR</a></li>
+          <li><a href="participants/restaurant-panxo.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant Minim's</h2>
+              <h2>Restaurant Panxo</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -46,19 +46,19 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
                     —<br>
-                    <li>Crema d’herbes de muntanya<br>amb donja cruixent</li>
+                    <li>Filipino de foie-gras,<br>xocolata blanca i gerds</li>
                     —<br>
-                    <li>Timbal d’escalivada<br>amb truita salmonada fumada<br>i fredolics amb vinagreta</li>
+                    <li>Edamames saltades amb ànec,<br>xiitakes, ou i tòfona</li>
                     —<br>
-                    <li>Tempura de bacallà<br>amb maionesa de codony</li>
+                    <li>Tàrtar de tonyina, patates palla<br>i ous trencats</li>
                     —<br>
-                    <li>Culatí de vedella d’Andorra<br>amb bolets saltats</li>
+                    <li>Costella de porc<br>cuita a baixa temperatura<br>i glacejada amb miso</li>
                     -<br>
-                    <li>Bunyols de vent amb gelat de tomata<br>i xocolata 100% cacau</li>
+                    <li>El nostre pastís Tatin<br>amb gelat de te matxa</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>30 €</p>
+                  <p>40 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -69,15 +69,15 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Canelons de cal Calones</li>
+                    <li>Fideus soba saltats amb verduretes<br>i presa ibèrica amb teriyaki</li>
                     —<br>
-                    <li>Pollastre a l’ast amb patates xips </li>
+                    <li>Fingers de pollastre<br>amb salsa tonkatsu</li>
                     —<br>
-                    <li>Poma caramel•litzada</li>
+                    <li>Gelat per escollir</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>15 €</p>
+                  <p>20 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -90,18 +90,19 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="mailto:minims@live.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.restaurantpanxo.com/" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>Antic Carrer Major, 5 · Andorra la Vella</p>
-              <p>(+376) 867 511</p>
-              <p>De dimarts a dissabte, de 13 h a 15.30 h</p>
-              <p>i de 20.30 h a 22.45 h</p>
-              <p>Dilluns i diumenge, tancat
-              <p>minims@live.com</p>
+              <p>C. Isabelle Sandy, 3 · Escaldes-Engordany</p>
+              <p>(+376) 380 192</p>
+              <p>De dilluns a dissabte, de 13 h a 15.30 h</p>
+              <p>i de 20.30 h a 23 h</p>
+              <p>Dilluns migdia i diumenge, tancat
+              <p>restaurantpanxo@gmail.com</p>
               <br>
-              <p><a href="#">@moniminims</a></p>
+              <p><a href="https://www.restaurantpanxo.com">www.restaurantpanxo.com</a></p>
+              <p><a href="#">@restaurantpanxo</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
