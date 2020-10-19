@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Odetti Bistró</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
                     —<br>
-                    <li>Amanida tèbia de pedrers<br>amb bolets i pinyons</li>
+                    <li>Ensalada tibia de mollejas<br>con setas y piñones</li>
                     —<br>
-                    <li>Crema de trumfes d’Andorra<br>amb mosaic vegetal</li>
+                    <li>Crema de patatas de Andorra<br>con mosaico vegetal</li>
                     —<br>
-                    <li>Morro de bacallà<br>amb escalivada tricolor de pebrots</li>
+                    <li>Morro de bacalao<br>con escalivada tricolor de pimientos</li>
                     —<br>
-                    <li>Caneló del Mestre Toni<br>amb beixamel trufada</li>
+                    <li>Canelón del Maestro Toni<br>con bechamel trufada</li>
                     —<br>
-                    <li>Coulant de xocolata<br>amb gelat de vainilla de Tahití</li>
+                    <li>Coulant de chocolate<br>con helado de vainilla de Tahití</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>37 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Aperitivo Andorra a Taula</li>
                     —<br>
-                    <li>Brou d’escudella<br>amb fideus i mandonguilles</li>
+                    <li>Escudella con fideos y albondiguillas</li>
                     —<br>
-                    <li>Canelons gratinats</li>
+                    <li>Canelones gratinados</li>
                     —<br>
-                    <li>Iogurt artesà<br>amb coulis de fruites vermelles</li>
+                    <li>Yogur artesano<br>con coulis de frutos rojos</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>18 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,18 +87,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="mailto:toska.andorra2018@gmail.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:toska.andorra2018@gmail.com" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. Santa Anna, 14 · Escaldes-Engordany</p>
               <p>(+376) 807 575</p>
-              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20 h a 22.30 h</p>
-              <p>Dimecres, tancat
+              <p>De lunes a domingo, de 13 h a 15.30 h</p>
+              <p>y de 20 h a 22.30 h</p>
+              <p>Miércoles, cerrado
               <p>toska.andorra2018@gmail.com</p>
               <br>
               <p><a href="#">@odettibistro</a></p>
