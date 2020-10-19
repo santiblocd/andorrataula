@@ -71,7 +71,7 @@
                     —<br>
                     <li>Canelons de cal Calones</li>
                     —<br>
-                    <li>Pollastre a l’ast amb patates xips </li>
+                    <li>Pollastre a l’ast amb patates xips</li>
                     —<br>
                     <li>Poma caramel•litzada</li>
                   </ul>
@@ -98,7 +98,7 @@
               <p>(+376) 867 511</p>
               <p>De dimarts a dissabte, de 13 h a 15.30 h</p>
               <p>i de 20.30 h a 22.45 h</p>
-              <p>Dilluns i diumenge, tancat
+              <p>Dilluns i diumenge, tancat</p>
               <p>minims@live.com</p>
               <br>
               <p><a href="#">@moniminims</a></p>
