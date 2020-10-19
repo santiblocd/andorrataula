@@ -36,7 +36,7 @@
             <p>Del 30 <br>d'octubre<br> al 29 de<br> novembre</p>
           </div>
           <div class="circle info">
-            <p>Menús <br>gastronòmics <br>maridats <br>amb Inedit <br>-<br> 14es jornades<br> de cuina <br> andorrana</p>
+            <p>Menús <br>tradicionals i<br> gastronòmics <br>maridats amb Inedit <br>-<br> 14es jornades<br> de cuina <br> andorrana</p>
           </div>
           <a href="participants.php">
             <div class="circle boton">
