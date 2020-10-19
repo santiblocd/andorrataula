@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Croqueta de botifarra negra amb poma<br>i formatge de cabra acompanyada d’una Inedit Damm</li>
+                    <li>Croqueta de butifarra negra con manzana<br>y queso de cabra acompañada de una Inedit Damm </li>
                     —<br>
-                    <li>Sopa minestrone de verdures de temporada,<br>brou i pasta</li>
+                    <li>Sopa minestrone de verduras de temporada,<br>caldo y pasta</li>
                     —<br>
-                    <li>Carpaccio de bacallà<br>sobre fons de tomàquet natural,<br>escuma de pebrot del piquillo i pa pintu</li>
+                    <li>Carpaccio de bacalao<br>sobre fondo de tomate natural,<br>espuma de pimiento del piquillo y pan pintu</li>
                     —<br>
-                    <li>Raviolis farcits de carn de vedella i verdures<br>amb salsa de tòfona i encenalls de parmesà</li>
+                    <li>Raviolis rellenos de carne de ternera y verduras<br>con salsa de trufa y virutas de parmesano</li>
                     —<br>
-                    <li>Presa de porc de raça bísara<br>amb emulsió de xirivia i chimichurri de festucs</li>
+                    <li>Presa de cerdo de raza bísara<br>con emulsión de chirivía y chimichurri de pistachos</li>
                     —<br>
-                    <li>Crema sabaiona gratinada de pera i ametlles</li>
+                    <li>Crema sabayón gratinada de pera y almendras</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>30 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Croqueta de pernil<br>de porc de raça bísara</li>
+                    <li>Croqueta de jamón<br>de cerdo de raza bísara</li>
                     —<br>
-                    <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
+                    <li>Crema de calabaza con trocitos de castaña<br>a la sal y virutas de jamón de cerdo de raza bísara</li>
                     —<br>
-                    <li>Ravioli farcit de carn amb sala de tomàquet,<br>formatge parmesà i alfàbrega</li>
+                    <li>Ravioli relleno de carne con salsa de tomate,<br>queso parmesano y albahaca</li>
                     —<br>
-                    <li>Crep amb Nutella</li>
+                    <li>Crep con Nutella</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>15 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -96,8 +96,8 @@
             <div class="direccion">
               <p>Av. Rocafort, 27 · Sant Julià de Lòria</p>
               <p>(+376) 742 274</p>
-              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20 h a 23 h</p>
+              <p> De lunes a domingo, de 13 h a 15.30 h</p>
+              <p>y de 20 h a 23 h</p>
               <p>administracio@grupkanalla.com</p>
               <br>
               <p><a href="https://www.pizzeriaangelo.restaurant/">www.pizzeriaangelo.restaurant</a></p>
