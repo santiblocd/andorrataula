@@ -48,12 +48,12 @@
                     —<br>
                     <li>Porros i carbassa confitats<br>amb dashi i caviar de truita de riu</li>
                     —<br>
-                    <li>Ceps amb cansalada i llardons</li>
+                    <li>Ceps amb viada i llardons</li>
                     —<br>
                     <li>Calamars farcits de botifarra<br>sobre crema de cranc de riu</li>
                     —<br>
                     <li>Cua de bou desossada amb ratassia<br>i trompetes de la mort</li>
-                    -<br>
+                    —<br>
                     <li>Pastís Tatin de caqui<br>amb gelat de marialluïsa</li>
                   </ul>
                 </div>
@@ -65,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

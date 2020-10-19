@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Peixateria La Llotja</title>
+    <title>Peixateria Desgustació La Llotja</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Peixateria La Llotja</h2>
+              <h2>Peixateria Degustació<br>La Llotja</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -48,10 +48,9 @@
                     —<br>
                     <li>Cassoleta de bivalves<br> o <br>Trio de tàrtars</li>
                     —<br>
-                    <li>Papillota de llenguado i llegums<br> o <br>Tataki de tonyina Bluefin<br>amb alga wakame</li>
+                    <li>Papillota de llenguado i llegums<br> o <br>Tataki de tonyina Bluefin<br>amb algues wakame</li>
                     —<br>
                     <li>Coulant de xocolata<br>amb salsa de gerds<br> o <br>Maroshna al plat</li>
-                    —<br>
                   </ul>
                 </div>
                 <div class="preu">
@@ -62,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

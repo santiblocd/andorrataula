@@ -52,7 +52,7 @@
                     —<br>
                     <li>Pollastre de pagès estofat<br>amb bolets<br> o <br>Pota de pop amb ceba, pebre vermell<br>de la Vera, cloïsses i mongetes</li>
                     —<br>
-                    <li>Torrada de brioix<br>amb gelat de canyella<br> o <br>Mouse de mel i mató<br>amb nous caramel•litzades</li>
+                    <li>Torrada de brioix<br>amb gelat de canyella<br> o <br>Mousse de mel i mató<br>amb nous caramel•litzades</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -63,7 +63,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

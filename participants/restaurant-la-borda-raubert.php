@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant Borda Raubert</h2>
+              <h2>Restaurant<br>Borda Raubert</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -51,7 +51,6 @@
                     <li>Estofat d’anoll d’Andorra<br>amb bolets de temporada<br> o <br> Graellada de carn a la brasa<br>amb verdures</li>
                     —<br>
                     <li>Iogurt d’ovella artesà<br>amb confitura de saüc<br> o <br>Pastís de la casa<br>amb confitura de grosella i mora</li>
-                    -<br>
                   </ul>
                 </div>
                 <div class="preu">
@@ -62,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Galeta salada<br>amb fruita seca i formatge</li>
                     —<br>

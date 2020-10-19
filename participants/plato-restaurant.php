@@ -65,9 +65,9 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
-                    <li>Croquetes de pollastre de pagès casolanes</li>
+                    <li>Croquetes casonales de pollastre de pagès</li>
                     —<br>
                     <li>Brou d’escudella<br>amb galets farcits de carn d’olla</li>
                     —<br>

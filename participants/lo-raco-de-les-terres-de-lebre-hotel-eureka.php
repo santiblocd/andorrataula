@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Lo Racó de les Terres de l'Ebre<br>Hotel Eureka</h2>
+              <h2>Lo Racó<br>de les Terres de l'Ebre<br>Hotel Eureka</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -51,11 +51,10 @@
                     <li>Caneló de marisc amb beixamel de bolets<br>i brots florals</li>
                     —<br>
                     <li>Arròs de marisc i carxofa de Benicarló</li>
-                    -<br>
-                    <li>Filet de bou d’Andorra<br>amb Parmentier de remolatxa i pruna confitada</li>
-                    -<br>
-                    <li>Pastisset de crema de figues<br>i crema anglesa</li>
                     —<br>
+                    <li>Filet de bou d’Andorra<br>amb Parmentier de remolatxa i pruna confitada</li>
+                    —<br>
+                    <li>Pastisset de crema de figues<br>i crema anglesa</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -66,13 +65,13 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
                     <li>Ració de croquetes d’estofat de vedella</li>
                     —<br>
-                    <li>FSuprema de lluç arrebossat<br>amb farina d’arròs i guarnició</li>
+                    <li>Suprema de lluç arrebossat<br>amb farina d’arròs i guarnició</li>
                     —<br>
                     <li>Postres del xef</li>
                   </ul>

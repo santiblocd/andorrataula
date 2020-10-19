@@ -51,7 +51,6 @@
                     <li>Llom de bacallà confitat<br>amb carxofes saltades i alls tendres<br> o <br>Òpera de muntanya:<br>espatlla de cabrit amb cremós de patates i tòfona<br>acompanyada de bolets de temporada</li>
                     —<br>
                     <li>Pa de pessic de xocolata i nous,<br>crema de vainilla i fruita seca<br> o <br>Cruixent de milfulls amb mató<br>i mel del Pirineu</li>
-                    —<br>
                   </ul>
                 </div>
                 <div class="preu">
@@ -62,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

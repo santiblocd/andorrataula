@@ -48,12 +48,12 @@
                     —<br>
                     <li>Filipino de foie-gras,<br>xocolata blanca i gerds</li>
                     —<br>
-                    <li>Edamames saltades amb ànec,<br>xiitakes, ou i tòfona</li>
+                    <li>Edamames saltats amb ànec,<br>xiitakes, ou i tòfona</li>
                     —<br>
                     <li>Tàrtar de tonyina, patates palla<br>i ous trencats</li>
                     —<br>
                     <li>Costella de porc<br>cuita a baixa temperatura<br>i glacejada amb miso</li>
-                    -<br>
+                    —<br>
                     <li>El nostre pastís Tatin<br>amb gelat de te matxa</li>
                   </ul>
                 </div>
@@ -65,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

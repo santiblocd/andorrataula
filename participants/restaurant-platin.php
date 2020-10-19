@@ -65,11 +65,11 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Ravioli de gambes, salsa de ceps i estragó</li>
+                    <li>Ravioli de gambes amb salsa de ceps i estragó</li>
                     —<br>
                     <li>Onglet de bou a la brasa, verduretes<br>i patates rostides de les valls</li>
                     —<br>

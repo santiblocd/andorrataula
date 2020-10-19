@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Croqueta de botifarra negra<br>amb poma i formatge de cabra<br>acompanyada d’una Inedit Damm</li>
+                    <li>Croqueta de botifarra negra amb poma i formatge <br>de cabra acompanyada d’una Inedit Damm</li>
                     —<br>
                     <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
                     —<br>
@@ -53,7 +53,7 @@
                     <li>Risotto de ceps de temporada</li>
                     —<br>
                     <li>Culatí al grill amb emulsió<br>emulsió de patata i parmesà</li>
-                    -<br>
+                    —<br>
                     <li>Mató i mel orgànica amb compota de poma,<br>pera i crumble de nous</li>
                   </ul>
                 </div>
@@ -65,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Croqueta de pernil<br>de porc de raça bísara</li>
                     —<br>

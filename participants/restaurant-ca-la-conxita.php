@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant ca la Conxita</title>
+    <title>Restaurant Ca la Conxita</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant ca la Conxita</h2>
+              <h2>Restaurant Ca la Conxita</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -51,7 +51,6 @@
                     <li>Pop a la planxa<br>amb verduretes al romesco<br> o <br>Cua de bou estofada amb bolets</li>
                     —<br>
                     <li>Postres per escollir</li>
-                    -<br>
                   </ul>
                 </div>
                 <div class="preu">
@@ -62,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

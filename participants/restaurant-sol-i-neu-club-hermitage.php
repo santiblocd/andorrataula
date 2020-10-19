@@ -51,11 +51,10 @@
                     <li>Tàrtar de tomàquet amb encenalls<br>de truita de riu fumada i crema d’ametlles</li>
                     —<br>
                     <li>Llom de llobarro rostit<br>amb suc i pil-pil de les espines</li>
-                    -<br>
-                    <li>Mandonguilles de l’àvia<br>amb tòfona i Parmentier</li>
-                    -<br>
-                    <li>Postres Alaska Soldeu</li>
                     —<br>
+                    <li>Mandonguilles de l’àvia<br>amb tòfona i Parmentier</li>
+                    —<br>
+                    <li>Postres Alaska Soldeu</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -66,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Croqueta cremosa de pernil i pollastre</li>
                     —<br>

@@ -53,7 +53,8 @@
                     <li>Magret d’ànec, ceps i foie poêlé</li>
                     —<br>
                     <li>Turbot amb bolets de temporada,<br> fruita seca i vinagreta dolça</li>
-                    -<br>Tiramisú<br> o <br>Batut de mango<br>amb coulant de xocolata i gelat de gerds</li>
+                    —<br>
+                    <li>Tiramisú<br> o <br>Batut de mango<br>amb coulant de xocolata i gelat de gerds</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -64,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

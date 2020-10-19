@@ -48,10 +48,9 @@
                     —<br>
                     <li>Amanida de pedrers, foie-gras<br>i confit d’ànec amb figues<br> o <br>Canelons de melós de vedella i ceps</li>
                     —<br>
-                    <li>Magret d’ànec<br>amb poma caramel•litzada amb suc<br> o <br>Escamarlans saltats amb ou,<br>patates i pebrots de Padrón</li>
+                    <li>Magret d’ànec<br>amb poma caramel•litzada i suc<br> o <br>Escamarlans saltats amb ou,<br>patates i pebrots de Padrón</li>
                     —<br>
                     <li>Cheesecake sobre pa de pessic<br>de pastanaga<br> o <br>Mousse de llimona àcida</li>
-                    —<br>
                   </ul>
                 </div>
                 <div class="preu">
@@ -62,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

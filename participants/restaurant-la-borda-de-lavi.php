@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant La borda de l'avi</h2>
+              <h2>Restaurant<br>La borda de l'avi</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -50,10 +50,9 @@
                     —<br>
                     <li>Carpaccio de bacallà<br>amb pebrots vermells escalivats<br>i vinagreta de miso<br> o <br>Canelons tradicionals gratinats<br>amb beixamel de ceps</li>
                     —<br>
-                    <li>Calamars a la planxa<br>damunt un llit de favetes saltades<br> o <br>Entrecot de vedella del país a la brasa<br>amb patata al caliu, tomàquet a la provençal<br>i pebrots del Padrón
+                    <li>Calamars a la planxa<br>damunt un llit de favetes saltades<br> o <br>Entrecot de vedella del país a la brasa<br>amb patata al caliu, tomàquet a la provençal<br>i pebrots del Padrón</li>
                     —<br>
                     <li>Flam de l’àvia de castanyes<br> o <br>Pastís Tatin de pera amb gelat de nata</li>
-                    -<br>
                   </ul>
                 </div>
                 <div class="preu">
@@ -64,7 +63,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

@@ -53,7 +53,7 @@
                     <li>Morro de bacallà<br>amb escalivada tricolor de pebrots</li>
                     —<br>
                     <li>Caneló del Mestre Toni<br>amb beixamel trufada</li>
-                    -<br>
+                    —<br>
                     <li>Coulant de xocolata<br>amb gelat de vainilla de Tahití</li>
                   </ul>
                 </div>
@@ -65,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant La Cort de Popaire</h2>
+              <h2>Restaurant<br>La Cort de Popaire</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -48,14 +48,13 @@
                     —<br>
                     <li>Cheesecake de truita fumada<br>amb anet i mostassa</li>
                     —<br>
-                    <li>Gyozes andorranes de donja,<br>botifarra negra i trinxat</li>
+                    <li>Gyozes andorranes farcides de donja,<br>botifarra negra i trinxat</li>
                     —<br>
                     <li>Salmó amb fonoll confitat<br>i reducció de ratassia de la Carmeta</li>
-                    -<br>
-                    <li>Magret d’ànec a la brasa<br>amb de patates fregides de codony</li>
-                    -<br>
+                    —<br>
+                    <li>Magret d’ànec a la brasa<br>amb patates fregides de codony</li>
+                    —<br>
                     <li>Brownie de xocolata i figues<br>amb coulis de macarulla</li>
-                    -<br>
                   </ul>
                 </div>
                 <div class="preu">
@@ -66,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>

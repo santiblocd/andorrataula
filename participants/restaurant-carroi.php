@@ -51,7 +51,6 @@
                     <li>Llom de bacallà confitat amb saltat de col xinesa,<br>gírgoles i salsa suau d’all<br> o <br>Botifarra d’Andorra de Cal Jordi<br>amb puré trufat, ou escalfat, foie-gras<br>i caramel de vi</li>
                     —<br>
                     <li>Macedònia de fruita amb coriandre<br>i sorbet de meló Cantaloup</li>
-                    -<br>
                   </ul>
                 </div>
                 <div class="preu">
@@ -62,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Fuet d’Andorra de Cal Jordi</li>
                     —<br>

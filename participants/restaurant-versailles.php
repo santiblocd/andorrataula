@@ -48,11 +48,11 @@
                     —<br>
                     <li>Copa de crema de porros<br>amb brillants d’ibèric</li>
                     —<br>
-                    <li>PCombinat de foie-gras semicuit<br>i el nostre tàrtar</li>
+                    <li>Combinat de foie-gras semicuit<br>i el nostre tàrtar</li>
                     —<br>
                     <li>Broqueta d’onglet<br>amb crema de vi de Borgonya</li>
                     —<br>
-                    <li>Creme brulée  amb cruixent dolç</li>
+                    <li>Crème brulée  amb cruixent dolç</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -63,7 +63,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
