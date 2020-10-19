@@ -42,7 +42,7 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú tradicional</h4>
                   <ul>
                     <li>Blini de salmó marinat<br>acompanyat d'una Inedit Damm</li>
                     —<br>

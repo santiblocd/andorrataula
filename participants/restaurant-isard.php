@@ -52,7 +52,7 @@
                     —<br>
                     <li>Calamars farcits de botifarra<br>sobre crema de cranc de riu</li>
                     —<br>
-                    <li>Cua de bou desossada amb ratassia<br>i trompetes de la mort</li>
+                    <li>Cua de bou desossada amb Ratassia<br>i trompetes de la mort</li>
                     —<br>
                     <li>Pastís Tatin de caqui<br>amb gelat de marialluïsa</li>
                   </ul>
