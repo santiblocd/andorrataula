@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Andorra Park Hotel - La Pérgola</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>AAperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
                     —<br>
-                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
+                    <li>Ensalada de alcachofa con bacalao<br>y boniato crujiente</li>
                     —<br>
-                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
+                    <li>Tartar de calabacín con queso feta,<br>tomate seco y aceituna negra</li>
                     —<br>
-                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
+                    <li>Huevos ecológicos rotos<br>con habitas confitadas y pescadito frito</li>
                     —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets</li>
+                    <li>Pollo de corral estofado<br>con setas</li>
                     —<br>
-                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
+                    <li>Piña flambeada<br>con helado de coco y crumble</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>40 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Aperitivo Andorra a Taula</li>
                     —<br>
-                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
+                    <li>Caldo de pollo<br>con albóndigas y galets</li>
                     —<br>
-                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
+                    <li>Merluza de palangre a la plancha<br>o rebozada con puré de tenedor</li>
                     —<br>
-                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
+                    <li>Helado de vainilla<br>con chocolate caliente y teja</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>20 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,17 +87,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. de les Canals, 24 · Andorra la Vella</p>
               <p>(+376) 877 777</p>
-              <p> De dilluns a diumenge, de 12.30 h</p>
-              <p>a 15.30 h i de 20 h a 23 h</p>
+              <p>De lunes a domingo, de 12.30 h a 15.30 h</p>
+              <p>y de 20 h a 23 h</p>
               <p>reservas@andorraparkhotel.com</p>
               <br>
               <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
