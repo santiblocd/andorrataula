@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Plat'in</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
                     —<br>
-                    <li>Cruixent de peus de porc<br>de raça Duroc amb cargols, mesclum<br>i pèsols negres de Can Sona</li>
+                    <li>Crujiente de manitas de cerdo<br>de raza Duroc con caracoles, mezclum<br>y guisantes negros de Can Sona</li>
                     —<br>
-                    <li>Tricorni de bacallà i ceps,<br>cremós de cibulet i fonoll de muntanya</li>
+                    <li>Tricornio de bacalao y setas,<br>cremoso de cebollino e hinojo de montaña</li>
                     —<br>
-                    <li>Parmentier amb xai de Llumeneres<br>confitat amb romaní</li>
+                    <li>Parmentier con cordero de Llumeneres<br>confitado con romero</li>
                     —<br>
-                    <li>Torró, gelat, taronja i xarop d’anet</li>
+                    <li>Turrón, helado, naranja y jarabe de eneldo</li>
                     -<br>
-                    <li>Pastís soufflé de formatge fresc<br>de Can Raubert i salsa de berbena</li>
+                    <li>Tarta soufflé de queso fresco<br>de Can Raubert y salsa de verbena</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>36 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Aperitivo Andorra a Taula</li>
                     —<br>
-                    <li>Ravioli de gambes amb salsa de ceps i estragó</li>
+                    <li>Ravioli de gambas, salsa de boletus y estragón</li>
                     —<br>
-                    <li>Onglet de bou a la brasa, verduretes<br>i patates rostides de les valls</li>
+                    <li>Onglet de buey a la brasa, verduras<br>y patatas asadas del país</li>
                     —<br>
-                    <li>Profiteroles amb melilot i xocolata calenta</li>
+                    <li>Profiteroles con meliloto y chocolate caliente</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>18 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,18 +87,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="https://www.plat-in.net" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.plat-in.net" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. Bonaventura Riberaigua, 8 · Andorra la Vella</p>
               <p>(+376) 861 001</p>
-              <p>De dilluns a dissabte, de 13 h a 15.30 h</p>
-              <p>i de 20 h a 22.30 h</p>
-              <p>Dilluns nit i diumenge, tancat
+              <p>De lunes a sábado, de 13 h a 15.30 h</p>
+              <p>y de 20 h a 22.30 h</p>
+              <p>DiLunes noche y domingo, cerrado</p>
               <p>plat-in@plat-in.net</p>
               <br>
               <p><a href="https://www.plat-in.net">www.plat-in.net</a></p>

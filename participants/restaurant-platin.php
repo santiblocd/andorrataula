@@ -98,7 +98,7 @@
               <p>(+376) 861 001</p>
               <p>De dilluns a dissabte, de 13 h a 15.30 h</p>
               <p>i de 20 h a 22.30 h</p>
-              <p>Dilluns nit i diumenge, tancat
+              <p>Dilluns nit i diumenge, tancat</p>
               <p>plat-in@plat-in.net</p>
               <br>
               <p><a href="https://www.plat-in.net">www.plat-in.net</a></p>
