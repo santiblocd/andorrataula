@@ -98,7 +98,7 @@
               <p>(+376) 380 192</p>
               <p>De dilluns a dissabte, de 13 h a 15.30 h</p>
               <p>i de 20.30 h a 23 h</p>
-              <p>Dilluns migdia i diumenge, tancat
+              <p>Dilluns migdia i diumenge, tancat</p>
               <p>restaurantpanxo@gmail.com</p>
               <br>
               <p><a href="https://www.restaurantpanxo.com">www.restaurantpanxo.com</a></p>
