@@ -28,7 +28,7 @@ $(document).ready(function(){
 
 $("#intro-slider").vegas({
       slides: [
-          { src: "./img/intro/intro.png" }
+          { src: "./img/intro/intro.jpg" }
       ]
 });
 
