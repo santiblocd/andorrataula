@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel - La Pérgola</title>
+    <title>Restaurant la borda de l'avi</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
-          <li><a href="fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
-          <li><a href="participants/andorra-park-hotel-la-pergola.php">CA</a></li>
+          <li><a href="es/participantes/restaurant-la-borda-de-lavi.php">ES</a></li>
+          <li><a href="fr/participants/restaurant-la-borda-de-lavi.php">FR</a></li>
+          <li><a href="participants/restaurant-la-borda-de-lavi.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,30 +35,28 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Andorra Park Hotel<br> La Pérgola</h2>
+              <h2>Restaurant<br>La borda de l'avi</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula<br>acompanyat d’una Inedit Damm</li>
                     —<br>
-                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
+                    <li>Amanida tèbia de bacallà<br>brou i pasta</li>
                     —<br>
-                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
+                    <li>Carpaccio de bacallà<br>amb pebrots vermells escalivats<br>i vinagreta de miso<br> o <br>Canelons tradicionals gratinats<br>amb beixamel de ceps</li>
                     —<br>
-                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
+                    <li>Calamars a la planxa<br>damunt un llit de favetes saltades<br> o <br>Entrecot de vedella del país a la brasa<br>amb patata al caliu, tomàquet a la provençal<br>i pebrots del Padrón</li>
                     —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets</li>
-                    —<br>
-                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
+                    <li>Flam de l’àvia de castanyes<br> o <br>Pastís Tatin de pera amb gelat de nata</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>40 €</p>
+                  <p>38 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -69,11 +67,11 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
+                    <li>Crema de carbassa<br>amb encenalls de pernil ibèric</li>
                     —<br>
-                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
+                    <li>Minientrecot del país a la brasa<br>amb patates fregides</li>
                     —<br>
-                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
+                    <li>Coulant de xocolata<br>amb sorbet de llimona</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -90,18 +88,18 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.restaurantelabordadelavi.com/" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>C. de les Canals, 24 · Andorra la Vella</p>
-              <p>(+376) 877 777</p>
-              <p> De dilluns a diumenge, de 12.30 h</p>
-              <p>a 15.30 h i de 20 h a 23 h</p>
-              <p>reservas@andorraparkhotel.com</p>
+              <p>Av. del Ravell, 38 · La Massana</p>
+              <p>(+376) 835 154</p>
+              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
+              <p>i de 20 h a 22.30 h</p>
+              <p>bordaavi@andorra.ad</p>
               <br>
-              <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
-              <p><a href="#">@andorraparkhotel</a></p>
+              <p><a href="https://www.restaurantelabordadelavi.com/">www.restaurantelabordadelavi.com</a></p>
+              <p><a href="#">@bordadelavi</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->

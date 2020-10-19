@@ -48,9 +48,7 @@
                     —<br>
                     <li>Amanida de bolets escabetxats amb cruixent<br>de llom ibèric i vinagreta de festucs<br> o <br>Lasanya de carxofes i gambes<br>amb salsa americana</li>
                     —<br>
-                    <li>Civet de caça amb cebetes,<br>bolets i trumfes</li>
-                    —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets<br> o <br>Pota de pop amb ceba, pebre vermell<br>de la Vera, cloïsses i mongetes</li>
+                    <li>Civet de caça amb cebetes,<br>bolets i trumfes<br> o <br>Pota de pop amb ceba, pebre vermell<br>de la Vera, cloïsses i mongetes</li>
                     —<br>
                     <li>Torrada de brioix<br>amb gelat de canyella<br> o <br>Mousse de mel i mató<br>amb nous caramel•litzades</li>
                   </ul>
