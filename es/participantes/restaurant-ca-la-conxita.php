@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ces" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Ca la Conxita</title>
