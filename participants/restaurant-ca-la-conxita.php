@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="ces" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Ca la Conxita</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -44,37 +44,37 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d’una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
                     —<br>
-                    <li>Pasta variada amb quatre formatges<br> o <br>Amanida de tomata amb mozzarella<br>i pernil d’ànec amb salsa </li>
+                    <li>Pasta variada con cuatro quesos<br> o <br>Ensalada de tomate con mozzarella<br>y jamón de pato con salsa</li>
                     —<br>
-                    <li>Pop a la planxa<br>amb verduretes al romesco<br> o <br>Cua de bou estofada amb bolets</li>
+                    <li>Pulpo a la plancha<br>amb verduretes al romesco<br> o <br>Rabo de buey estofado con setas</li>
                     —<br>
-                    <li>Postres per escollir</li>
+                    <li>Postres a escoger</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>30 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Aperitivo Andorra a Taula</li>
                     —<br>
-                    <li>Macarrons de la Conxita</li>
+                    <li>Macarrones de la Conxita</li>
                     —<br>
-                    <li>Nuggets de pollastre<br>amb patates gratinades al forn</li>
+                    <li>Nuggets de pollo<br>con patates gratinades al horno</li>
                     —<br>
-                    <li>Postres per escollir</li>
+                    <li>Postres a escoger</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>16 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -83,18 +83,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="mailto:calaconxita@yahoo.es" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:calaconxita@yahoo.es" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>TC. La Llacuna, 12 · Andorra la Vella</p>
               <p>(+376) 829 948</p>
-              <p> De dilluns a diumenge, de 13.30 h a 15 h</p>
-              <p>i de 20.30 h a 23 h</p>
-              <p>Dilluns i diumenge nit, tancat</p>
+              <p> De lunes a domingo, de 13.30 h a 15 h</p>
+              <p>y de 20.30 h a 23 h</p>
+              <p>Lunes y domingo noche, cerrado</p>
               <p>calaconxita@yahoo.es</p>
               <br>
               <p><a href="#">@calaconxita_restaurant.and</a></p>
