@@ -67,7 +67,7 @@
                     —<br>
                     <li>Cues de llagostins arrebossades<br>i amanida</li>
                     —<br>
-                    <li>Hamburguesa de vedella d’Andorra al grill<br>amb puré de patata i juliana de pernil ibèric</li>
+                    <li>Hamburguesa de vedella d’Andorra al grill<br>amb puré de patates i juliana de pernil ibèric</li>
                     —<br>
                     <li>Macedònia</li>
                   </ul>
