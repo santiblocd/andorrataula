@@ -48,7 +48,7 @@
                     —<br>
                     <li>Cheesecake de truita fumada<br>amb anet i mostassa</li>
                     —<br>
-                    <li>Gyozes andorranes farcides de donja,<br>botifarra negra i trinxat</li>
+                    <li>Gyozes andorranes amb donja,<br>botifarra negra i trinxat</li>
                     —<br>
                     <li>Salmó amb fonoll confitat<br>i reducció de ratassia de la Carmeta</li>
                     —<br>
