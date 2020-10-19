@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Borda Raubert</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -44,37 +44,37 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Galeta salada amb fruita seca i formartge<br>acompanyada d’una Inedit Damm</li>
+                    <li>Galleta salada con frutos secos y queso<br>acompañada de una Inedit Damm</li>
                     —<br>
-                    <li>Amanida de tardor<br>amb formatge d’ovella i magrana<br> o <br>Crema de carabassa<br>amb encenalls de pernil</li>
+                    <li>Ensalada de otoño con queso de oveja y granada<br> o <br>Crema de calabaza<br>con virutas de jamón</li>
                     —<br>
-                    <li>Estofat d’anoll d’Andorra<br>amb bolets de temporada<br> o <br> Graellada de carn a la brasa<br>amb verdures</li>
+                    <li>Estofado de añojo de Andorra<br>con setas de temporada<br> o <br>Parrillada de carne a la brasa<br>con verduras</li>
                     —<br>
-                    <li>Iogurt d’ovella artesà<br>amb confitura de saüc<br> o <br>Pastís de la casa<br>amb confitura de grosella i mora</li>
+                    <li>Yogur de oveja artesano<br>con confitura de saúco<br> o <br>Tarta de la casa<br>con confitura de grosella y mora</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>30 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Galeta salada<br>amb fruita seca i formatge</li>
+                    <li>Galleta salada<br>con frutos secos y queso</li>
                     —<br>
-                    <li>Sopa de festa major amb galets</li>
+                    <li>Sopa de fiesta mayor con galets</li>
                     —<br>
-                    <li>Botifarra del país<br>amb patates fregides</li>
+                    <li>Butifarra del país<br>con patatas fritas</li>
                     —<br>
-                    <li>Gelat de xocolata<br>amb encenalls de xocolata</li>
+                    <li>GHelado de chocolate<br>con virutas de chocolate</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>18 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -83,18 +83,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="https://www.bordaraubert.com/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.bordaraubert.com/" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Crta. d'Arinsal, km 1,5 · La Massana</p>
               <p>(+376) 835 420</p>
-              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20.30 h a 22.30 h</p>
-              <p>Dilluns nit i dimarts, tancat</p>
+              <p> De lunes a domingo, de 13 h a 15.30 h</p>
+              <p>y de 20.30 h a 22.30 h</p>
+              <p>Lunes noche ny martes, cerrado</p>
               <p>bordaraubert@gmail.com</p>
               <br>
               <p><a href="https://www.bordaraubert.com/">www.bordaraubert.com</a></p>
