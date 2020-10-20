@@ -28,7 +28,7 @@
   	</header>
     <div data-barba="container" data-barba-namespace="home"> 
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en família</span></h1>
           </div>
           <div class="circle date">
             <p>Desde el <br>30 de octubre<br> al 29 de<br> noviembre</p>
@@ -36,7 +36,7 @@
           <div class="circle info">
             <p>Menús <br>gastronòmics <br>maridats <br>amb Inedit <br>-<br> 14es jornades<br> de cuina <br> andorrana</p>
           </div>
-          <a href="participants.php">
+          <a href="es/participants.php">
             <div class="circle boton">
               <p>Descobreix <br>els establiments<br> participants.</p>
             </div>
