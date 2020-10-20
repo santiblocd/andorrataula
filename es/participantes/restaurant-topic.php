@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Tòpic</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -44,38 +44,38 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
                     —<br>
-                    <li>Amanida tèbia d’ou escaldat, poma<br>cansalada viada i daus de codonyat<br> o <br>Caneló de pollastre de pagès amb ceps</li>
+                    <li>Ensalada tibia de huevo poché, manzana,<br>panceta y dados de membrillo<br> o <br>Canelón de pollo campero con boletus</li>
                     —<br>
-                    <li>Premsat de xai caramel•litzat<br>amb escalunyes i coca de bolets<br> o <br>Pop a la brasa amb romesco de farigola<br>i trumfes del país</li>
+                    <li>Prensado de cordero caramelizado<br>con chalotas y coca de setas<br> o <br>Pulpo a la brasa con romesco de tomillo<br>y patatas del país</li>
                     —<br>
-                    <li>Brownie banyat en xarop de ratafia de les valls,<br>menta i xocolata calenta<br> o <br>Pinya caramel•litzada amb gelat casolà<br>de vainilla i pluja de festucs</li>
+                    <li>Brownie bañado en jarabe de ratafía del pais,<br>menta y chocolate caliente<br> o <br>Piña caramelizada con helado casero<br>de vainilla y lluvia de pistachos</li>
                     —<br>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>27 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Aperitivo Andorra a Taula</li>
                     —<br>
-                    <li>Carpaccio de tomàquet<br>amb encenalls de pernil ibèric i formatge</li>
+                    <li>Carpaccio de tomate<br>con virutas de jamón ibérico y queso</li>
                     —<br>
-                    <li>Hamburguesa de vedella d’Andorra<br>amb broqueta de patata casolana</li>
+                    <li>Hamburguesa de ternera de Andorra<br>con brocheta de patata casera</li>
                     —<br>
-                    <li>Flam d’ou amb nata o gelat artesà</li>
+                    <li>Flan de huevo con nata o helado artesano</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>15 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -84,17 +84,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="https://www.hotelcoma/topic.com/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hotelcoma/topic.com/" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Carrer Major, 21 · Ordino</p>
               <p>(+376) 736 102</p>
-              <p>De dilluns a diumenge, de 13 h a 16 h</p>
-              <p>i de 20 h a 23 h</p>
+              <p>De lunes a domingo, de 13 h a 16 h</p>
+              <p>y de 20 h a 23 h</p>
               <p>matopic@hotelcoma.com</p>
               <br>
               <p><a href="https://www.hotelcoma/topic.com">www.hotelcoma/topic.com</a></p>
