@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Croqueta de botifarra negra amb poma i formatge <br>de cabra acompanyada d’una Inedit Damm</li>
+                    <li>Croqueta de botifarra negra amb poma i formatge <br>de cabra acompanyada d’una INEDIT de Damm</li>
                     —<br>
                     <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
                     —<br>

@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Coca de recapte amb sardina ahumada<br>acompañada de una Inedit Damm</li>
+                    <li>Coca de recapte amb sardina ahumada<br>acompañada de una INEDIT de Damm</li>
                     —<br>
                     <li>Ensalada del Périgord, mollejas de pato salteadas,<br>beicon, pasas, piñones y jamón ibérico</li>
                     —<br>

@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Bringuera de Andorra<br>con salsa vieja de tomate<br>acompañada de una Inedit Damm</li>
+                    <li>Bringuera de Andorra<br>con salsa vieja de tomate<br>acompañada de una IINEDIT de Damm</li>
                     —<br>
                     <li>Nuestro ramen andorrano:<br>sopa de cebolla a nuestra manera con setas,<br>panceta y huevo a baja temperatura</li>
                     —<br>

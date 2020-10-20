@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una INEDIT de Damm</li>
                     —<br>
                     <li>Trinxat de montaña a baja temperatura<br>y crujiente de panceta<br> o <br>Ensalada templada de perdiz con vinagreta</li>
                     —<br>

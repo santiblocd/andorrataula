@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Apritivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
+                    <li>Apritivo Andorra a Taula<br>acompañado de una INEDIT de Damm</li>
                     —<br>
                     <li>Ensalada de setas escabechadas con crujiente<br>de lomo ibérico y vinagreta de pistachos<br> o <br>Lasaña de alcachofas y gambas<br>con salsa americana</li>
                     —<br>

@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
                     <li>Amanida tèbia d’ou escaldat, poma<br>cansalada viada i daus de codonyat<br> o <br>Caneló de pollastre de pagès amb ceps</li>
                     —<br>

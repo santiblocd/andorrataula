@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
                     <li>Cruixent de peus de porc<br>de raça Duroc amb cargols, mesclum<br>i pèsols negres de Can Sona</li>
                     —<br>

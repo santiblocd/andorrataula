@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>AAperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
+                    <li>AAperitivo Andorra a Taula<br>acompañado de una INEDIT de Damm</li>
                     —<br>
                     <li>Ensalada de alcachofa con bacalao<br>y boniato crujiente</li>
                     —<br>

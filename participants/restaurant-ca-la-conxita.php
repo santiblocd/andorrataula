@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d’una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula<br>acompanyat d’una INEDIT de Damm</li>
                     —<br>
                     <li>Pasta variada amb quatre formatges<br> o <br>Amanida de tomata amb mozzarella<br>i pernil d’ànec amb salsa </li>
                     —<br>

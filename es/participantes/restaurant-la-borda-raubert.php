@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Galleta salada con frutos secos y queso<br>acompañada de una Inedit Damm</li>
+                    <li>Galleta salada con frutos secos y queso<br>acompañada de una INEDIT de Damm</li>
                     —<br>
                     <li>Ensalada de otoño con queso de oveja y granada<br> o <br>Crema de calabaza<br>con virutas de jamón</li>
                     —<br>

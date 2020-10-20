@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una INEDIT de Damm</li>
                     —<br>
                     <li>Puerros y calabaza confitados<br>con dashi y caviar de trucha</li>
                     —<br>

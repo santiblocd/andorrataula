@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
                     <li>Coliflor de muntanya gratinada<br>amb beixamel d’ibèric i encenalls de fetge<br>d’ànec semicuit</li>
                     —<br>

@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Coca de recapte amb sardina fumada<br>acompanyada d'una Inedit Damm</li>
+                    <li>Coca de recapte amb sardina fumada<br>acompanyada d'una INEDIT de Damm</li>
                     —<br>
                     <li>Amanida del Périgord, pedrers d’ànec saltats,<br>bacó, panses, pinyons i pernil ibèric</li>
                     —<br>

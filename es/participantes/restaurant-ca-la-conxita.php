@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una INEDIT de Damm</li>
                     —<br>
                     <li>Pasta variada con cuatro quesos<br> o <br>Ensalada de tomate con mozzarella<br>y jamón de pato con salsa</li>
                     —<br>

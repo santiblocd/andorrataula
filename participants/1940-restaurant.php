@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
                     <li>Amanida de bolets escabetxats amb cruixent<br>de llom ibèric i vinagreta de festucs<br> o <br>Lasanya de carxofes i gambes<br>amb salsa americana</li>
                     —<br>

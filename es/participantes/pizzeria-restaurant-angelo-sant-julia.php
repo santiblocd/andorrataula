@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Croqueta de butifarra negra con manzana<br>y queso de cabra acompañada de una Inedit Damm </li>
+                    <li>Croqueta de butifarra negra con manzana<br>y queso de cabra acompañada de una INEDIT de Damm</li>
                     —<br>
                     <li>Sopa minestrone de verduras de temporada,<br>caldo y pasta</li>
                     —<br>

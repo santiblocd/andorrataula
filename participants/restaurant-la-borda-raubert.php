@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Galeta salada amb fruita seca i formartge<br>acompanyada d’una Inedit Damm</li>
+                    <li>Galeta salada amb fruita seca i formartge<br>acompanyada d’una INEDIT de Damm</li>
                     —<br>
                     <li>Amanida de tardor<br>amb formatge d’ovella i magrana<br> o <br>Crema de carabassa<br>amb encenalls de pernil</li>
                     —<br>

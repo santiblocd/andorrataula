@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Blini de salmó marinat<br>acompanyat d'una Inedit Damm</li>
+                    <li>Blini de salmó marinat<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
                     <li>Cassoleta de bivalves<br> o <br>Trio de tàrtars</li>
                     —<br>

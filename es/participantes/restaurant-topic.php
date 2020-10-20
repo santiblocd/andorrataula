@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una INEDIT de Damm</li>
                     —<br>
                     <li>Ensalada tibia de huevo poché, manzana,<br>panceta y dados de membrillo<br> o <br>Canelón de pollo campero con boletus</li>
                     —<br>

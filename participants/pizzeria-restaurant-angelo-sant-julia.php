@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Croqueta de botifarra negra amb poma<br>i formatge de cabra acompanyada d’una Inedit Damm</li>
+                    <li>Croqueta de botifarra negra amb poma<br>i formatge de cabra acompanyada d’una INEDIT de Damm</li>
                     —<br>
                     <li>Sopa minestrone de verdures de temporada,<br>brou i pasta</li>
                     —<br>

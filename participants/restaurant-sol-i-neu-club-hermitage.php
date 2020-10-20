@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Bringuera d’Andorra<br>amb salsa vella de tomàquet<br>acompanyada d'una Inedit Damm</li>
+                    <li>Bringuera d’Andorra<br>amb salsa vella de tomàquet<br>acompanyada d'una INEDIT de Damm</li>
                     —<br>
                     <li>El nostre ramen andorrà:<br>sopa de ceba a la nostra manera amb bolets,<br>cansalada viada i ou a baixa temperatura</li>
                     —<br>

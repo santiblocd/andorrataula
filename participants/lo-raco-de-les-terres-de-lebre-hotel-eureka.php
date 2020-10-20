@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Medalló de vieira sobre crema de carbassa,<br>brisa de caviar i aroma de tòfona<br>acompanyat d'una Inedit Damm</li>
+                    <li>Medalló de vieira sobre crema de carbassa,<br>brisa de caviar i aroma de tòfona<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
                     <li>Burrata amb crema d’espinacs<br>i escuma de tomàquet morú</li>
                     —<br>

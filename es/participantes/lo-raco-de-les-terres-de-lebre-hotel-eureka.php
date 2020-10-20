@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú gastronímico</h4>
                   <ul>
-                    <li>Medallón de vieira sobre crema de calabaza,<br>brisa de caviar y aroma de trufa<br>acompañado de una Inedit Damm</li>
+                    <li>Medallón de vieira sobre crema de calabaza,<br>brisa de caviar y aroma de trufa<br>acompañado de una IINEDIT de Damm</li>
                     —<br>
                     <li>Burrata con crema de espinacas<br>y espuma de tomate moruno</li>
                     —<br>

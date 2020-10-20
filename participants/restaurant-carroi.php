@@ -44,7 +44,7 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Fuet d’Andorra de Cal Jordi<br>acompanyada d’una Inedit Damm</li>
+                    <li>Fuet d’Andorra de Cal Jordi<br>acompanyada d’una INEDIT de Damm</li>
                     —<br>
                     <li>Amanida de salmó marinat, poma verda<br>vinagreta de fruites vermelles i pebre de Sichuan<br> o <br>Crema de carbassa amb ametlles<br>i aire de pernil ibèric</li>
                     —<br>
