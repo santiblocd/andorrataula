@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Versailles</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,41 +42,41 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
                     —<br>
-                    <li>Copa de crema de porros<br>amb brillants d’ibèric</li>
+                    <li>Copa de crema de puerros<br>con brillantes de ibérico</li>
                     —<br>
-                    <li>Combinat de foie-gras semicuit<br>i el nostre tàrtar</li>
+                    <li>CCombinado de foie gras mi-cuit<br>y nuestro tartar</li>
                     —<br>
-                    <li>Broqueta d’onglet<br>amb crema de vi de Borgonya</li>
+                    <li>Brocheta de onglet<br>con crema de vino de Borgoña</li>
                     —<br>
-                    <li>Crème brulée  amb cruixent dolç</li>
+                    <li>Crème brulée con crujiente dulce</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>35 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Aperitivo Andorra a Taula</li>
                     —<br>
-                    <li>Pasta al dente amb crema de foie-gras</li>
+                    <li>Pasta al dente con crema de foie gras</li>
                     —<br>
                     <li>Hamburguesa del Burguer Zero</li>
                     —<br>
-                    <li>Copa de gelat amb nata dolça</li>
+                    <li>Copa de helado con nata dulce</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>19 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -85,18 +85,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="mailto:restaurantversaillesandorra@gmail.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:restaurantversaillesandorra@gmail.com" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Cap del Carrer, 1 · Andorra la Vella</p>
               <p>(+376) 821 331</p>
-              <p>De dilluns a dissabte, de 13 h a 16 h</p>
-              <p>i de 20 h a 23.30 h</p>
-              <p>Dilluns midgia i diumenge, tancat</p>
+              <p>De lunes a sábado, de 13 h a 16 h</p>
+              <p>y de 20 h a 23.30 h</p>
+              <p>Lunes mediodía y domingo, cerrado</p>
               <p>restaurantversaillesandorra@gmail.com</p>
               <br>
               <p><a href="#">@versailles_and</a></p>

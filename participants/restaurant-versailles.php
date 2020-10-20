@@ -52,7 +52,7 @@
                     —<br>
                     <li>Broqueta d’onglet<br>amb crema de vi de Borgonya</li>
                     —<br>
-                    <li>Crème brulée  amb cruixent dolç</li>
+                    <li>Crème brulée amb cruixent dolç</li>
                   </ul>
                 </div>
                 <div class="preu">
