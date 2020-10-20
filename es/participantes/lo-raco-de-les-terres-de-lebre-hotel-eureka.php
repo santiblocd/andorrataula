@@ -42,9 +42,9 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronímico</h4>
+                  <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Medallón de vieira sobre crema de calabaza,<br>brisa de caviar y aroma de trufa<br>acompañado de una IINEDIT de Damm</li>
+                    <li>Medallón de vieira sobre crema de calabaza,<br>brisa de caviar y aroma de trufa<br>acompañado de una INEDIT de Damm</li>
                     —<br>
                     <li>Burrata con crema de espinacas<br>y espuma de tomate moruno</li>
                     —<br>

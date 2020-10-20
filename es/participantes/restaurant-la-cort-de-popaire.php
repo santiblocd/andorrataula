@@ -54,7 +54,7 @@
                     —<br>
                     <li>Magret de pato a la brasa<br>con patatas fritas de membrillo</li>
                     —<br>
-                    <li>BBrownie de chocolate e higos<br>con coulis de macarulla</li>
+                    <li>Brownie de chocolate e higos<br>con coulis de macarulla</li>
                   </ul>
                 </div>
                 <div class="preu">

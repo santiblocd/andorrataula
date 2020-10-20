@@ -48,7 +48,7 @@
                     —<br>
                     <li>Pasta variada con cuatro quesos<br> o <br>Ensalada de tomate con mozzarella<br>y jamón de pato con salsa</li>
                     —<br>
-                    <li>Pulpo a la plancha<br>amb verduretes al romesco<br> o <br>Rabo de buey estofado con setas</li>
+                    <li>Pulpo a la plancha<br>amb verduritas al romesco<br> o <br>Rabo de buey estofado con setas</li>
                     —<br>
                     <li>Postres a escoger</li>
                   </ul>
@@ -67,7 +67,7 @@
                     —<br>
                     <li>Macarrones de la Conxita</li>
                     —<br>
-                    <li>Nuggets de pollo<br>con patates gratinades al horno</li>
+                    <li>Nuggets de pollo<br>con patatas gratinades al horno</li>
                     —<br>
                     <li>Postres a escoger</li>
                   </ul>

@@ -44,11 +44,11 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Apritivo Andorra a Taula<br>acompañado de una INEDIT de Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una INEDIT de Damm</li>
                     —<br>
                     <li>Ensalada de setas escabechadas con crujiente<br>de lomo ibérico y vinagreta de pistachos<br> o <br>Lasaña de alcachofas y gambas<br>con salsa americana</li>
                     —<br>
-                    <li>Civet de caza con cebollitas<br>setas y patatas<br> o <br>Pata de pulpo encebollada, pimentón de la Vera, almejas y judiones</li>
+                    <li>Civet de caza con cebollitas,<br>setas y patatas<br> o <br>Pata de pulpo encebollada,<br> pimentón de la Vera, almejas y judiones</li>
                     —<br>
                     <li>Tostada de brioche<br>con helado de canela<br> o <br>Mouse de requesón con miel<br>y nueces caramelizadas</li>
                   </ul>
@@ -94,7 +94,7 @@
               <p>(+376) 860 006</p>
               <p> De lunes a domingo, de 12 h a 15 h</p>
               <p>y de 20.30 h a 22.30 h</p>
-              <p>Martes, tancat</p>
+              <p>Martes, cerrado</p>
               <p>info@1940restaurant.com</p>
               <br>
               <p><a href="https://www.1940restaurant.com/">www.1940restaurant.com</a></p>

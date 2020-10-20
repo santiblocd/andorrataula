@@ -53,7 +53,7 @@
                     <li>Tempura de bacallà<br>amb maionesa de codony</li>
                     —<br>
                     <li>Culatí de vedella d’Andorra<br>amb bolets saltats</li>
-                    -<br>
+                    —<br>
                     <li>Bunyols de vent amb gelat de tomata<br>i xocolata 100% cacau</li>
                   </ul>
                 </div>

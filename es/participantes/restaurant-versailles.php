@@ -48,7 +48,7 @@
                     —<br>
                     <li>Copa de crema de puerros<br>con brillantes de ibérico</li>
                     —<br>
-                    <li>CCombinado de foie gras mi-cuit<br>y nuestro tartar</li>
+                    <li>Combinado de foie gras mi-cuit<br>y nuestro tartar</li>
                     —<br>
                     <li>Brocheta de onglet<br>con crema de vino de Borgoña</li>
                     —<br>

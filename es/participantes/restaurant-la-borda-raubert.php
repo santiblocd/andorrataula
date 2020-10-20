@@ -46,7 +46,7 @@
                   <ul>
                     <li>Galleta salada con frutos secos y queso<br>acompañada de una INEDIT de Damm</li>
                     —<br>
-                    <li>Ensalada de otoño con queso de oveja y granada<br> o <br>Crema de calabaza<br>con virutas de jamón</li>
+                    <li>Ensalada de otoño<br>con queso de oveja y granada<br> o <br>Crema de calabaza<br>con virutas de jamón</li>
                     —<br>
                     <li>Estofado de añojo de Andorra<br>con setas de temporada<br> o <br>Parrillada de carne a la brasa<br>con verduras</li>
                     —<br>
@@ -69,7 +69,7 @@
                     —<br>
                     <li>Butifarra del país<br>con patatas fritas</li>
                     —<br>
-                    <li>GHelado de chocolate<br>con virutas de chocolate</li>
+                    <li>Helado de chocolate<br>con virutas de chocolate</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -94,7 +94,7 @@
               <p>(+376) 835 420</p>
               <p> De lunes a domingo, de 13 h a 15.30 h</p>
               <p>y de 20.30 h a 22.30 h</p>
-              <p>Lunes noche ny martes, cerrado</p>
+              <p>Lunes noche y martes, cerrado</p>
               <p>bordaraubert@gmail.com</p>
               <br>
               <p><a href="https://www.bordaraubert.com/">www.bordaraubert.com</a></p>

@@ -53,7 +53,7 @@
                     <li>Tempura de bacalao<br>con mayonesa de membrillo</li>
                     —<br>
                     <li>Picaña de ternera de Andorra<br>con setas salteadas</li>
-                    -<br>
+                    —<br>
                     <li>Buñuelos de viento con helado de tomate<br> y chocolate 100% cacao</li>
                   </ul>
                 </div>
@@ -65,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
                     <li>Aperitivo Andorra a Taula</li>
                     —<br>
