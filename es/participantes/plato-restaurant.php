@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Plató Restaurant</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Coca de recapte amb sardina fumada<br>acompanyada d'una Inedit Damm</li>
+                    <li>Coca de recapte amb sardina ahumada<br>acompañada de una Inedit Damm</li>
                     —<br>
-                    <li>Amanida del Périgord, pedrers d’ànec saltats,<br>bacó, panses, pinyons i pernil ibèric</li>
+                    <li>Ensalada del Périgord, mollejas de pato salteadas,<br>beicon, pasas, piñones y jamón ibérico</li>
                     —<br>
-                    <li>Brou d’escudella<br>amb galets farcits de carn d’olla</li>
+                    <li>Caldo de escudella<br>con galets rellenos de carn d’olla</li>
                     —<br>
-                    <li>Bacallà cuit a baixa temperatura,<br>tomàquet confitat i xips de carbassó</li>
+                    <li>Bacalao cocido a baja temperatura,<br>tomate confitado y chips de calabacín</li>
                     —<br>
-                    <li>Secret ibèric a la brasa amb patates palla</li>
+                    <li>Secreto ibérico a la brasa con patatas paja</li>
                     -<br>
-                    <li>Lingot d’or amb gelat de cacauet salat</li>
+                    <li>Lingote de oro con helado de cacahuete salado</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>35 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Croquetes casonales de pollastre de pagès</li>
+                    <li>Croquetas caseras de pollo de corral</li>
                     —<br>
-                    <li>Brou d’escudella<br>amb galets farcits de carn d’olla</li>
+                    <li>Caldo de escudella<br>con galets rellenos de carn d’olla</li>
                     —<br>
-                    <li>Secret ibèric a la brasa<br>amb patates palla</li>
+                    <li>Secreto ibérico a la brasa con patatas paja</li>
                     —<br>
-                    <li>Lingot d’or amb gelat de cacauet salat</li>
+                    <li>Lingote de oro con helado de cacahuete salado</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>17 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,17 +87,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="https://www.hotel-arthotelandorra.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hotel-arthotelandorra.com" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. Part de la Creu, 12-25 · Andorra la Vella</p>
               <p>(+376) 760 303</p>
-              <p>De dilluns a diumenge, de 13.30 h a 15.30 h</p>
-              <p>i de 20 h a 23 h</p>
+              <p>De lunes a domingo, de 13.30 h a 15.30 h</p>
+              <p>y de 20 h a 23 h</p>
               <p>arthotel@andorra.ad</p>
               <br>
               <p><a href="https://www.hotel-arthotelandorra.com">www.hotel-arthotelandorra.com</a></p>
