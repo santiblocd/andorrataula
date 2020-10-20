@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant El Refugi Alpí</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -44,37 +44,37 @@
                 <div class="menu">
                   <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una Inedit Damm</li>
+                    <li>Aperitivo Andorra a Taula<br>acompañado de una Inedit Damm</li>
                     —<br>
-                    <li>Trinxat de muntanya a baixa temperatura<br>i cruixent de cansalada viada<br> o <br>Amanida tèbia de perdiu amb vinagreta</li>
+                    <li>Trinxat de montaña a baja temperatura<br>y crujiente de panceta<br> o <br>Ensalada templada de perdiz con vinagreta</li>
                     —<br>
-                    <li>Llom de bacallà confitat<br>amb carxofes saltades i alls tendres<br> o <br>Òpera de muntanya:<br>espatlla de cabrit amb cremós de patates i tòfona<br>acompanyada de bolets de temporada</li>
+                    <li>Lomo de bacalao confitado<br>con alcachofas salteadas y ajos tiernos<br> o <br>Ópera de montaña:<br>espalda de cabrito con cremoso de patatas y trufa<br>acompanyada de setas de temporada</li>
                     —<br>
-                    <li>Pa de pessic de xocolata i nous,<br>crema de vainilla i fruita seca<br> o <br>Cruixent de milfulls amb mató<br>i mel del Pirineu</li>
+                    <li>Bizcocho de chocolate y nueces,<br>crema de vainilla y frutos secos<br> o <br>Crujiente de milhojas con requesón<br>y miel del Pirineo</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>39 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Aperitivo Andorra a Taula</li>
                     —<br>
-                    <li>Canelons d’Andorra amb beixamel</li>
+                    <li>Canelones de Andorra con bechamel</li>
                     —<br>
-                    <li>Escalopa milanesa amb patates fregides</li>
+                    <li>Escalope con patatas fritas</li>
                     —<br>
-                    <li>Crep per escollir</li>
+                    <li>Crep a escoger</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>15 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -83,17 +83,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no incluidas</p>
             </div>
              <div class="boton">
-              <a href="https://www.elrefugialpi.ad" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.elrefugialpi.ad" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Av. Meritxell, 73 · Andorra la Vella</p>
               <p>(+376) 808 100</p>
-              <p>De dilluns a diumenge, de 13 h a 16 h</p>
-              <p>i de 20 h a 23 h</p>
+              <p>De lunes a domingo, de 13 h a 16 h</p>
+              <p>y de 20 h a 23 h</p>
               <p>elrefugialpi@elrefugialpi.ad</p>
               <br>
               <p><a href="https://www.elrefugialpi.ad">www.elrefugialpi.ad</a></p>
