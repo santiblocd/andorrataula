@@ -53,7 +53,7 @@
                     <li>Parmentier con cordero de Llumeneres<br>confitado con romero</li>
                     —<br>
                     <li>Turrón, helado, naranja y jarabe de eneldo</li>
-                    -<br>
+                    —<br>
                     <li>Tarta soufflé de queso fresco<br>de Can Raubert y salsa de verbena</li>
                   </ul>
                 </div>
@@ -98,7 +98,7 @@
               <p>(+376) 861 001</p>
               <p>De lunes a sábado, de 13 h a 15.30 h</p>
               <p>y de 20 h a 22.30 h</p>
-              <p>DiLunes noche y domingo, cerrado</p>
+              <p>Lunes noche y domingo, cerrado</p>
               <p>plat-in@plat-in.net</p>
               <br>
               <p><a href="https://www.plat-in.net">www.plat-in.net</a></p>

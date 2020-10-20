@@ -53,7 +53,7 @@
                     <li>Parmentier amb xai de Llumeneres<br>confitat amb romaní</li>
                     —<br>
                     <li>Torró, gelat, taronja i xarop d’anet</li>
-                    -<br>
+                    —<br>
                     <li>Pastís soufflé de formatge fresc<br>de Can Raubert i salsa de berbena</li>
                   </ul>
                 </div>
