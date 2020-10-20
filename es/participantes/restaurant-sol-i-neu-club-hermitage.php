@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú gastronómico</h4>
                   <ul>
-                    <li>Bringuera d’Andorra<br>amb salsa vella de tomàquet<br>acompanyada d'una Inedit Damm</li>
+                    <li>Bringuera de Andorra<br>con salsa vieja de tomate<br>acompañada de una Inedit Damm</li>
                     —<br>
-                    <li>El nostre ramen andorrà:<br>sopa de ceba a la nostra manera amb bolets,<br>cansalada viada i ou a baixa temperatura</li>
+                    <li>Nuestro ramen andorrano:<br>sopa de cebolla a nuestra manera con setas,<br>panceta y huevo a baja temperatura</li>
                     —<br>
-                    <li>Tàrtar de tomàquet amb encenalls<br>de truita de riu fumada i crema d’ametlles</li>
+                    <li>Tartar de tomate con virutas<br>de trucha ahumada y crema de almendras</li>
                     —<br>
-                    <li>Llom de llobarro rostit<br>amb suc i pil-pil de les espines</li>
+                    <li>Lomo de lubina asado<br>con jugo y pilpil de las espinas</li>
                     —<br>
-                    <li>Mandonguilles de l’àvia<br>amb tòfona i Parmentier</li>
+                    <li>Albóndigas de la abuela<br>con trufa y Parmentier</li>
                     —<br>
                     <li>Postres Alaska Soldeu</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>40 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menú junior</h4>
                   <ul>
-                    <li>Croqueta cremosa de pernil i pollastre</li>
+                    <li>Croqueta cremosa de jamón y pollo</li>
                     —<br>
-                    <li>Macarrons de l’àvia gratinats</li>
+                    <li>Macarrones de la abuela gratinados</li>
                     —<br>
-                    <li>Costelletes de xai a la brasa</li>
+                    <li>Costillas de cordero a la brasa</li>
                     —<br>
-                    <li>Gelats artesans</li>
+                    <li>Helados artesanos</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>20 €</p>
-                  <span>per persona</span>
+                  <span>por persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,18 +87,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>IGI incluido • Bebidas no inlcuidas</p>
             </div>
              <div class="boton">
-              <a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html" target="_blank">Haz tu<br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Crta. General, 2 · Soldeu</p>
               <p>(+376) 851 325</p>
-              <p>De dilluns a diumenge, de 13 h a 16 h</p>
-              <p>i de 20 h a 23 h</p>
-              <p>Dimarts, tancat
+              <p>De lunes a domingo, de 13 h a 16 h</p>
+              <p>y de 20 h a 23 h</p>
+              <p>Martes, cerrado</p>
               <p>maitre.solineu@sporthotels.ad</p>
               <br>
               <p><a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html">www.hotelhermitage.sporthotels.ad</a></p>

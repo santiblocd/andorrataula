@@ -98,7 +98,7 @@
               <p>(+376) 851 325</p>
               <p>De dilluns a diumenge, de 13 h a 16 h</p>
               <p>i de 20 h a 23 h</p>
-              <p>Dimarts, tancat
+              <p>Dimarts, tancat</p>
               <p>maitre.solineu@sporthotels.ad</p>
               <br>
               <p><a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html">www.hotelhermitage.sporthotels.ad</a></p>
