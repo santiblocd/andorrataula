@@ -23,22 +23,22 @@
           <li><a href="./">CA</a></li>
         </nav>
       <div class="texto-presentacion">
-        <h2 class="invitacion">Us hi esperem <br>amb la taula <br>parada i una <br>Inedit de Damm <br>ben fresca.</h2>
+        <h2 class="invitacion">Os esperamos<br>con la mesa<br>a punto<br>y una INEDIT de Damm<br>bien fresca.</h2>
       </div>
   	</header>
     <div data-barba="container" data-barba-namespace="home"> 
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
           <div class="circle date">
-            <p>Desde el <br>30 de octubre<br> al 29 de<br> noviembre</p>
+            <p>Del 30<br>de octubre<br>al 29<br>de noviembre</p>
           </div>
           <div class="circle info">
-            <p>Menús <br>gastronòmics <br>maridats <br>amb Inedit <br>-<br> 14es jornades<br> de cuina <br> andorrana</p>
+            <p>Menús<br>tradicionales<br>y gastronómicos<br>maridados<br>con INEDIT de Damm<br>-<br> 14as jornadas<br>de cocina <br>andorrana</p>
           </div>
           <a href="es/participants.php">
             <div class="circle boton">
-              <p>Descobreix <br>els establiments<br> participants.</p>
+              <p>Descubre<br>los establecimientos<br>participantes</p>
             </div>
           </a>
           <div id="intro-slider">
