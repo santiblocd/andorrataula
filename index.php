@@ -24,7 +24,7 @@
           <li><a href="andorra">CA</a></li>
         </nav>
       <div class="texto-presentacion">
-        <h2 class="invitacion">Us hi esperem <br>amb la taula <br>parada i una <br>Inedit de Damm <br>ben fresca.</h2>
+        <h2 class="invitacion">Us hi esperem<br>amb la taula<br>parada i una<br>INEDIT de Damm<br>ben fresca.</h2>
       </div>
   	</header>
     <!-- define the wrapper and the container -->
@@ -36,11 +36,11 @@
             <p>Del 30 <br>d'octubre<br> al 29 de<br> novembre</p>
           </div>
           <div class="circle info">
-            <p>Menús <br>tradicionals i<br> gastronòmics <br>maridats amb Inedit <br>-<br> 14es jornades<br> de cuina <br> andorrana</p>
+            <p>Menús<br>tradicionals i<br>gastronòmics<br>maridats<br>amb INEDIT de Damm<br>-<br>14es jornades<br> de cuina<br>andorrana</p>
           </div>
           <a href="participants.php">
             <div class="circle boton">
-              <p>Descobreix <br>els establiments<br> participants.</p>
+              <p>Descobreix<br>els establiments<br> participants</p>
             </div>
           </a>
           <div id="intro-slider">

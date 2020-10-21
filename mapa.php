@@ -2,7 +2,7 @@
 <html lang="ca">
   <head>
     <meta charset="utf-8">
-    <title>Andorra à Taula - Mapa</title>
+    <title>Andorra a Taula - Mapa</title>
     <?php include "./template-parts/head.html" ?>
   </head>
   <body>

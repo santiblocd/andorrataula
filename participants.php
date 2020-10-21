@@ -2,7 +2,7 @@
 <html lang="ca" class="participantes-page">
   <head>
     <meta charset="utf-8">
-    <title>Andorra à Taula - Participants</title>
+    <title>Andorra a Taula - Participants</title>
     <?php include "./template-parts/head.html" ?>
   </head>
   <body>
@@ -22,7 +22,7 @@
           <li><a href="andorra">CA</a></li>
         </nav>
       <div class="texto-presentacion">
-        <h2 class="invitacion">Us hi esperem <br>amb la taula <br>parada i una <br>Inedit de Damm <br>ben fresca.</h2>
+        <h2 class="invitacion">Us hi esperem<br>amb la taula<br>parada i una<br>INEDIT de Damm<br>ben fresca.</h2>
       </div>
     </header>
     <!-- define the wrapper and the container -->
