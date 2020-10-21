@@ -61,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Fuet de Andorra de Cal Jordi</li>
                     —<br>
@@ -93,7 +93,7 @@
               <p>Terra Major s/n · Sispony (La Massana)</p>
               <p>(+376) 737 300</p>
               <p> De lunes a domingo, de 13 h a 15.30 h</p>
-              <p>y de 20.30 h a 22.30 h</p>
+              <p>y de 20 h a 22.30 h</p>
               <p>xaletsuites@abbahotels.com</p>
               <br>
               <p><a href="https://www.abbaxaletsuiteshotel.com">www.abbaxaletsuiteshotel.com</a></p>

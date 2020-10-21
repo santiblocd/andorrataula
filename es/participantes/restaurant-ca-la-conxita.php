@@ -61,13 +61,13 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitivo Andorra a Taula</li>
                     —<br>
                     <li>Macarrones de la Conxita</li>
                     —<br>
-                    <li>Nuggets de pollo<br>con patatas gratinades al horno</li>
+                    <li>Nuggets de pollo<br>con patatas gratinadas al horno</li>
                     —<br>
                     <li>Postres a escoger</li>
                   </ul>
@@ -90,7 +90,7 @@
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>TC. La Llacuna, 12 · Andorra la Vella</p>
+              <p>C. La Llacuna, 12 · Andorra la Vella</p>
               <p>(+376) 829 948</p>
               <p> De lunes a domingo, de 13.30 h a 15 h</p>
               <p>y de 20.30 h a 23 h</p>

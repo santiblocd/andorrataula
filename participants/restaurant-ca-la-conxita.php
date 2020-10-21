@@ -90,7 +90,7 @@
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>TC. La Llacuna, 12 · Andorra la Vella</p>
+              <p>C. La Llacuna, 12 · Andorra la Vella</p>
               <p>(+376) 829 948</p>
               <p> De dilluns a diumenge, de 13.30 h a 15 h</p>
               <p>i de 20.30 h a 23 h</p>

@@ -90,9 +90,9 @@
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>Av. Príncep Benlloch, 24 · Andorra la Vella</p>
+              <p>Av. Príncep Benlloch, 20 bis · Andorra la Vella</p>
               <p>(+376) 860 006</p>
-              <p> De dilluns a diumenge, de 12 h a 15 h</p>
+              <p> De dilluns a diumenge, de 13 h a 15 h</p>
               <p>i de 20.30 h a 22.30 h</p>
               <p>Dimarts, tancat</p>
               <p>info@1940restaurant.com</p>

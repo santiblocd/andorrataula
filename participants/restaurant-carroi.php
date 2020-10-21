@@ -93,7 +93,7 @@
               <p>Terra Major s/n · Sispony (La Massana)</p>
               <p>(+376) 737 300</p>
               <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20.30 h a 22.30 h</p>
+              <p>i de 20 h a 22.30 h</p>
               <p>xaletsuites@abbahotels.com</p>
               <br>
               <p><a href="https://www.abbaxaletsuiteshotel.com">www.abbaxaletsuiteshotel.com</a></p>

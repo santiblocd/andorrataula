@@ -48,7 +48,7 @@
                     —<br>
                     <li>Filipino de foie gras,<br>chocolate blanco y frambuesas</li>
                     —<br>
-                    <li>Edamames salteadas con pato,<br>shiitakes, huevo y trufa</li>
+                    <li>Edamames salteados con pato,<br>shiitakes, huevo y trufa</li>
                     —<br>
                     <li>Tartar de atún, patatas paja<br>y huevos rotos</li>
                     —<br>
@@ -65,7 +65,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitivo Andorra a Taula</li>
                     —<br>

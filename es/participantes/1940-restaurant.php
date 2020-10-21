@@ -61,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitivo Andorra a Taula</li>
                     —<br>
@@ -90,9 +90,9 @@
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>Av. Príncep Benlloch, 24 · Andorra la Vella</p>
+              <p>Av. Príncep Benlloch, 20 bis · Andorra la Vella</p>
               <p>(+376) 860 006</p>
-              <p> De lunes a domingo, de 12 h a 15 h</p>
+              <p> De lunes a domingo, de 13 h a 15 h</p>
               <p>y de 20.30 h a 22.30 h</p>
               <p>Martes, cerrado</p>
               <p>info@1940restaurant.com</p>

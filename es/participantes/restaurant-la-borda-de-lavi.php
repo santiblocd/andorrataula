@@ -2,7 +2,7 @@
 <html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant la borda de l'avi</title>
+    <title>Restaurant La Borda de l'avi</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Restaurant<br>La borda de l'avi</h2>
+              <h2>Restaurant<br>La Borda de l'avi</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -61,7 +61,7 @@
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú junior</h4>
+                  <h4>Menú júnior</h4>
                   <ul>
                     <li>Aperitivo Andorra a Taula</li>
                     —<br>
