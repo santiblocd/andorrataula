@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Carroi</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,39 +42,39 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú tradicional</h4>
+                  <h4>Menu traditionnel</h4>
                   <ul>
-                    <li>Fuet d’Andorra de Cal Jordi<br>acompanyada d’una INEDIT de Damm</li>
+                    <li>Fouet d’Andorre de Cal Jordi<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Amanida de salmó marinat, poma verda<br>vinagreta de fruites vermelles i pebre de Sichuan<br> o <br>Crema de carbassa amb ametlles<br>i aire de pernil ibèric</li>
+                    <li>Salade de saumon mariné, pomme verte,<br>vinaigrette aux fruits rouges et poivre de Sichuan<br> ou <br>Crème de potiron aux amandes<br>et jambon ibérique en nuage</li>
                     —<br>
-                    <li>Llom de bacallà confitat amb saltat de col xinesa,<br>gírgoles i salsa suau d’all<br> o <br>Botifarra d’Andorra de Cal Jordi<br>amb puré trufat, ou escalfat, foie-gras<br>i caramel de vi</li>
+                    <li>Filet de morue confit,<br>sauté de choux chinois et girolles,<br>sauce douce à l’ail<br> ou <br>Saucisse d’Andorre de Cal Jordi,<br>purée à la truffe, œuf poché,<br>foie gras et caramel de vin</li>
                     —<br>
-                    <li>Macedònia de fruita amb coriandre<br>i sorbet de meló Cantaloup</li>
+                    <li>Macédoine de fruit à la coriandre<br>et sorbet de melon Cantaloup</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>30 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Fuet d’Andorra de Cal Jordi</li>
+                    <li>Fouet d'Andorre de Cal Jordi </li>
                     —<br>
-                    <li>Cues de llagostins arrebossades<br>i amanida</li>
+                    <li>Queues de gambas panées et salade</li>
                     —<br>
-                    <li>Hamburguesa de vedella d’Andorra al grill<br>amb puré de patates i juliana de pernil ibèric</li>
+                    <li>Burger de veau d’Andorre grillé,<br>purée de pomme de terre<br>et julienne de jambon ibérique</li>
                     —<br>
-                    <li>Macedònia</li>
+                    <li>Macédoine de fruits</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>18 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -83,17 +83,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="https://www.abbaxaletsuiteshotel.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.abbaxaletsuiteshotel.com" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Terra Major s/n · Sispony (La Massana)</p>
               <p>(+376) 737 300</p>
-              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20 h a 22.30 h</p>
+              <p>Du lundi au dimanche, de 13 h à 15.30 h</p>
+              <p>et de 20 h à 22.30 h</p>
               <p>xaletsuites@abbahotels.com</p>
               <br>
               <p><a href="https://www.abbaxaletsuiteshotel.com">www.abbaxaletsuiteshotel.com</a></p>
