@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/pizzeria-restaurant-angelo-la-massana.php">ES</a></li>
-          <li><a href="fr/participants/pizzeria-restaurant-angelo-la-massana.php">FR</a></li>
-          <li><a href="participants/pizzeria-restaurant-angelo-la-massana.php">CA</a></li>
+          <li><a href="../es/participantes/pizzeria-restaurant-angelo-la-massana.php">ES</a></li>
+          <li><a href="../fr/participants/pizzeria-restaurant-angelo-la-massana.php">FR</a></li>
+          <li><a href="../participants/pizzeria-restaurant-angelo-la-massana.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
