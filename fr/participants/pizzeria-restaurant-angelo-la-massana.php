@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <!-- title --> <title>Pizzeria Restaurant Angelo La Massana</title> <!-- END title -->
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menu gastronomique</h4>
                   <ul>
-                    <li>Croqueta de botifarra negra amb poma i formatge <br>de cabra acompanyada d’una INEDIT de Damm</li>
+                    <li>Croquette de boudin, pomme et fromage de chèvre,<br>le tout servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
+                    <li>Crème de potiron parsemée<br>ad’éclats de châtaigne au sel et de pétales<br>de jambon de porc de la race Bisaro</li>
                     —<br>
-                    <li>Tàrtar de tonyina i alvocat<br>amb vinagreta de cítrics</li>
+                    <li>Tartare au thon et avocat<br>à la vinaigrette d’agrumes</li>
                     —<br>
-                    <li>Risotto de ceps de temporada</li>
+                    <li>Risotto de champignons de saison</li>
                     —<br>
-                    <li>Culatí al grill amb emulsió<br>emulsió de patata i parmesà</li>
+                    <li>Aiguillon grillé et émulsion<br>de pommes de terre et parmesan</li>
                     —<br>
-                    <li>Mató i mel orgànica amb compota de poma,<br>pera i crumble de nous</li>
+                    <li>Fromage blanc et miel organique<br>servis avec de la compote de pomme<br>et de poire et du crumble aux noix</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>30 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Croqueta de pernil<br>de porc de raça bísara</li>
+                    <li>Croquette de jambon de porc<br>de la race Bisaro</li>
                     —<br>
-                    <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
+                    <li>Crème de potiron parsemée d’éclats<br>de châtaigne au sel et de pétales de jambon<br>de porc de la race Bisaro</li>
                     —<br>
-                    <li>Ravioli farcit de carn amb sala de tomàquet,<br>formatge parmesà i alfàbrega</li>
+                    <li>Raviolis farcis de viande,<br>assaisonnés à la sauce tomate,<br>au parmesan et au basilic</li>
                     —<br>
-                    <li>Crep amb Nutella</li>
+                    <li>Crêpe au Nutella</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>15 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,17 +87,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="https://www.pizzeriaangelo.restaurant/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.pizzeriaangelo.restaurant/" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Av. Sant Antoni, 22 · La Massana</p>
               <p>(+376) 738 393</p>
-              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20 h a 23 h</p>
+              <p>Du lundi au dimanche, de 13 h à 15.30 h</p>
+              <p>et de 20 h à 23 h</p>
               <p>administracio@grupkanalla.com</p>
               <br>
               <p><a href="https://www.pizzeriaangelo.restaurant/">www.pizzeriaangelo.restaurant</a></p>

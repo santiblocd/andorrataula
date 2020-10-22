@@ -52,7 +52,7 @@
                     —<br>
                     <li>Risotto de ceps de temporada</li>
                     —<br>
-                    <li>Culatí al grill amb emulsió<br>emulsió de patata i parmesà</li>
+                    <li>Culatí al grill<br>amb emulsió de patata i parmesà</li>
                     —<br>
                     <li>Mató i mel orgànica amb compota de poma,<br>pera i crumble de nous</li>
                   </ul>
