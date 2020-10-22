@@ -344,8 +344,8 @@ h2.invitacion {
 .circletopo .circle.titulo {
   bottom: 30px;
   right: 30px;
-  top: initial;
-  left: initial;
+  top: inherit;
+  left: inherit;
 }
 .participantes {
   padding: 30px 30px 30px 80px;
