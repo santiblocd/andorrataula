@@ -107,9 +107,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide">your 2</div>
-          <div class="slide">your 3</div>
+          <div class="slide" style="background-image: url('../img/participants/1940-restaurant/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('../img/participants/1940-restaurant/02.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/1940-restaurant/03.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/1940-restaurant/04.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/1940-restaurant/05.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 
