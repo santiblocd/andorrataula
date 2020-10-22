@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel - La Pèrgola</title>
+    <!-- title --> <title>Pizzeria Restaurant Angelo La Massana</title> <!-- END title -->
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
-          <li><a href="fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
-          <li><a href="participants/andorra-park-hotel-la-pergola.php">CA</a></li>
+          <li><a href="es/participantes/pizzeria-restaurant-angelo-la-massana.php">ES</a></li>
+          <li><a href="fr/participants/pizzeria-restaurant-angelo-la-massana.php">FR</a></li>
+          <li><a href="participants/pizzeria-restaurant-angelo-la-massana.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Andorra Park Hotel<br> La Pèrgola</h2>
+              <h2>Pizzeria Restaurant<br>Angelo La Massana</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -44,21 +44,21 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Croqueta de botifarra negra amb poma i formatge <br>de cabra acompanyada d’una INEDIT de Damm</li>
                     —<br>
-                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
+                    <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
                     —<br>
-                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
+                    <li>Tàrtar de tonyina i alvocat<br>amb vinagreta de cítrics</li>
                     —<br>
-                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
+                    <li>Risotto de ceps de temporada</li>
                     —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets</li>
+                    <li>Culatí al grill amb emulsió<br>emulsió de patata i parmesà</li>
                     —<br>
-                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
+                    <li>Mató i mel orgànica amb compota de poma,<br>pera i crumble de nous</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>40 €</p>
+                  <p>30 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -67,17 +67,17 @@
                 <div class="menu">
                   <h4>Menú júnior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Croqueta de pernil<br>de porc de raça bísara</li>
                     —<br>
-                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
+                    <li>Crema de carbassa amb trossets de castanya<br>a la sal i encenalls de pernil de porc de raça bísara</li>
                     —<br>
-                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
+                    <li>Ravioli farcit de carn amb sala de tomàquet,<br>formatge parmesà i alfàbrega</li>
                     —<br>
-                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
+                    <li>Crep amb Nutella</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>20 €</p>
+                  <p>15 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -90,18 +90,18 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.pizzeriaangelo.restaurant/" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>C. de les Canals, 24 · Andorra la Vella</p>
-              <p>(+376) 877 777</p>
-              <p> De dilluns a diumenge, de 12.30 ha 15.30 h</p>
+              <p>Av. Sant Antoni, 22 · La Massana</p>
+              <p>(+376) 738 393</p>
+              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
               <p>i de 20 h a 23 h</p>
-              <p>reservas@andorraparkhotel.com</p>
+              <p>administracio@grupkanalla.com</p>
               <br>
-              <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
-              <p><a href="#">@andorraparkhotel</a></p>
+              <p><a href="https://www.pizzeriaangelo.restaurant/">www.pizzeriaangelo.restaurant</a></p>
+              <p><a href="#">@angelo.massana</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
@@ -110,12 +110,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/02.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/03.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/05.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/06.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/pizzeria-restaurant-angelo-la-massana/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('img/participants/pizzeria-restaurant-angelo-la-massana/02.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/pizzeria-restaurant-angelo-la-massana/03.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/pizzeria-restaurant-angelo-la-massana/04.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/pizzeria-restaurant-angelo-la-massana/05.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

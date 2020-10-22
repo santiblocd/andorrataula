@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel - La Pèrgola</title>
+    <title>Restaurant Plat'in</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
-          <li><a href="fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
-          <li><a href="participants/andorra-park-hotel-la-pergola.php">CA</a></li>
+          <li><a href="es/participantes/restaurant-platin.php">ES</a></li>
+          <li><a href="fr/participants/restaurant-platin.php">FR</a></li>
+          <li><a href="participants/restaurant-platin.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Andorra Park Hotel<br> La Pèrgola</h2>
+              <h2>Restaurant Plat'in</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -46,19 +46,19 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
-                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
+                    <li>Cruixent de peus de porc<br>de raça Duroc amb cargols, mesclum<br>i pèsols negres de Can Sona</li>
                     —<br>
-                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
+                    <li>Tricorni de bacallà i ceps,<br>cremós de cibulet i fonoll de muntanya</li>
                     —<br>
-                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
+                    <li>Parmentier amb xai de Llumeneres<br>confitat amb romaní</li>
                     —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets</li>
+                    <li>Torró, gelat, taronja i xarop d’anet</li>
                     —<br>
-                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
+                    <li>Pastís soufflé de formatge fresc<br>de Can Raubert i salsa de berbena</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>40 €</p>
+                  <p>36 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -69,15 +69,15 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
+                    <li>Ravioli de gambes amb salsa de ceps i estragó</li>
                     —<br>
-                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
+                    <li>Onglet de bou a la brasa, verduretes<br>i patates rostides de les valls</li>
                     —<br>
-                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
+                    <li>Profiteroles amb melilot i xocolata calenta</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>20 €</p>
+                  <p>18 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -90,18 +90,19 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.plat-in.net" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>C. de les Canals, 24 · Andorra la Vella</p>
-              <p>(+376) 877 777</p>
-              <p> De dilluns a diumenge, de 12.30 ha 15.30 h</p>
-              <p>i de 20 h a 23 h</p>
-              <p>reservas@andorraparkhotel.com</p>
+              <p>C. Bonaventura Riberaigua, 8 · Andorra la Vella</p>
+              <p>(+376) 861 001</p>
+              <p>De dilluns a dissabte, de 13 h a 15.30 h</p>
+              <p>i de 20 h a 22.30 h</p>
+              <p>Dilluns nit i diumenge, tancat</p>
+              <p>plat-in@plat-in.net</p>
               <br>
-              <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
-              <p><a href="#">@andorraparkhotel</a></p>
+              <p><a href="https://www.plat-in.net">www.plat-in.net</a></p>
+              <p><a href="#">@restaurante_platin</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
@@ -110,12 +111,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/02.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/03.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/05.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/06.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-platin/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-platin/02.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-platin/03.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-platin/04.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-platin/05.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel - La Pèrgola</title>
+    <title>Restaurant Versailles</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
-          <li><a href="fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
-          <li><a href="participants/andorra-park-hotel-la-pergola.php">CA</a></li>
+          <li><a href="es/participantes/restaurant-versailles.php">ES</a></li>
+          <li><a href="fr/participants/restaurant-versailles.php">FR</a></li>
+          <li><a href="participants/restaurant-versailles.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Andorra Park Hotel<br> La Pèrgola</h2>
+              <h2>Restaurant Versailles</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -46,19 +46,17 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
-                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
+                    <li>Copa de crema de porros<br>amb brillants d’ibèric</li>
                     —<br>
-                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
+                    <li>Combinat de foie-gras semicuit<br>i el nostre tàrtar</li>
                     —<br>
-                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
+                    <li>Broqueta d’onglet<br>amb crema de vi de Borgonya</li>
                     —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets</li>
-                    —<br>
-                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
+                    <li>Crème brulée amb cruixent dolç</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>40 €</p>
+                  <p>35 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -69,15 +67,15 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
+                    <li>Pasta al dente amb crema de foie-gras</li>
                     —<br>
-                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
+                    <li>Hamburguesa del Burguer Zero</li>
                     —<br>
-                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
+                    <li>Copa de gelat amb nata dolça</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>20 €</p>
+                  <p>19 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -90,18 +88,18 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:restaurantversaillesandorra@gmail.com" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>C. de les Canals, 24 · Andorra la Vella</p>
-              <p>(+376) 877 777</p>
-              <p> De dilluns a diumenge, de 12.30 ha 15.30 h</p>
-              <p>i de 20 h a 23 h</p>
-              <p>reservas@andorraparkhotel.com</p>
+              <p>Cap del Carrer, 1 · Andorra la Vella</p>
+              <p>(+376) 821 331</p>
+              <p>De dilluns a dissabte, de 13 h a 16 h</p>
+              <p>i de 20 h a 23.30 h</p>
+              <p>Dilluns midgia i diumenge, tancat</p>
+              <p>restaurantversaillesandorra@gmail.com</p>
               <br>
-              <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
-              <p><a href="#">@andorraparkhotel</a></p>
+              <p><a href="#">@versailles_and</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
@@ -110,12 +108,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/02.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/03.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/05.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/06.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-versailles/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-versailles/02.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-versailles/03.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-versailles/04.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-versailles/05.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

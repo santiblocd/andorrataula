@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel - La Pèrgola</title>
+    <title>Lo Racó de les Terres de l'Ebre - Hotel Eureka</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
-          <li><a href="fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
-          <li><a href="participants/andorra-park-hotel-la-pergola.php">CA</a></li>
+          <li><a href="es/participantes/lo-raco-de-les-terres-de-lebre-hotel-eureka.php">ES</a></li>
+          <li><a href="fr/participants/lo-raco-de-les-terres-de-lebre-hotel-eureka.php">FR</a></li>
+          <li><a href="participants/lo-raco-de-les-terres-de-lebre-hotel-eureka.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Andorra Park Hotel<br> La Pèrgola</h2>
+              <h2>Lo Racó<br>de les Terres de l'Ebre<br>Hotel Eureka</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -44,21 +44,21 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Medalló de vieira sobre crema de carbassa,<br>brisa de caviar i aroma de tòfona<br>acompanyat d'una INEDIT de Damm</li>
                     —<br>
-                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
+                    <li>Burrata amb crema d’espinacs<br>i escuma de tomàquet morú</li>
                     —<br>
-                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
+                    <li>Caneló de marisc amb beixamel de bolets<br>i brots florals</li>
                     —<br>
-                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
+                    <li>Arròs de marisc i carxofa de Benicarló</li>
                     —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets</li>
+                    <li>Filet de bou d’Andorra<br>amb Parmentier de remolatxa i pruna confitada</li>
                     —<br>
-                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
+                    <li>Pastisset de crema de figues<br>i crema anglesa</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>40 €</p>
+                  <p>36 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -69,15 +69,15 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula</li>
                     —<br>
-                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
+                    <li>Ració de croquetes d’estofat de vedella</li>
                     —<br>
-                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
+                    <li>Suprema de lluç arrebossat<br>amb farina d’arròs i guarnició</li>
                     —<br>
-                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
+                    <li>Postres del xef</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>20 €</p>
+                  <p>15 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -90,18 +90,18 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hoteleureka.com" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>C. de les Canals, 24 · Andorra la Vella</p>
-              <p>(+376) 877 777</p>
-              <p> De dilluns a diumenge, de 12.30 ha 15.30 h</p>
+              <p>Av. Carlemany, 36 · Escaldes-Engordany</p>
+              <p>(+376) 880 666</p>
+              <p> De dilluns a diumenge, de 13 h a 16 h</p>
               <p>i de 20 h a 23 h</p>
-              <p>reservas@andorraparkhotel.com</p>
+              <p>hoteleureka@andorra.ad</p>
               <br>
-              <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
-              <p><a href="#">@andorraparkhotel</a></p>
+              <p><a href="https://www.hoteleureka.com/">www.hoteleureka.com</a></p>
+              <p><a href="#">@hoteleureka</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
@@ -110,12 +110,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/02.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/03.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/05.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/06.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/lo-raco-de-les-terres-de-lebre-hotel-eureka/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('img/participants/lo-raco-de-les-terres-de-lebre-hotel-eureka/02.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/lo-raco-de-les-terres-de-lebre-hotel-eureka/03.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/lo-raco-de-les-terres-de-lebre-hotel-eureka/04.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/lo-raco-de-les-terres-de-lebre-hotel-eureka/05.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

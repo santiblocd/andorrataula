@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel - La Pèrgola</title>
+    <title>Restaurant Sol i Neu - Club Hermitage</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
-          <li><a href="fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
-          <li><a href="participants/andorra-park-hotel-la-pergola.php">CA</a></li>
+          <li><a href="es/participantes/restaurant-sol-i-neu-club-hermitage.php">ES</a></li>
+          <li><a href="fr/participants/restaurant-sol-i-neu-club-hermitage.php">FR</a></li>
+          <li><a href="participants/restaurant-sol-i-neu-club-hermitage.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,7 +35,7 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Andorra Park Hotel<br> La Pèrgola</h2>
+              <h2>Restaurant Sol i Neu<br>Club Hermitage</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
@@ -44,17 +44,17 @@
                 <div class="menu">
                   <h4>Menú gastronòmic</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Bringuera d’Andorra<br>amb salsa vella de tomàquet<br>acompanyada d'una INEDIT de Damm</li>
                     —<br>
-                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
+                    <li>El nostre ramen andorrà:<br>sopa de ceba a la nostra manera amb bolets,<br>cansalada viada i ou a baixa temperatura</li>
                     —<br>
-                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
+                    <li>Tàrtar de tomàquet amb encenalls<br>de truita de riu fumada i crema d’ametlles</li>
                     —<br>
-                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
+                    <li>Llom de llobarro rostit<br>amb suc i pil-pil de les espines</li>
                     —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets</li>
+                    <li>Mandonguilles de l’àvia<br>amb tòfona i Parmentier</li>
                     —<br>
-                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
+                    <li>Postres Alaska Soldeu</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -67,13 +67,13 @@
                 <div class="menu">
                   <h4>Menú júnior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Croqueta cremosa de pernil i pollastre</li>
                     —<br>
-                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
+                    <li>Macarrons de l’àvia gratinats</li>
                     —<br>
-                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
+                    <li>Costelletes de xai a la brasa</li>
                     —<br>
-                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
+                    <li>Gelats artesans</li>
                   </ul>
                 </div>
                 <div class="preu">
@@ -90,18 +90,19 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>C. de les Canals, 24 · Andorra la Vella</p>
-              <p>(+376) 877 777</p>
-              <p> De dilluns a diumenge, de 12.30 ha 15.30 h</p>
+              <p>Crta. General, 2 · Soldeu</p>
+              <p>(+376) 851 325</p>
+              <p>De dilluns a diumenge, de 13 h a 16 h</p>
               <p>i de 20 h a 23 h</p>
-              <p>reservas@andorraparkhotel.com</p>
+              <p>Dimarts, tancat</p>
+              <p>maitre.solineu@sporthotels.ad</p>
               <br>
-              <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
-              <p><a href="#">@andorraparkhotel</a></p>
+              <p><a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html">www.hotelhermitage.sporthotels.ad</a></p>
+              <p><a href="#">@sporthotelhermitage</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
@@ -110,12 +111,12 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/02.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/03.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/05.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/06.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-sol-i-neu-club-hermitage/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-sol-i-neu-club-hermitage/02.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-sol-i-neu-club-hermitage/03.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-sol-i-neu-club-hermitage/04.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-sol-i-neu-club-hermitage/05.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-sol-i-neu-club-hermitage/06.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

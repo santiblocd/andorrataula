@@ -2,7 +2,7 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel - La Pèrgola</title>
+    <title>Restaurant Borda Raubert</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
   </head>
   <body>
@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
-          <li><a href="fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
-          <li><a href="participants/andorra-park-hotel-la-pergola.php">CA</a></li>
+          <li><a href="es/participantes/restaurant-borda-raubert.php">ES</a></li>
+          <li><a href="fr/participants/restaurant-borda-raubert.php">FR</a></li>
+          <li><a href="participants/restaurant-borda-raubert.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
@@ -35,30 +35,26 @@
             <div class="aligner"></div>
             <!-- START BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
-              <h2>Andorra Park Hotel<br> La Pèrgola</h2>
+              <h2>Restaurant<br>Borda Raubert</h2>
             </div>
             <!-- FIN BLOQUE RESTAURANTE > TITULO -->
             <div class="info-restaurant">
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menú tradicional</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Galeta salada amb fruita seca i formartge<br>acompanyada d’una INEDIT de Damm</li>
                     —<br>
-                    <li>Amanida de carxofa amb bacallà<br>i moniato cruixent</li>
+                    <li>Amanida de tardor<br>amb formatge d’ovella i magrana<br> o <br>Crema de carabassa<br>amb encenalls de pernil</li>
                     —<br>
-                    <li>Tàrtar de carbassó amb formatge feta,<br>tomàquet sec i oliva negra</li>
+                    <li>Estofat d’anoll d’Andorra<br>amb bolets de temporada<br> o <br> Graellada de carn a la brasa<br>amb verdures</li>
                     —<br>
-                    <li>Ous ecològics trencats<br>amb favetes confitades i sonso fregit</li>
-                    —<br>
-                    <li>Pollastre de pagès estofat<br>amb bolets</li>
-                    —<br>
-                    <li>Pinya flamejada<br>amb gelat de coco i crumble</li>
+                    <li>Iogurt d’ovella artesà<br>amb confitura de saüc<br> o <br>Pastís de la casa<br>amb confitura de grosella i mora</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>40 €</p>
+                  <p>30 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
@@ -67,17 +63,17 @@
                 <div class="menu">
                   <h4>Menú júnior</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Galeta salada<br>amb fruita seca i formatge</li>
                     —<br>
-                    <li>Brou de pollastre<br>amb mandonguilles i galets</li>
+                    <li>Sopa de festa major amb galets</li>
                     —<br>
-                    <li>Lluç de palangre a la planxa<br>o arrebossat amb puré de forquilla</li>
+                    <li>Botifarra del país<br>amb patates fregides</li>
                     —<br>
-                    <li>Gelat de vainilla<br>amb xocolata calenta i teula</li>
+                    <li>Gelat de xocolata<br>amb encenalls de xocolata</li>
                   </ul>
                 </div>
                 <div class="preu">
-                  <p>20 €</p>
+                  <p>18 €</p>
                   <span>per persona</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
@@ -90,18 +86,19 @@
               <p>IGI inclòs • Begudes no incloses</p>
             </div>
              <div class="boton">
-              <a href="https://www.andorraparkhotel.com/ca/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.bordaraubert.com/" target="_blank">Fes la teva <br>reserva</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
-              <p>C. de les Canals, 24 · Andorra la Vella</p>
-              <p>(+376) 877 777</p>
-              <p> De dilluns a diumenge, de 12.30 ha 15.30 h</p>
-              <p>i de 20 h a 23 h</p>
-              <p>reservas@andorraparkhotel.com</p>
+              <p>Crta. d'Arinsal, km 1,5 · La Massana</p>
+              <p>(+376) 835 420</p>
+              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
+              <p>i de 20.30 h a 22.30 h</p>
+              <p>Dilluns nit i dimarts, tancat</p>
+              <p>bordaraubert@gmail.com</p>
               <br>
-              <p><a href="https://www.andorraparkhotel.com/ca/">www.andorraparkhotel.com</a></p>
-              <p><a href="#">@andorraparkhotel</a></p>
+              <p><a href="https://www.bordaraubert.com/">www.bordaraubert.com</a></p>
+              <p><a href="#">@bordadraubert</a></p>
             </div>
           </div>
           <!-- END LEGAL + DIRECCIÓN -->
@@ -110,12 +107,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/02.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/03.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/05.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/06.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-la-borda-raubert/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-la-borda-raubert/02.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-la-borda-raubert/03.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-la-borda-raubert/04.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-la-borda-raubert/05.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 
