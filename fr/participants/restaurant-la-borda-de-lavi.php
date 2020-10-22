@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant La Borda de l'avi</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,41 +42,39 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú tradicional</h4>
+                  <h4>Menu traditionnel</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d’una INEDIT de Damm</li>
+                    <li>Amuse-bouche Andorra a Taula<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Amanida tèbia de bacallà<br>brou i pasta</li>
+                    <li>Salade tiède de morue et poivrons rouges<br>grillés assaisonnée à la vinaigrette de miso<br> ou <br>Cannelloni traditionnels<br>gratinés et béchamel aux cèpes</li>
                     —<br>
-                    <li>Carpaccio de bacallà<br>amb pebrots vermells escalivats<br>i vinagreta de miso<br> o <br>Canelons tradicionals gratinats<br>amb beixamel de ceps</li>
+                    <li>Calmars à la plancha<br>sur lit de févettes sautées<br> ou <br>Entrecôte de veau du terroir<br>et pommes de terre grillées au feu de bois,<br>tomate à la provençal et piments verts de Padrón</li>
                     —<br>
-                    <li>Calamars a la planxa<br>damunt un llit de favetes saltades<br> o <br>Entrecot de vedella del país a la brasa<br>amb patata al caliu, tomàquet a la provençal<br>i pebrots del Padrón</li>
-                    —<br>
-                    <li>Flam de l’àvia de castanyes<br> o <br>Pastís Tatin de pera amb gelat de nata</li>
+                    <li>Crème renversée maison aux châtaignes<br> ou <br>Tarte Tatin aux poires<br>accompagnée de glace à la crème Chantilly</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>38 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-gueule Andorra a Taula</li>
                     —<br>
-                    <li>Crema de carbassa<br>amb encenalls de pernil ibèric</li>
+                    <li>Crème de potiron parsemée<br>de pétales de jambon ibérique</li>
                     —<br>
-                    <li>Minientrecot del país a la brasa<br>amb patates fregides</li>
+                    <li>Minientrecôte du terroir grillée<br>au feu de bois, pommes frites</li>
                     —<br>
-                    <li>Coulant de xocolata<br>amb sorbet de llimona</li>
+                    <li>Coulant au chocolat<br>et sorbet au citron</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>20 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -85,17 +83,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="https://www.restaurantelabordadelavi.com/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.restaurantelabordadelavi.com/" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Av. del Ravell, 38 · La Massana</p>
               <p>(+376) 835 154</p>
-              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20 h a 22.30 h</p>
+              <p>Du lundi au dimanche, de 13 h à 15.30 h</p>
+              <p>et de 20 h à 22.30 h</p>
               <p>bordaavi@andorra.ad</p>
               <br>
               <p><a href="https://www.restaurantelabordadelavi.com/">www.restaurantelabordadelavi.com</a></p>

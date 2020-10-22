@@ -46,9 +46,7 @@
                   <ul>
                     <li>Aperitiu Andorra a Taula<br>acompanyat d’una INEDIT de Damm</li>
                     —<br>
-                    <li>Amanida tèbia de bacallà<br>brou i pasta</li>
-                    —<br>
-                    <li>Carpaccio de bacallà<br>amb pebrots vermells escalivats<br>i vinagreta de miso<br> o <br>Canelons tradicionals gratinats<br>amb beixamel de ceps</li>
+                    <li>Amanida tèbia de bacallà<br>amb pebrots vermells escalivats<br>escalivats i vinagreta de miso<br> o <br>Canelons tradicionals gratinats<br>amb beixamel de ceps</li>
                     —<br>
                     <li>Calamars a la planxa<br>damunt un llit de favetes saltades<br> o <br>Entrecot de vedella del país a la brasa<br>amb patata al caliu, tomàquet a la provençal<br>i pebrots del Padrón</li>
                     —<br>
