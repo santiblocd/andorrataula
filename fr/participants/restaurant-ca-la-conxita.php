@@ -69,7 +69,7 @@
                     —<br>
                     <li>Nuggets de poulet<br>et pommes de terre gratinées au four</li>
                     —<br>
-                    <li>PDessert au choix</li>
+                    <li>Dessert au choix</li>
                   </ul>
                 </div>
                 <div class="preu">
