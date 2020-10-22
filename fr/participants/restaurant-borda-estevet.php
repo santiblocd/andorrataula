@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Borda Estevet</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menu gastronomique</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Amuse-bouche Andorra a Taula<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Coliflor de muntanya gratinada<br>amb beixamel d’ibèric i encenalls de fetge<br>d’ànec semicuit</li>
+                    <li>Chou-fleur du terroir gratiné,<br>béchamel au jambon ibérique<br>et pétale de foie de canard mi-cuit</li>
                     —<br>
-                    <li>Sashimi de salmó sobre cruixent<br>d’algues wakame i maionesa de soja</li>
+                    <li>Sashimi de saumon sur croustillant<br>d’algues wakame et mayonnaise de soja</li>
                     —<br>
-                    <li>Magret d’ànec, ceps i foie poêlé</li>
+                    <li>Magret de canard, cèpes et foie poêlé</li>
                     —<br>
-                    <li>Turbot amb bolets de temporada,<br> fruita seca i vinagreta dolça</li>
+                    <li>Turbot aux champignons de saison,<br>fruits secs et vinaigrette douce</li>
                     —<br>
-                    <li>Tiramisú<br> o <br>Batut de mango<br>amb coulant de xocolata i gelat de gerds</li>
+                    <li>Tiramisú<br> ou <br>Smoothie au mango,<br>coulant au chocolat et glace aux framboises</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>35 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-gueule Andorra a Taula</li>
                     —<br>
-                    <li>Espaguetis a la carbonara</li>
+                    <li>Spaghettis carbonara</li>
                     —<br>
-                    <li>Cuixa de pollastre a la brasa<br>amb patates fregides</li>
+                    <li>Cuisse de poulet grillée<br>au feu de bois et pommes frites</li>
                     —<br>
-                    <li>Flam de la casa<br> o <br>Gelats variats</li>
+                    <li>Crème renversée maison<br> ou <br>Assortiment de glace au choix</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>17 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,18 +87,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="mailto:gruptriomf@mail.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:gruptriomf@mail.com" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Crta. de la Comella, 2 · Andorra la Vella</p>
               <p>(+376) 864 026</p>
-              <p> De dimarts a diumenge, de 13 h a 16 h</p>
-              <p>i de 20 h a 23 h</p>
-              <p>Diumenge nit, tancat</p>
+              <p>Du mardi au dimanche, de 13 h à 16 h</p>
+              <p>et de 20 h à 23 h</p>
+              <p>Fermé le dimanche soire</p>
               <p>gruptriomf@gmail.com</p>
               <br>
               <p><a href="#">@bordaestevet</a></p>
