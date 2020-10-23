@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cfr" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Isard</title>
