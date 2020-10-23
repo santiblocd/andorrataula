@@ -32,6 +32,12 @@ $("#intro-slider").vegas({
       ]
 });
 
+$("#colaboradores-slider").vegas({
+      slides: [
+          { src: "./img/intro/colaboradores.jpg" }
+      ]
+});
+
 Number.prototype.reverse = function() {
   return this > 0 ? -this : Math.abs(this);
 }

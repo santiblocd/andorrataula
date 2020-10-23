@@ -111,7 +111,7 @@
           <div class="slide" style="background-image: url('img/participants/1940-restaurant/02.jpg')"></div>
           <div class="slide" style="background-image: url('img/participants/1940-restaurant/03.jpg')"></div>
           <div class="slide" style="background-image: url('img/participants/1940-restaurant/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/1940-restaurant/05.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/1940-restaurant/05.jpg')"><div class="legal">INEDIT Damm en recomana el consum responsable. Alc. 4,8º</div></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 
