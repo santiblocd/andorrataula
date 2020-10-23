@@ -106,10 +106,10 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/restaurant-don-denis/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-don-denis/02.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-don-denis/03.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-don-denis/04.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-don-denis/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-don-denis/02.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-don-denis/03.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-don-denis/04.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

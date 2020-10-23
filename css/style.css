@@ -219,6 +219,30 @@ h2.invitacion {
   top: 0px;
   right: 0px;
 }
+#colaboradores-slider {
+  width: calc(100% - 333px);
+  height: 100vh;
+  float: right;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}
+#colaboradores-slider .colaboradores {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+#colaboradores-slider .colaboradores .bloque {
+  display: flex;
+  flex-direction: column;
+}
+#colaboradores-slider .colaboradores .bloque .logos {
+  display: flex;
+  flex-direction: row;
+}
 .circle {
   font-family: 'SourceSerifPro-Semibold';
   width: 200px;
