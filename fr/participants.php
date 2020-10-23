@@ -33,7 +33,7 @@
         </a>
 
         <?php include "./template-parts/participantes.html" ?>
-
+        
       </div>
     </div>
 

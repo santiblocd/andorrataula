@@ -33,8 +33,7 @@
         </a>
 
         <?php include "./template-parts/participantes.html" ?>
-
-      </div>
+        
     </div>
 
     <?php include "./template-parts/footer.html" ?>

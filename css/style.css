@@ -235,17 +235,23 @@ h2.invitacion {
   bottom: 0px;
   width: 100%;
   background-color: white;
+  border-left: 1px solid black;
+  padding: 20px;
 }
 #colaboradores-slider .colaboradores .bloque {
   display: flex;
   flex-direction: column;
+}
+#colaboradores-slider .colaboradores .bloque p {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
 }
 #colaboradores-slider .colaboradores .bloque .logos {
   display: flex;
   flex-direction: row;
 }
 #colaboradores-slider .colaboradores .bloque .logos img {
-  width: 100px;
+  height: 100px;
 }
 .circle {
   font-family: 'SourceSerifPro-Semibold';

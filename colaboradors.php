@@ -35,26 +35,26 @@
                 <p>Organitzen:</p>
                 <div class="logos">
                   <img src="img/logos/uniohoteleraandorra.jpg">
-                  <img src="img/logos/uniohoteleraandorra.jpg">
-                  <img src="img/logos/uniohoteleraandorra.jpg">
+                  <img src="img/logos/inedit.jpg">
+                  <img src="img/logos/andorrataula.jpg">
                 </div>
               </div>
                <div class="bloque">
                 <p>Agraïments:</p>
                 <div class="logos">
-                  <img src="img/logos/uniohoteleraandorra.jpg">
+                  <img src="img/logos/visitandorra.jpg">
                 </div>
               </div>
                <div class="bloque">
                 <p>Col·laboren:</p>
                 <div class="logos">
-                  <img src="img/logos/uniohoteleraandorra.jpg">
+                  <img src="img/logos/telecom.jpg">
                 </div>
               </div>
               <div class="bloque">
                 <p>Per a més informació:</p>
                 <div class="logos">
-                  <img src="img/logos/uniohoteleraandorra.jpg">
+                  <img src="img/logos/gastronosfera.jpg">
                 </div>
               </div>
             </div>
