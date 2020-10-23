@@ -18,9 +18,9 @@
      
       <?php include "./template-parts/header.html" ?>
       <nav class="menu-lang">
-          <li><a href="es">ES</a></li>
-          <li><a href="./fr">FR</a></li>
-          <li><a href="./">CA</a></li>
+          <li><a href="../es/index.php">ES</a></li>
+          <li><a href="../fr/index.php">FR</a></li>
+          <li><a href="../index.php">CA</a></li>
         </nav>
       <div class="texto-presentacion">
         <h2 class="invitacion">La table est dressée,<br>une bière INEDIT Damm<br>bien fraîche<br>est à votre disposition :<br>nous n’attendons<br>plus que vous.</h2>
