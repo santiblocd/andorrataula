@@ -115,7 +115,7 @@
           <div class="slide" style="background-image: url('../img/participants/pizzeria-restaurant-angelo-sant-julia/03.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/pizzeria-restaurant-angelo-sant-julia/04.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/pizzeria-restaurant-angelo-sant-julia/05.jpg')"></div>
-          <div class="slide" style="background-image: url('../img/participants/pizzeria-restaurant-angelo-sant-julia/06.jpg')"></div><div class="legal">INEDIT Damm recomienda el consumo responsable. Alc. 4,8º</div></div>
+          <div class="slide" style="background-image: url('../img/participants/pizzeria-restaurant-angelo-sant-julia/06.jpg')"><span class="legal">INEDIT Damm recomienda el consumo responsable. Alc. 4,8º</span></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

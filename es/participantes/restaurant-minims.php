@@ -115,7 +115,7 @@
           <div class="slide" style="background-image: url('../img/participants/restaurant-minims/03.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-minims/04.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-minims/05.jpg')"></div>
-          <div class="slide" style="background-image: url('../img/participants/restaurant-minims/06.jpg')"></div><div class="legal">INEDIT Damm recomienda el consumo responsable. Alc. 4,8º</div></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-minims/06.jpg')"><span class="legal">INEDIT Damm recomienda el consumo responsable. Alc. 4,8º</span></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

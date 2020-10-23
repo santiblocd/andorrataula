@@ -272,16 +272,20 @@ h2.invitacion {
 	position: fixed;
 	top: 0px;
 	right: 0px;
-	.colaboradores {
+}
+
+.colaboradores {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
 		position: absolute;
 	    bottom: 0px;
-	    width: 100%;
+	    width: ~"calc(100% - 333px)";
 	    background-color: white;
 	    border-left: 1px solid black;
 	    padding: 20px;
+	    z-index: 99;
+	    right: 0px;
 
 		.bloque {
 			display: flex;
@@ -301,7 +305,6 @@ h2.invitacion {
 			}
 		}
 	}
-}
 
 .circle {
 	font-family: 'SourceSerifPro-Semibold';
@@ -511,6 +514,15 @@ h2.invitacion {
 		width: 50%;
 		float: left;
 	}
+
+	.legal {
+		position: absolute;
+	    bottom: 30px;
+	    width: 50%;
+	    .FontSmall();
+	    line-height: 15px;
+	    font-family: 'Gellix-Regular';
+	}
 }
 
 .gallery {
@@ -541,6 +553,13 @@ h2.invitacion {
     		padding: 5px 10px 5px 10px;
     		border-radius: 3px;
 
+		}
+
+		.legal {
+			.FontSmall();
+	    	line-height: 15px;
+	    	color: white;
+	    	font-family: 'Gellix-Regular';
 		}
 	}
 }
@@ -878,6 +897,45 @@ h2.invitacion {
 
 	#intro-slider {
 		width: 100%;
+	}
+
+	#colaboradores-slider {
+		width: 100%;
+		height: 25vh;
+		float: right;
+		top: 0px;
+		right: 0px;
+		
+	}
+
+	.colaboradores {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	    width: 100%;
+	    background-color: white;
+	    border-left: 1px solid black;
+	    padding: 20px;
+
+		.bloque {
+			display: flex;
+			flex-direction: column;
+
+			p {
+				border-bottom: 1px solid black;
+    			padding-bottom: 5px;
+    			font-size: 30px;
+			}
+
+			.logos {
+				display: flex;
+				flex-direction: row;
+				img {
+					width: 300px;
+					height: auto;
+				}
+			}
+		}
 	}
 
 	.participantes {

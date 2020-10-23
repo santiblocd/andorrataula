@@ -114,8 +114,8 @@
           <div class="slide" style="background-image: url('img/participants/restaurant-isard/02.jpg')"></div>
           <div class="slide" style="background-image: url('img/participants/restaurant-isard/03.jpg')"></div>
           <div class="slide" style="background-image: url('img/participants/restaurant-isard/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-isard/05.jpg')"></div>
-        </div><div class="legal">INEDIT Damm en recomana el consum responsable. Alc. 4,8º</div></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-isard/05.jpg')"><span class="legal">INEDIT Damm en recomana el consum responsable. Alc. 4,8º</span></div>
+    
         </div>
         <!-- END IMÁGENES LINKS -->
 

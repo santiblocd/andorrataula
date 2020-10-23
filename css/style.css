@@ -227,30 +227,32 @@ h2.invitacion {
   top: 0px;
   right: 0px;
 }
-#colaboradores-slider .colaboradores {
+.colaboradores {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   position: absolute;
   bottom: 0px;
-  width: 100%;
+  width: calc(100% - 333px);
   background-color: white;
   border-left: 1px solid black;
   padding: 20px;
+  z-index: 99;
+  right: 0px;
 }
-#colaboradores-slider .colaboradores .bloque {
+.colaboradores .bloque {
   display: flex;
   flex-direction: column;
 }
-#colaboradores-slider .colaboradores .bloque p {
+.colaboradores .bloque p {
   border-bottom: 1px solid black;
   padding-bottom: 5px;
 }
-#colaboradores-slider .colaboradores .bloque .logos {
+.colaboradores .bloque .logos {
   display: flex;
   flex-direction: row;
 }
-#colaboradores-slider .colaboradores .bloque .logos img {
+.colaboradores .bloque .logos img {
   height: 100px;
 }
 .circle {
@@ -438,6 +440,14 @@ h2.invitacion {
   width: 50%;
   float: left;
 }
+.participantes .legal {
+  position: absolute;
+  bottom: 30px;
+  width: 50%;
+  font-size: 12px;
+  line-height: 15px;
+  font-family: 'Gellix-Regular';
+}
 .gallery {
   width: calc(100% - 450px);
   height: 100vh;
@@ -465,6 +475,12 @@ h2.invitacion {
   background-color: white;
   padding: 5px 10px 5px 10px;
   border-radius: 3px;
+}
+.gallery .slide .legal {
+  font-size: 12px;
+  line-height: 15px;
+  color: white;
+  font-family: 'Gellix-Regular';
 }
 .barra-left {
   width: 450px;
@@ -742,6 +758,39 @@ h2.invitacion {
   }
   #intro-slider {
     width: 100%;
+  }
+  #colaboradores-slider {
+    width: 100%;
+    height: 25vh;
+    float: right;
+    top: 0px;
+    right: 0px;
+  }
+  .colaboradores {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    background-color: white;
+    border-left: 1px solid black;
+    padding: 20px;
+  }
+  .colaboradores .bloque {
+    display: flex;
+    flex-direction: column;
+  }
+  .colaboradores .bloque p {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    font-size: 30px;
+  }
+  .colaboradores .bloque .logos {
+    display: flex;
+    flex-direction: row;
+  }
+  .colaboradores .bloque .logos img {
+    width: 300px;
+    height: auto;
   }
   .participantes .columna1,
   .participantes .columna2 {

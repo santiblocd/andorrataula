@@ -112,9 +112,12 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('../img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menu gastronomique</div></div>
-          <div class="slide">your 2</div>
-          <div class="slide">your 3</div><div class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool</div></div>
+          <div class="gallery">
+          <div class="slide" style="background-image: url('../img/participants/plato-restaurant/01.jpg')"><div class="tipomenu">Menú gastronòmic</div></div>
+          <div class="slide" style="background-image: url('../img/participants/plato-restaurant/02.jpg')">your 2</div>
+          <div class="slide" style="background-image: url('../img/participants/plato-restaurant/03.jpg')">your 3</div>
+          <div class="slide" style="background-image: url('../img/participants/plato-restaurant/04.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/plato-restaurant/05.jpg')"><span class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool</span></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

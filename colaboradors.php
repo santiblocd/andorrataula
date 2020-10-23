@@ -30,7 +30,9 @@
     <!-- define the wrapper and the container -->
     <div data-barba="container" data-barba-namespace="home"> 
           <div id="colaboradores-slider">
-            <div class="colaboradores">
+            
+          </div>
+          <div class="colaboradores">
               <div class="bloque">
                 <p>Organitzen:</p>
                 <div class="logos">
@@ -39,18 +41,21 @@
                   <img src="img/logos/andorrataula.jpg">
                 </div>
               </div>
-               <div class="bloque">
+
+              <div class="bloque">
                 <p>Agraïments:</p>
                 <div class="logos">
                   <img src="img/logos/visitandorra.jpg">
                 </div>
               </div>
-               <div class="bloque">
+
+              <div class="bloque">
                 <p>Col·laboren:</p>
                 <div class="logos">
                   <img src="img/logos/telecom.jpg">
                 </div>
               </div>
+
               <div class="bloque">
                 <p>Per a més informació:</p>
                 <div class="logos">
@@ -58,8 +63,6 @@
                 </div>
               </div>
             </div>
-          </div>
-    </div>
   </div>
 
   <?php include "./template-parts/footer.html" ?>

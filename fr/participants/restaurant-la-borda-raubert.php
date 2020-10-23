@@ -111,7 +111,7 @@
           <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-raubert/02.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-raubert/03.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-raubert/04.jpg')"></div>
-          <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-raubert/05.jpg')"></div><div class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool</div></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-raubert/05.jpg')"><span class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool</span></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

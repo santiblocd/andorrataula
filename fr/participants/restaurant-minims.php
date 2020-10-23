@@ -27,9 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="../fr">
           <div class="circle titulo">
-            <div class="circle titulo">
-              <h1><span class="minus">Andorre</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
-            </div>
+              <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -112,12 +110,12 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('../img/participants/restaurant-minims/01.jpg')"><div class="tipomenu">Menú gastronomique</div></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-minims/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-minims/02.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-minims/03.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-minims/04.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-minims/05.jpg')"></div>
-          <div class="slide" style="background-image: url('../img/participants/restaurant-minims/06.jpg')"></div><div class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool</div></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-minims/06.jpg')"><span class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool</span></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 
