@@ -111,11 +111,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/restaurant-panxo/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-panxo/01.jpg')"><div class="tipomenu">Menú gastronòmic</div></div>
           <div class="slide" style="background-image: url('img/participants/restaurant-panxo/02.jpg')"></div>
           <div class="slide" style="background-image: url('img/participants/restaurant-panxo/03.jpg')"></div>
           <div class="slide" style="background-image: url('img/participants/restaurant-panxo/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-panxo/05.jpg')"></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-panxo/05.jpg')"></div><div class="legal">INEDIT Damm en recomana el consum responsable. Alc. 4,8º</div></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

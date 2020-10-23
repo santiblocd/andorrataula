@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="../fr">
           <div class="circle titulo">
-              <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
+              <h1><span class="minus">Andorre</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -112,7 +112,7 @@
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
 
-          <div class="slide" style="background-image: url('img/participants/restaurant-sol-i-neu-club-hermitage/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('img/participants/restaurant-sol-i-neu-club-hermitage/01.jpg')"><div class="tipomenu">Menu gastronomique</div></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-sol-i-neu-club-hermitage/02.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-sol-i-neu-club-hermitage/03.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-sol-i-neu-club-hermitage/04.jpg')"></div>

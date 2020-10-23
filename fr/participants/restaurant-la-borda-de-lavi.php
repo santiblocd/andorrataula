@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="../fr">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
+            <h1><span class="minus">Andorre</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -106,12 +106,12 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-de-lavi/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-de-lavi/01.jpg')"><div class="tipomenu">Menu traditionnel</div></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-de-lavi/02.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-de-lavi/03.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-de-lavi/04.jpg')"></div>
           <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-de-lavi/05.jpg')"></div>
-          <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-de-lavi/06.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-la-borda-de-lavi/06.jpg')"></div><div class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool</div></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 
