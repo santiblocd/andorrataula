@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant La Cort de Popaire</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menu gastronomique</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d’una INEDIT de Damm</li>
+                    <li>Amuse-bouche Andorra a Taula<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Cheesecake de truita fumada<br>amb anet i mostassa</li>
+                    <li>Cheesecake à la truite fumée,<br>assaisonné à l’aneth et à la moutarde</li>
                     —<br>
-                    <li>Gyozes andorranes amb donja,<br>botifarra negra i trinxat</li>
+                    <li>Gyozas andorrans au donja,<br>boudin noir et choux en purée</li>
                     —<br>
-                    <li>Salmó amb fonoll confitat<br>i reducció de ratassia de la Carmeta</li>
+                    <li>Saumon au fenouil confit<br>et réduction de ratassia de la Carmeta</li>
                     —<br>
-                    <li>Magret d’ànec a la brasa<br>amb patates fregides de codony</li>
+                    <li>Magret de canard cuit au feu de bois<br>garni de frites en gelée de coing</li>
                     —<br>
-                    <li>Brownie de xocolata i figues<br>amb coulis de macarulla</li>
+                    <li>Brownie et figues<br>au coulis de macarulla</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>35 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-gueule Andorra a Taula</li>
                     —<br>
-                    <li>Croquetes de ceps o pollastre<br>amb amanida variada</li>
+                    <li>Croquettes de cèpes<br>ou de poulet et salade</li>
                     —<br>
-                    <li>Botifarra a la brasa<br>amb patates fregides i verdures</li>
+                    <li>BSaucisse cuite au feu de bois<br>garnie de frites et de légumes</li>
                     —<br>
-                    <li>Brownie de xocolata<br>amb gelat de vainilla</li>
+                    <li>Brownie garni d’une boule de glace<br>à la vanille</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>15 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,18 +87,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="mailto:lacortdepopaire@andorra.ad" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:lacortdepopaire@andorra.ad" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Plaça del poble · Soldeu</p>
               <p>(+376) 851 211</p>
-              <p> De dijous a diumenge, de 13 h a 15 h</p>
-              <p>i de 20 h a 22 h</p>
-              <p>Dilluns, dimarts i dimecres, tancat</p>
+              <p>Du jeudi au dimanche, de 13 h à 15 h</p>
+              <p>et de 20 h à 22 h</p>
+              <p>Fermé les lundi, mardi et mercredi</p>
               <p>lacortdepopaire@andorra.ad</p>
               <br>
               <p><a href="#">@lacortdepopaire</a></p>
