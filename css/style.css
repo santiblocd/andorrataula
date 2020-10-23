@@ -234,6 +234,7 @@ h2.invitacion {
   position: absolute;
   bottom: 0px;
   width: 100%;
+  background-color: white;
 }
 #colaboradores-slider .colaboradores .bloque {
   display: flex;
@@ -242,6 +243,9 @@ h2.invitacion {
 #colaboradores-slider .colaboradores .bloque .logos {
   display: flex;
   flex-direction: row;
+}
+#colaboradores-slider .colaboradores .bloque .logos img {
+  width: 100px;
 }
 .circle {
   font-family: 'SourceSerifPro-Semibold';

@@ -32,21 +32,29 @@
           <div id="colaboradores-slider">
             <div class="colaboradores">
               <div class="bloque">
-                <p>bloque 1</p>
+                <p>Organitzen:</p>
                 <div class="logos">
-                  <img src="">
+                  <img src="img/logos/uniohoteleraandorra.jpg">
+                  <img src="img/logos/uniohoteleraandorra.jpg">
+                  <img src="img/logos/uniohoteleraandorra.jpg">
                 </div>
               </div>
                <div class="bloque">
-                <p>bloque 2</p>
+                <p>Agraïments:</p>
                 <div class="logos">
-                  <img src="">
+                  <img src="img/logos/uniohoteleraandorra.jpg">
                 </div>
               </div>
                <div class="bloque">
-                <p>bloque 3</p>
+                <p>Col·laboren:</p>
                 <div class="logos">
-                  <img src="">
+                  <img src="img/logos/uniohoteleraandorra.jpg">
+                </div>
+              </div>
+              <div class="bloque">
+                <p>Per a més informació:</p>
+                <div class="logos">
+                  <img src="img/logos/uniohoteleraandorra.jpg">
                 </div>
               </div>
             </div>
