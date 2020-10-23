@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Don Denis</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,39 +42,39 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú tradicional</h4>
+                  <h4>Menu traditionnel</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Amuse-bouche Andorra a Taula<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Amanida de pedrers, foie-gras<br>i confit d’ànec amb figues<br> o <br>Canelons de melós de vedella i ceps</li>
+                    <li>Salade de gésiers, foie gras<br>et confit de canard aux figues<br> ou <br>Cannellonis au melós de veau et cèpes</li>
                     —<br>
-                    <li>Magret d’ànec<br>amb poma caramel•litzada i suc<br> o <br>Escamarlans saltats amb ou,<br>patates i pebrots de Padrón</li>
+                    <li>Magret de canard<br>et pomme caramélisée en sauce<br> ou <br>Langoustines sautées, œuf,<br>pommes de terre et poivrons de Padrón</li>
                     —<br>
-                    <li>Cheesecake sobre pa de pessic<br>de pastanaga<br> o <br>Mousse de llimona àcida</li>
+                    <li>Cheesecake sur une base<br>de gâteau à la carotte<br> ou <br>Mousse au citron</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>36 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-bouche Andorra a Taula</li>
                     —<br>
-                    <li>Canelons de melós de vedella i ceps</li>
+                    <li>Cannellonis au melós de veau et cèpes</li>
                     —<br>
-                    <li>Filet de turbot a la planxa</li>
+                    <li>Filet de turbot à la plancha</li>
                     —<br>
-                    <li>Crep de sucre o de Nutella</li>
+                    <li>Crêpe au sucre ou au Nutella</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>19 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -83,17 +83,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="https://www.dondenis.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.dondenis.com" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. Isabelle Sandy, 3 · Escaldes-Engordany</p>
               <p>(+376) 820 692</p>
-              <p> De dilluns a diumenge, de 12.30 h a 16 h</p>
-              <p>i de 19.30 h a 23 h</p>
+              <p>Du lundi au dimanche, de 12.30 h à 16 h</p>
+              <p>et de 19.30 h à 23 h</p>
               <p>restaurantdondenis@andorra.ad</p>
               <br>
               <p><a href="https://www.dondenis.com/">www.dondenis.com</a></p>

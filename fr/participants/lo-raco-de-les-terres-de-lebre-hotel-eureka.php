@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Lo Racó de les Terres de l'Ebre - Hotel Eureka</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menu gastronomique</h4>
                   <ul>
-                    <li>Medalló de vieira sobre crema de carbassa,<br>brisa de caviar i aroma de tòfona<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Noix de Saint-Jacques sur crème de potiron,<br>brise de caviar et arôme de truffe,<br>le tout servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Burrata amb crema d’espinacs<br>i escuma de tomàquet morú</li>
+                    <li>Burrata à la crème d’épinards<br>et mousse de tomate moruno</li>
                     —<br>
-                    <li>Caneló de marisc amb beixamel de bolets<br>i brots florals</li>
+                    <li>Rouleau de cannellonis aux fruits de mer,<br>béchamel de champignons et pousses de fleurs</li>
                     —<br>
-                    <li>Arròs de marisc i carxofa de Benicarló</li>
+                    <li>Riz aux fruits de mer<br>et aux artichauts de Benicarló</li>
                     —<br>
-                    <li>Filet de bou d’Andorra<br>amb Parmentier de remolatxa i pruna confitada</li>
+                    <li>Filet de bœuf d’Andorre<br>et Parmentier de betteraves et prunes</li>
                     —<br>
-                    <li>Pastisset de crema de figues<br>i crema anglesa</li>
+                    <li>Petits gâteaux à la crème de figues<br>garnis de crème anglaise</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>36 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-gueule Andorra a Taula</li>
                     —<br>
-                    <li>Ració de croquetes d’estofat de vedella</li>
+                    <li>Ration de croquettes de veau à l’étouffée</li>
                     —<br>
-                    <li>Suprema de lluç arrebossat<br>amb farina d’arròs i guarnició</li>
+                    <li>Suprême de merlu pannée<br>à la farine de riz et garniture</li>
                     —<br>
-                    <li>Postres del xef</li>
+                    <li>Dessert du chef</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>15 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,17 +87,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="https://www.hoteleureka.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hoteleureka.com" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Av. Carlemany, 36 · Escaldes-Engordany</p>
               <p>(+376) 880 666</p>
-              <p> De dilluns a diumenge, de 13 h a 16 h</p>
-              <p>i de 20 h a 23 h</p>
+              <p>Du lundi au dimanche, de 13 h à 16 h</p>
+              <p>et de 20 h à 23 h</p>
               <p>hoteleureka@andorra.ad</p>
               <br>
               <p><a href="https://www.hoteleureka.com/">www.hoteleureka.com</a></p>
