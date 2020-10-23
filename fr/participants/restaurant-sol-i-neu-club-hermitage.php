@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Sol i Neu - Club Hermitage</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,24 +42,24 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menu gastronomique</h4>
                   <ul>
-                    <li>Bringuera d’Andorra<br>amb salsa vella de tomàquet<br>acompanyada d'una INEDIT de Damm</li>
+                    <li>Bringuera à la sauce « vieille » de tomate<br>servie avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>El nostre ramen andorrà:<br>sopa de ceba a la nostra manera amb bolets,<br>cansalada viada i ou a baixa temperatura</li>
+                    <li>Notre ramen andorran :<br>soupe à l’oignon maison, champignons,<br>poitrine fumée persillée et œuf à basse température</li>
                     —<br>
-                    <li>Tàrtar de tomàquet amb encenalls<br>de truita de riu fumada i crema d’ametlles</li>
+                    <li>Tartare de tomate, pétales de truite<br>fumée et crème d’amandes</li>
                     —<br>
-                    <li>Llom de llobarro rostit<br>amb suc i pil-pil de les espines</li>
+                    <li>Filet de loup rôti et sauce pil-pil</li>
                     —<br>
-                    <li>Mandonguilles de l’àvia<br>amb tòfona i Parmentier</li>
+                    <li>Boulettes grand-mère, truffe et Parmentier</li>
                     —<br>
-                    <li>Postres Alaska Soldeu</li>
+                    <li>Dessert Alaska Soldeu</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>40 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
@@ -67,18 +67,18 @@
                 <div class="menu">
                   <h4>Menú júnior</h4>
                   <ul>
-                    <li>Croqueta cremosa de pernil i pollastre</li>
+                    <li>Croquette onctueuse de jambon et de poulet</li>
                     —<br>
-                    <li>Macarrons de l’àvia gratinats</li>
+                    <li>Macaronis grand-mère gratinés</li>
                     —<br>
-                    <li>Costelletes de xai a la brasa</li>
+                    <li>Côtes d’agneau grillées au feu de bois</li>
                     —<br>
-                    <li>Gelats artesans</li>
+                    <li>Glaces artisanales</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>20 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,18 +87,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Crta. General, 2 · Soldeu</p>
               <p>(+376) 851 325</p>
-              <p>De dilluns a diumenge, de 13 h a 16 h</p>
-              <p>i de 20 h a 23 h</p>
-              <p>Dimarts, tancat</p>
+              <p>Du lundi au dimanche, de 13 h à 16 h</p>
+              <p>et de 20 h à 23 h</p>
+              <p>Fermé le mardi</p>
               <p>maitre.solineu@sporthotels.ad</p>
               <br>
               <p><a href="https://www.hotelhermitage.sporthotels.ad/gastronomia-andorra/los-restaurantes/restaurante-sol-i-neu.html">www.hotelhermitage.sporthotels.ad</a></p>

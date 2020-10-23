@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Tòpic</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,40 +42,40 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú tradicional</h4>
+                  <h4>Menu traditionnel</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Amuse-bouche Andorra a Taula<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Amanida tèbia d’ou escaldat, poma<br>cansalada viada i daus de codonyat<br> o <br>Caneló de pollastre de pagès amb ceps</li>
+                    <li>Salade tiède composée d’un œuf poché,<br>, de pomme, de poitrine de porc fumée<br>et persillée et de dés de gelée de coing<br> ou <br>Cannellonis de poulet de ferme et cèpes</li>
                     —<br>
-                    <li>Premsat de xai caramel•litzat<br>amb escalunyes i coca de bolets<br> o <br>Pop a la brasa amb romesco de farigola<br>i trumfes del país</li>
+                    <li>Lingot d’agneau caramélisé aux échalottes<br>et galette de champignons<br> ou <br>Poulpe cuit au feu de bois,<br>assaisonné au romesco de thym<br>et garni de pommes de terre du terroir</li>
                     —<br>
-                    <li>Brownie banyat en xarop de ratafia de les valls,<br>menta i xocolata calenta<br> o <br>Pinya caramel•litzada amb gelat casolà<br>de vainilla i pluja de festucs</li>
+                    <li>Brownie arrosé de sirop de ratafia de nos vallées,<br>menthe et chocolat chaud<br> ou <br>Ananas caramélisé garni de glace maison<br>à la vanille et parsemé de pistaches</li>
                     —<br>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>27 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-gueule Andorra a Taula</li>
                     —<br>
-                    <li>Carpaccio de tomàquet<br>amb encenalls de pernil ibèric i formatge</li>
+                    <li>Carpaccio de tomate et pétales<br>de jambon ibérique et de fromage</li>
                     —<br>
-                    <li>Hamburguesa de vedella d’Andorra<br>amb broqueta de patata casolana</li>
+                    <li>Burger de veau d’Andorre<br>et brochette de pommes de terre maison</li>
                     —<br>
-                    <li>Flam d’ou amb nata o gelat artesà</li>
+                    <li>Crème renversée aux œufs<br>garnie de crème Chantilly et de glace artisanale</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>15 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -84,17 +84,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="https://www.hotelcoma/topic.com/" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hotelcoma/topic.com/" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Carrer Major, 21 · Ordino</p>
               <p>(+376) 736 102</p>
-              <p>De dilluns a diumenge, de 13 h a 16 h</p>
-              <p>i de 20 h a 23 h</p>
+              <p>Du lundi au dimanche, de 13 h à 16 h</p>
+              <p>et de 20 h à 23 h</p>
               <p>matopic@hotelcoma.com</p>
               <br>
               <p><a href="https://www.hotelcoma/topic.com">www.hotelcoma/topic.com</a></p>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Peixateria Desgustació La Llotja</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,39 +42,39 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú tradicional</h4>
+                  <h4>Menu traditionnel</h4>
                   <ul>
-                    <li>Blini de salmó marinat<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Blini au saumon mariné<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Cassoleta de bivalves<br> o <br>Trio de tàrtars</li>
+                    <li>Poêlée de mollusques<br> ou <br>Trio de tartares</li>
                     —<br>
-                    <li>Papillota de llenguado i llegums<br> o <br>Tataki de tonyina Bluefin<br>amb algues wakame</li>
+                    <li>Papillote de sole et légumes<br> ou <br>Tataki au thon rouge Bluefin<br>et algue wakame</li>
                     —<br>
-                    <li>Coulant de xocolata<br>amb salsa de gerds<br> o <br>Maroshna al plat</li>
+                    <li>Coulant au chocolat<br>et sauce aux framboises<br> ou <br>Crème glacée « Maroshna »</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>40 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-gueule Andorra a Taula</li>
                     —<br>
-                    <li>Raviolis de salmó</li>
+                    <li>Raviolis au saumon</li>
                     —<br>
-                    <li>Hamburguesa de rap i gamba<br>amb patates al forn</li>
+                    <li>Burger de lotte et de crevettes<br>servi avec des pommes de terre au four</li>
                     —<br>
-                    <li>Maroshna al plat</li>
+                    <li>Crème glacée « Maroshna »</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>17 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -83,18 +83,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="mailto:andorralallotja@gmail.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:andorralallotja@gmail.com" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. Santa Anna, local 1 · Escaldes-Engordany</p>
               <p>(+376) 820 912</p>
-              <p> De dimarts a dissabte, de 13 h a 15 h</p>
-              <p>i de 20 h a 21.30 h</p>
-              <p>Dilluns i diumenge, tancat</p>
+              <p>Du mardi au samedi, de 13 h à 15 h</p>
+              <p>et de 20 h à 21.30 h</p>
+              <p>Fermé le lundi et le dimanche</p>
               <p>andorralallotja@gmail.com</p>
               <br>
               <p><a href="#">@la_llotja_andorra</a></p>

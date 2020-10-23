@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Odetti Bistró</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menu gastronimique</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Amuse-bouche Andorra a Taula<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Amanida tèbia de pedrers<br>amb bolets i pinyons</li>
+                    <li>Salade tiède de gésiers,<br>champignons et pignons de pin</li>
                     —<br>
-                    <li>Crema de trumfes d’Andorra<br>amb mosaic vegetal</li>
+                    <li>Crème de pommes de terre d’Andorre<br>et mosaïque végétale</li>
                     —<br>
-                    <li>Morro de bacallà<br>amb escalivada tricolor de pebrots</li>
+                    <li>Morceau de morue<br>servi avec un trio de poivrons grillés</li>
                     —<br>
-                    <li>Caneló del Mestre Toni<br>amb beixamel trufada</li>
+                    <li>Cannellonis du chef Toni<br>à la béchamel truffée</li>
                     —<br>
-                    <li>Coulant de xocolata<br>amb gelat de vainilla de Tahití</li>
+                    <li>Coulant au chocolat<br>et glace à la vanille de Tahiti</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>37 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-gueule Andorra a Taula</li>
                     —<br>
-                    <li>Brou d’escudella<br>amb fideus i mandonguilles</li>
+                    <li>Bouillon de pot-au-feu,<br>vermicelles et boulettes de viande</li>
                     —<br>
-                    <li>Canelons gratinats</li>
+                    <li>Cannellonis gratinés</li>
                     —<br>
-                    <li>Iogurt artesà<br>amb coulis de fruites vermelles</li>
+                    <li>Yaourt artisanal<br>et coulis de fruits rouges</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>18 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,18 +87,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="mailto:toska.andorra2018@gmail.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:toska.andorra2018@gmail.com" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. Santa Anna, 14 · Escaldes-Engordany</p>
               <p>(+376) 807 575</p>
-              <p> De dilluns a diumenge, de 13 h a 15.30 h</p>
-              <p>i de 20 h a 22.30 h</p>
-              <p>Dimecres, tancat
+              <p>Du lundi au dimanche, de 13 h à 15.30 h</p>
+              <p>et de 20 h à 22.30 h</p>
+              <p>Fermé le mercredi<br>
               <p>toska.andorra2018@gmail.com</p>
               <br>
               <p><a href="#">@odettibistro</a></p>

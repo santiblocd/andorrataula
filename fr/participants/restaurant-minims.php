@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Restaurant Minim's</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menu gastronomique</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula<br>acompanyat d'una INEDIT de Damm</li>
+                    <li>Amuse-bouche Andorra a Taula<br>servi avec une bière INEDIT Damm</li>
                     —<br>
-                    <li>Crema d’herbes de muntanya<br>amb donja cruixent</li>
+                    <li>Velouté aux herbes des montagnes<br>parsemé de donja croustillante</li>
                     —<br>
-                    <li>Timbal d’escalivada<br>amb truita salmonada fumada<br>i fredolics amb vinagreta</li>
+                    <li>Plat de légumes grillés,<br>truite saumonée fumée<br>et champignons à la vinaigrette</li>
                     —<br>
-                    <li>Tempura de bacallà<br>amb maionesa de codony</li>
+                    <li>Tempura de morue<br>et mayonnaise de coing</li>
                     —<br>
-                    <li>Culatí de vedella d’Andorra<br>amb bolets saltats</li>
+                    <li>Bavette de veau d’Andorre<br>servie avec des champignons sautés</li>
                     —<br>
-                    <li>Bunyols de vent amb gelat de tomata<br>i xocolata 100% cacau</li>
+                    <li>Pets-de-nonne à la glace de tomate<br>et au chocolat 100 % cacao</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>30 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Aperitiu Andorra a Taula</li>
+                    <li>Amuse-gueule Andorra a Taula</li>
                     —<br>
-                    <li>Canelons de cal Calones</li>
+                    <li>Cannellonis maison cal Calones</li>
                     —<br>
-                    <li>Pollastre a l’ast amb patates xips</li>
+                    <li>Poulet à la broche et pommes frites</li>
                     —<br>
-                    <li>Poma caramel•litzada</li>
+                    <li>Pomme caramélisée</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>15 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,18 +87,18 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="mailto:minims@live.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="mailto:minims@live.com" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>Antic Carrer Major, 5 · Andorra la Vella</p>
               <p>(+376) 867 511</p>
-              <p>De dimarts a dissabte, de 13 h a 15.30 h</p>
-              <p>i de 20.30 h a 22.45 h</p>
-              <p>Dilluns i diumenge, tancat</p>
+              <p>Du mardi au samedi, de 13 h à 15.30 h</p>
+              <p>et de 20.30 h à 22.45 h</p>
+              <p>Fermé le lundi et le dimanche</p>
               <p>minims@live.com</p>
               <br>
               <p><a href="#">@moniminims</a></p>

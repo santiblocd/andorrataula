@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca" class="ficha-restaurante">
+<html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
     <title>Plató Restaurant</title>
@@ -27,7 +27,7 @@
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
         <a class="circletopo" href="http://localhost/andorra">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -42,43 +42,43 @@
               <div class="info-menu">
                 <!-- START MENU > TIPO MENU 1 -->
                 <div class="menu">
-                  <h4>Menú gastronòmic</h4>
+                  <h4>Menu gastronomique</h4>
                   <ul>
-                    <li>Coca de recapte amb sardina fumada<br>acompanyada d'una INEDIT de Damm</li>
+                    <li>Galette à la sardine fumée<br>accompagnée d’une bière INEDIT Damm</li>
                     —<br>
-                    <li>Amanida del Périgord, pedrers d’ànec saltats,<br>bacó, panses, pinyons i pernil ibèric</li>
+                    <li>Salade du Périgord aux gésiers<br>de canard sautés, lardons,<br>raisins secs, pinions et jambon ibérique</li>
                     —<br>
-                    <li>Brou d’escudella<br>amb galets farcits de carn d’olla</li>
+                    <li>Bouillon de pot-au-feu<br>et grosses coquilles farcies de viande hachée</li>
                     —<br>
-                    <li>Bacallà cuit a baixa temperatura,<br>tomàquet confitat i xips de carbassó</li>
+                    <li>Morue mijotée à basse température,<br>tomate confite et chips de courgettes</li>
                     —<br>
-                    <li>Secret ibèric a la brasa amb patates palla</li>
+                    <li>Secrets de porc ibérique cuit<br>au feu de bois et pommes paille</li>
                     -<br>
-                    <li>Lingot d’or amb gelat de cacauet salat</li>
+                    <li>Lingot d’or garni de glace<br>aux cacahuètes salées</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>35 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 1 -->
 
                 <!-- START MENU > TIPO MENU 2 -->
                 <div class="menu">
-                  <h4>Menú júnior</h4>
+                  <h4>Menu enfant</h4>
                   <ul>
-                    <li>Croquetes casonales de pollastre de pagès</li>
+                    <li>Croquettes de poulet de ferme maison</li>
                     —<br>
-                    <li>Brou d’escudella<br>amb galets farcits de carn d’olla</li>
+                    <li>Bouillon de pot-au-feu<br>et grosses coquilles farcies de viande hachée</li>
                     —<br>
-                    <li>Secret ibèric a la brasa<br>amb patates palla</li>
+                    <li>Secrets de porc ibérique<br>cuit au feu de bois et pommes paille</li>
                     —<br>
-                    <li>Lingot d’or amb gelat de cacauet salat</li>
+                    <li>Lingot d’or garni de glace<br>aux cacahuètes salées</li>
                   </ul>
                 </div>
                 <div class="preu">
                   <p>17 €</p>
-                  <span>per persona</span>
+                  <span>par personne</span>
                 </div>
                 <!-- FIN MENU > TIPO MENU 2 -->
             </div>
@@ -87,17 +87,17 @@
           <!-- START LEGAL + DIRECCIÓN -->
           <div class="info-restaurant">
             <div class="direccion">
-              <p>IGI inclòs • Begudes no incloses</p>
+              <p>TTC • Boissons non comprises</p>
             </div>
              <div class="boton">
-              <a href="https://www.hotel-arthotelandorra.com" target="_blank">Fes la teva <br>reserva</a>
+              <a href="https://www.hotel-arthotelandorra.com" target="_blank">Faites votre<br>réservation</a>
               <!-- SI ES UN MAIL PONER EN HREF MAILTO, EJEMPLO: <a href="mailto:xxxxxx@mail.com">Fes la teva <br>reserva</a>-->
             </div>
             <div class="direccion">
               <p>C. Part de la Creu, 12-25 · Andorra la Vella</p>
               <p>(+376) 760 303</p>
-              <p>De dilluns a diumenge, de 13.30 h a 15.30 h</p>
-              <p>i de 20 h a 23 h</p>
+              <p>Du lundi au dimanche, de 13.30 h a 15.30 h</p>
+              <p>et de 20 h à 23 h</p>
               <p>arthotel@andorra.ad</p>
               <br>
               <p><a href="https://www.hotel-arthotelandorra.com">www.hotel-arthotelandorra.com</a></p>
