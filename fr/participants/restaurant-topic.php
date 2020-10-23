@@ -25,9 +25,13 @@
         <!-- END Menú > cambio de idiomas -->
     	</header>
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
-        <a class="circletopo" href="http://localhost/andorra">
+        <a class="circletopo" href="../fr">
           <div class="circle titulo">
+<<<<<<< HEAD
             <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
+=======
+            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en família</span></h1>
+>>>>>>> 7a58ac6fc6a9126770ab1aa690e6788fbb7103e9
           </div>
         </a>
         <div class="barra-left">
@@ -107,11 +111,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/restaurant-topic/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-topic/02.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-topic/03.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-topic/04.jpg')"></div>
-          <div class="slide" style="background-image: url('img/participants/restaurant-topic/05.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-topic/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-topic/02.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-topic/03.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-topic/04.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/restaurant-topic/05.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 
