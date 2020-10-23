@@ -25,9 +25,9 @@
         <!-- END Menú > cambio de idiomas -->
     	</header>
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
-        <a class="circletopo" href="http://localhost/andorra">
+        <a class="circletopo" href="../fr">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -110,7 +110,7 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('../img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
           <div class="slide">your 2</div>
           <div class="slide">your 3</div>
         </div>
