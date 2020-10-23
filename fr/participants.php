@@ -10,9 +10,9 @@
     <!-- define the wrapper and the container -->
     <div data-barba="wrapper">
       <nav class="menu-lang">
-          <li><a href="es/participantes.php">ES</a></li>
-          <li><a href="fr/participantes.php">FR</a></li>
-          <li><a href="participants.php">CA</a></li>
+          <li><a href="../es/participantes.php">ES</a></li>
+          <li><a href="../fr/participants.php">FR</a></li>
+          <li><a href="../participants.php">CA</a></li>
         </nav>
       <div class="hamburguer">
         <span class="bar1"></span>
@@ -26,14 +26,14 @@
         </div>
     	</header>
       <div data-barba="container" data-barba-namespace="home">
-         <a class="circletopo" href= "/andorra">
+         <a class="circletopo" href= "../fr/index.php">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
         </a>
 
         <?php include "./template-parts/participantes.html" ?>
-        
+
       </div>
     </div>
 
