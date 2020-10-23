@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
-          <li><a href="fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
-          <li><a href="participants/andorra-park-hotel-la-pergola.php">CA</a></li>
+          <li><a href="../es/participantes/andorra-park-hotel-la-pergola.php">ES</a></li>
+          <li><a href="../fr/participants/andorra-park-hotel-la-pergola.php">FR</a></li>
+          <li><a href="../participants/andorra-park-hotel-la-pergola.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>

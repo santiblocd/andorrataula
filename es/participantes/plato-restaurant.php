@@ -18,16 +18,16 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/plato-restaurant.php">ES</a></li>
-          <li><a href="fr/participants/plato-restaurant.php">FR</a></li>
-          <li><a href="participants/plato-restaurant.php">CA</a></li>
+          <li><a href="../es/participantes/plato-restaurant.php">ES</a></li>
+          <li><a href="../fr/participants/plato-restaurant.php">FR</a></li>
+          <li><a href="../participants/plato-restaurant.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
-        <a class="circletopo" href="http://localhost/andorra">
+        <a class="circletopo" href="../es">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">

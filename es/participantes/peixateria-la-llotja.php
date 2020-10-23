@@ -18,16 +18,16 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/peixateria-la-llotja.php">ES</a></li>
-          <li><a href="fr/participants/peixateria-la-llotja.php">FR</a></li>
-          <li><a href="participants/peixateria-la-llotja.php">CA</a></li>
+          <li><a href="../es/participantes/peixateria-la-llotja.php">ES</a></li>
+          <li><a href="../fr/participants/peixateria-la-llotja.php">FR</a></li>
+          <li><a href="../participants/peixateria-la-llotja.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
       <div class="restaurant" data-barba="container" data-barba-namespace="restaurant">
-        <a class="circletopo" href="http://localhost/andorra">
+        <a class="circletopo" href="../es">
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en familia</span></h1>
+            <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en familia</span></h1>
           </div>
         </a>
         <div class="barra-left">
@@ -106,9 +106,11 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
-          <div class="slide">your 2</div>
-          <div class="slide">your 3</div>
+          <div class="slide" style="background-image: url('../img/participants/peixateria-la-llotja/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('../img/participants/peixateria-la-llotja/02.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/peixateria-la-llotja/03.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/peixateria-la-llotja/04.jpg')"></div>
+          <div class="slide" style="background-image: url('../img/participants/peixateria-la-llotja/05.jpg')"></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 

@@ -17,9 +17,9 @@
      
       <?php include "./template-parts/header.html" ?>
       <nav class="menu-lang">
-          <li><a href="es">ES</a></li>
-          <li><a href="fr">FR</a></li>
-          <li><a href="andorra">CA</a></li>
+          <li><a href="es/participantes.php">ES</a></li>
+          <li><a href="fr/participants.php">FR</a></li>
+          <li><a href="#">CA</a></li>
         </nav>
       <div class="texto-presentacion">
         <h2 class="invitacion">Us hi esperem<br>amb la taula<br>parada i una<br>INEDIT de Damm<br>ben fresca.</h2>
@@ -27,7 +27,7 @@
     </header>
     <!-- define the wrapper and the container -->
      <div data-barba="container" data-barba-namespace="home">
-         <a class="circletopo" href= "/andorra">
+         <a class="circletopo" href= "/partipants">
           <div class="circle titulo">
             <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
           </div>

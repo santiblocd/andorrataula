@@ -18,9 +18,9 @@
         <?php include dirname(__FILE__).'/../template-parts/header.html'; ?>
         <!-- START Menú > cambio de idiomas -->
         <nav class="menu-lang">
-          <li><a href="es/participantes/plato-restaurant.php">ES</a></li>
-          <li><a href="fr/participants/plato-restaurant.php">FR</a></li>
-          <li><a href="participants/plato-restaurant.php">CA</a></li>
+          <li><a href="../es/participantes/plato-restaurant.php">ES</a></li>
+          <li><a href="../fr/participants/plato-restaurant.php">FR</a></li>
+          <li><a href="../participants/plato-restaurant.php">CA</a></li>
         </nav>
         <!-- END Menú > cambio de idiomas -->
     	</header>
