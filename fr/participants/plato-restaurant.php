@@ -28,7 +28,7 @@
         <a class="circletopo" href="../fr">
           <div class="circle titulo">
             <div class="circle titulo">
-              <h1><span class="minus">Andorra</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
+              <h1><span class="minus">Andorre</span><span><img src="../img/taula.svg"></span> <span class="mayus">en famille</span></h1>
             </div>
           </div>
         </a>
@@ -112,9 +112,9 @@
 
         <!-- START IMÁGENES LINKS -->
         <div class="gallery">
-          <div class="slide" style="background-image: url('../img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menú Junior</div></div>
+          <div class="slide" style="background-image: url('../img/participants/andorra-park-hotel-restaurant-es/01.jpg')"><div class="tipomenu">Menu gastronomique</div></div>
           <div class="slide">your 2</div>
-          <div class="slide">your 3</div>
+          <div class="slide">your 3</div><div class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool</div></div>
         </div>
         <!-- END IMÁGENES LINKS -->
 
