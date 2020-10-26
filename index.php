@@ -40,7 +40,7 @@
           </div>
           <a href="participants.php">
             <div class="circle boton">
-              <p>Descobreix<br>els establiments<br> participants</p>
+              <p>Descobreix<br>els establiments<br>que hi participen</p>
             </div>
           </a>
           <div id="intro-slider">
