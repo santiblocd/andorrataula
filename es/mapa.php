@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <title>Andorra a Taula - Mapa</title>
