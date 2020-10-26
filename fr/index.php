@@ -42,6 +42,7 @@
             </div>
           </a>
           <div id="intro-slider">
+             <div class="legal">INEDIT Damm en recomana el consum responsable. Alc. 4,8º</div>
           </div>
     </div>
   </div>

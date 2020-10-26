@@ -21,7 +21,7 @@
       <nav class="menu-lang">
           <li><a href="es">ES</a></li>
           <li><a href="fr">FR</a></li>
-          <li><a href="andorra">CA</a></li>
+          <li><a href="#">CA</a></li>
         </nav>
       <div class="texto-presentacion">
         <h2 class="invitacion">Us hi esperem<br>amb la taula<br>parada i una<br>INEDIT de Damm<br>ben fresca.</h2>
@@ -44,6 +44,7 @@
             </div>
           </a>
           <div id="intro-slider">
+            <div class="legal">INEDIT Damm en recomana el consum responsable. Alc. 4,8º</div>
           </div>
     </div>
   </div>
