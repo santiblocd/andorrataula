@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ca">
+<html lang="es">
 
   <head>
     <meta charset="utf-8">
@@ -24,7 +24,7 @@
           <li><a href="andorra">CA</a></li>
         </nav>
       <div class="texto-presentacion">
-        <h2 class="invitacion">Us hi esperem<br>amb la taula<br>parada i una<br>INEDIT de Damm<br>ben fresca.</h2>
+        <h2 class="invitacion">Os esperamos<br>con la mesa<br>a punto<br>y una INEDIT de Damm<br>bien fresca.</h2>
       </div>
   	</header>
     <!-- define the wrapper and the container -->
@@ -34,7 +34,7 @@
           </div>
           <div class="colaboradores">
               <div class="bloque">
-                <p>Organitzen:</p>
+                <p>Organizan:</p>
                 <div class="logos">
                   <img src="img/logos/uniohoteleraandorra.jpg">
                   <img src="img/logos/inedit.jpg">
@@ -43,21 +43,21 @@
               </div>
 
               <div class="bloque">
-                <p>Agraïments:</p>
+                <p>Agradecimientos:</p>
                 <div class="logos">
                   <img src="img/logos/visitandorra.jpg">
                 </div>
               </div>
 
               <div class="bloque">
-                <p>Col·laboren:</p>
+                <p>Colaboran:</p>
                 <div class="logos">
                   <img src="img/logos/telecom.jpg">
                 </div>
               </div>
 
               <div class="bloque">
-                <p>Per a més informació:</p>
+                <p>Para más información:</p>
                 <div class="logos">
                   <img src="img/logos/gastronosfera.jpg">
                 </div>

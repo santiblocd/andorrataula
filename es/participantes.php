@@ -22,7 +22,7 @@
     	<header>
         <?php include "./template-parts/header.html" ?>
         <div class="texto-presentacion">
-          <h2 class="invitacion">Os esperamos<br>con la mesa<br>lista y una<br>Inedit de Damm<br>bien fría.</h2>
+          <h2 class="invitacion">Os esperamos<br>con la mesa<br>a punto<br>y una INEDIT de Damm<br>bien fresca.</h2>
         </div>
     	</header>
       <div data-barba="container" data-barba-namespace="home">
