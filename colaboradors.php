@@ -36,30 +36,30 @@
               <div class="bloque">
                 <p>Organitzen:</p>
                 <div class="logos">
-                  <a href="https://uha.ad/ca/"><img src="img/logos/uniohoteleraandorra.jpg"></a>
-                  <a href="https://www.damm.com/ca/cerveses/inedit"><img src="img/logos/inedit.jpg"></a>
-                  <a href="andorrataula.com"><img src="img/logos/andorrataula.jpg"></a>
+                  <a href="https://uha.ad/ca/" target=”_blank”><img src="img/logos/uniohoteleraandorra.jpg"></a>
+                  <a href="https://www.damm.com/ca/cerveses/inedit" target=”_blank”><img src="img/logos/inedit.jpg"></a>
+                  <a href="andorrataula.com" target=”_blank”><img src="img/logos/andorrataula.jpg"></a>
                 </div>
               </div>
 
               <div class="bloque">
                 <p>Agraïments:</p>
                 <div class="logos">
-                  <a href="https://visitandorra.com/ca/"><img src="img/logos/visitandorra.jpg"></a>
+                  <a href="https://visitandorra.com/ca/" target=”_blank”><img src="img/logos/visitandorra.jpg"></a>
                 </div>
               </div>
 
               <div class="bloque">
                 <p>Col·laboren:</p>
                 <div class="logos">
-                  <a href="https://www.andorratelecom.ad/"><img src="img/logos/telecom.jpg"></a>
+                  <a href="https://www.andorratelecom.ad/" target=”_blank”><img src="img/logos/telecom.jpg"></a>
                 </div>
               </div>
 
               <div class="bloque">
                 <p>Per a més informació:</p>
                 <div class="logos">
-                  <a href="https://www.gastronosfera.com/es/rutas-y-jornadas/andorra-taula"><img src="img/logos/gastronosfera.jpg"></a>
+                  <a href="https://www.gastronosfera.com/es/rutas-y-jornadas/andorra-taula" target=”_blank”><img src="img/logos/gastronosfera.jpg"></a>
                 </div>
               </div>
             </div>
