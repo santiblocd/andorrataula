@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="fr">
 
   <head>
     <meta charset="utf-8">
@@ -28,7 +28,7 @@
   	</header>
     <div data-barba="container" data-barba-namespace="home"> 
           <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
+            <h1><span class="minus">Andorre</span><span><img src="./img/taula.svg"></span> <span class="mayus">en famille</span></h1>
           </div>
           <div class="circle date">
             <p>Du 30 de octobre<br>au 29 novembre</p>
@@ -42,7 +42,7 @@
             </div>
           </a>
           <div id="intro-slider">
-             <div class="legal">INEDIT Damm en recomana el consum responsable. Alc. 4,8º</div>
+             <div class="legal">La bière INEDIT Damm est à consommer avec modération. 4,8o d’alcool.</div>
           </div>
     </div>
   </div>
