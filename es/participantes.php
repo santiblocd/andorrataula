@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="utf-8">
-    <title>Andorra à Taula - Participants</title>
+    <title>Andorra a Taula - Participants</title>
     <?php include "./template-parts/head.html" ?>
   </head>
   <body>
@@ -22,7 +22,7 @@
     	<header>
         <?php include "./template-parts/header.html" ?>
         <div class="texto-presentacion">
-          <h2 class="invitacion">Us hi esperem <br>amb la taula <br>parada i una <br>Inedit de Damm <br>ben fresca.</h2>
+          <h2 class="invitacion">Os esperamos<br>con la mesa<br>lista y una<br>Inedit de Damm<br>bien fría.</h2>
         </div>
     	</header>
       <div data-barba="container" data-barba-namespace="home">
