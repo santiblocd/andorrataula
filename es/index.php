@@ -34,7 +34,7 @@
             <p>Del 30<br>de octubre<br>al 29<br>de noviembre</p>
           </div>
           <div class="circle info">
-            <p>Menús<br>tradicionales<br>y gastronómicos<br>maridados<br>con INEDIT de Damm<br>-<br> 14as jornadas<br>de cocina <br>andorrana</p>
+            <p>Menús<br>tradicionales<br>y gastronómicos<br>maridados<br>con INEDIT de Damm<br>-<br> 14as jornadas<br>de cocina<br>andorrana</p>
           </div>
           <a href="es/participants.php">
             <div class="circle boton">
