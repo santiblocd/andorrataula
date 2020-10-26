@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="fr">
   <head>
     <meta charset="utf-8">
     <title>Andorra a Taula - Participants</title>
@@ -22,7 +22,7 @@
     	<header>
         <?php include "./template-parts/header.html" ?>
         <div class="texto-presentacion">
-          <h2 class="invitacion">La table est dressée,<br>une bière INEDIT Damm<br>bien fraîche<br>est à votre disposition :<br>nous n’attendons<br>plus que vous.</h2></h2>
+          <h2 class="invitacion">La table est dressée,<br>une bière<br>INEDIT Damm<br>bien fraîche<br>est à votre disposition :<br>nous n’attendons<br>plus que vous.</h2></h2>
         </div>
     	</header>
       <div data-barba="container" data-barba-namespace="home">

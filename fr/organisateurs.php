@@ -24,7 +24,7 @@
           <li><a href="andorra">CA</a></li>
         </nav>
       <div class="texto-presentacion">
-        <h2 class="invitacion">La table est dressée,<br>une bière INEDIT Damm<br>bien fraîche<br>est à votre disposition :<br>nous n’attendons<br>plus que vous.</h2>
+        <h2 class="invitacion">La table est dressée,<br>une bière<br>INEDIT Damm<br>bien fraîche<br>est à votre disposition :<br>nous n’attendons<br>plus que vous.</h2>
       </div>
   	</header>
     <!-- define the wrapper and the container -->
@@ -57,7 +57,7 @@
               </div>
 
               <div class="bloque">
-                <p>Pour plus d'informations:</p>
+                <p>Pour plus d'informations :</p>
                 <div class="logos">
                   <a href="https://www.gastronosfera.com/es/rutas-y-jornadas/andorra-taula"><img src="../img/logos/gastronosfera.jpg"></a>
                 </div>
