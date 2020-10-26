@@ -23,7 +23,7 @@
           <li><a href="../index.php">CA</a></li>
         </nav>
       <div class="texto-presentacion">
-        <h2 class="invitacion">Os esperamos<br>con la mesa<br>a punto<br>y una INEDIT de Damm<br>bien fresca.</h2>
+        <h2 class="invitacion">Os esperamos<br>con la mesa<br>a punto<br>y una INEDIT<br>de Damm<br>bien fresca.</h2>
       </div>
   	</header>
     <div data-barba="container" data-barba-namespace="home"> 
