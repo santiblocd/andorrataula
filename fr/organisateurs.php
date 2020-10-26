@@ -3,9 +3,10 @@
 
   <head>
     <meta charset="utf-8">
-    <title>Andorra a Taula 2020</title>
+    <title>Andorra a Taula 2020 - Organisateurs</title>
     </script>
      <?php include "./template-parts/head.html" ?>
+      <meta name="description" content="Andorra a Taula 2020 a été possible grâce à tous les collaborateurs et participants qui font partie de cette initiative gastronomique."/>
 
     
      <div class="hamburguer">

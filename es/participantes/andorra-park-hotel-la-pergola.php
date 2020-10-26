@@ -2,8 +2,9 @@
 <html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Andorra Park Hotel - La Pèrgola</title>
+    <title>Andorra a Taula 2020 - Andorra Park Hotel La Pèrgola</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
+    <meta name="description" content="Descubre el menú gastronómico del restaurante Andorra Park Hotel – La Pèrgola para Andorra a Taula 2020 y degusta sus especialidades acompañadas de una cerveza INEDIT de Damm."/>
   </head>
   <body>
     <div class="hamburguer">

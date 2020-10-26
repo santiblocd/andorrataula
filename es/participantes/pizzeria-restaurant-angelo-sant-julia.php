@@ -2,8 +2,9 @@
 <html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Pizzeria Restaurant Angelo Sant Julià</title>
+    <title>Andorra a Taula 2020 - Pizzeria Restaurant Angelo Sant Julià</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
+    <meta name="description" content="Descubre el menú gastronómico de la Pizzeria Restaurant Angelo Sant Julià para Andorra a Taula 2020 y degusta sus especialidades acompañadas de una cerveza INEDIT de Damm."/>
   </head>
   <body>
     <div class="hamburguer">

@@ -2,8 +2,9 @@
 <html lang="es" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Plató Restaurant</title>
+    <title>Andorra a Taula 2020 - Plató Restaurant</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
+    <meta name="description" content="Descubre el menú gastronómico del Plató Restaurant para Andorra a Taula 2020 y degusta sus especialidades acompañadas de una cerveza INEDIT de Damm."/>
   </head>
   <body>
     <div class="hamburguer">

@@ -2,8 +2,9 @@
 <html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant Plat'in</title>
+    <title>Anorra a Taula 2020 - Restaurant Plat'in</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
+    <meta name="description" content="Découvrez le menu gastronomique du Restaurant Plat’in pour Andorra a Taula 2020 et dégustez ses spécialités accompagnées d'une bière INEDIT de Damm."/>
   </head>
   <body>
     <div class="hamburguer">

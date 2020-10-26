@@ -2,8 +2,9 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8">
-    <title>Andorra a Taula - Participants</title>
+    <title>Andorra a Taula 2020 - Participants</title>
     <?php include "./template-parts/head.html" ?>
+    <meta name="description" content="Des restaurants de toute l'Andorre présentent leurs propositions de menus gastronomiques et traditionnels pour cette édition d'Andorra a Taula 2020."/>
   </head>
   <body>
 

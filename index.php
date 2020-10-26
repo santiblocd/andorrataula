@@ -6,7 +6,7 @@
     <title>Andorra a Taula 2020</title>
 
      <?php include "./template-parts/head.html" ?>
-     <meta name="description" content="texto aquí"/>
+     <meta name="description" content="Veniu a descobrir tots els menús tradicionals i gastronòmics d’Andorra a Taula. Us hi esperem amb una cervesa INEDIT de Damm ben fresca."/>
 
     
      <div class="hamburguer">

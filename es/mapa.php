@@ -2,8 +2,10 @@
 <html lang="es">
   <head>
     <meta charset="utf-8">
-    <title>Andorra a Taula - Mapa</title>
+    <title>Andorra a Taula 2020 - Mapa</title>
     <?php include "./template-parts/head.html" ?>
+    <meta name="description" content="Encuentra los restaurantes que participan en Andorra a Taula 2020 en Andorra la Vella, Escaldes-Engordany, La Massana, Ordino, Sant Julià y Canillo."/>
+
   </head>
   <body>
 

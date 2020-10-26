@@ -2,8 +2,9 @@
 <html lang="fr" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant Borda Estevet</title>
+    <title>Andorra a Taula 2020 - Restaurant Borda Estevet</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
+    <meta name="description" content="Découvrez le menu gastronomique du Restaurant Borda Estevet pour Andorra a Taula 2020 et dégustez ses spécialités accompagnées d'une bière INEDIT de Damm."/>
   </head>
   <body>
     <div class="hamburguer">

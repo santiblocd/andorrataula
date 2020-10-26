@@ -2,8 +2,9 @@
 <html lang="ca" class="ficha-restaurante">
   <head>
     <meta charset="utf-8">
-    <title>Restaurant Isard</title>
+    <title>Andorra a Taula 2020 - Restaurant Isard</title>
     <?php include dirname(__FILE__).'/../template-parts/head.html'; ?>
+    <meta name="description" content="ADescobreix el menú gastronòmic del Restaurant Isard per a Andorra a Taula i assaboreix les seves especialitats acompanyades d’una cervesa INEDIT de Damm."/>
   </head>
   <body>
     <div class="hamburguer">
