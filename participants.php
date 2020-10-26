@@ -27,11 +27,7 @@
     </header>
     <!-- define the wrapper and the container -->
      <div data-barba="container" data-barba-namespace="home">
-         <a class="circletopo" href= "/partipants.php">
-          <div class="circle titulo">
-            <h1><span class="minus">Andorra</span><span><img src="./img/taula.svg"></span> <span class="mayus">en família</span></h1>
-          </div>
-        </a>
+
 
         <?php include "./template-parts/participantes.html" ?>
 

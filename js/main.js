@@ -18,6 +18,8 @@ $('.hamburguer').click(function() {
 
 $(document).ready(function(){
     $('.gallery').slick({
+      autoplay: true,
+      autoplaySpeed: 1500,
       dots: false,
       arrows: false,
       infinite: true,
