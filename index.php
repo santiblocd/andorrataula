@@ -4,8 +4,8 @@
   <head>
     <meta charset="utf-8">
     <title>Andorra a Taula 2020</title>
-    </script>
      <?php include "./template-parts/head.html" ?>
+     <meta name="description" content="texto aquí"/>
 
     
      <div class="hamburguer">
