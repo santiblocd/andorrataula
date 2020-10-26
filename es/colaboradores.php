@@ -36,30 +36,30 @@
               <div class="bloque">
                 <p>Organizan:</p>
                 <div class="logos">
-                  <img src="img/logos/uniohoteleraandorra.jpg">
-                  <img src="img/logos/inedit.jpg">
-                  <img src="img/logos/andorrataula.jpg">
+                  <a href="https://uha.ad/ca/"><img src="../img/logos/uniohoteleraandorra.jpg"></a>
+                  <a href="https://www.damm.com/ca/cerveses/inedit"><img src="../img/logos/inedit.jpg"></a>
+                  <a href="andorrataula.com"><img src="../img/logos/andorrataula.jpg"></a>
                 </div>
               </div>
 
               <div class="bloque">
                 <p>Agradecimientos:</p>
                 <div class="logos">
-                  <img src="img/logos/visitandorra.jpg">
+                  <a href="https://visitandorra.com/ca/"><img src="../img/logos/visitandorra.jpg"></a>
                 </div>
               </div>
 
               <div class="bloque">
                 <p>Colaboran:</p>
                 <div class="logos">
-                  <img src="img/logos/telecom.jpg">
+                  <a href="https://www.andorratelecom.ad/"><img src="../img/logos/telecom.jpg"></a>
                 </div>
               </div>
 
               <div class="bloque">
                 <p>Para más información:</p>
                 <div class="logos">
-                  <img src="img/logos/gastronosfera.jpg">
+                  <a href="https://www.gastronosfera.com/es/rutas-y-jornadas/andorra-taula"><img src="../img/logos/gastronosfera.jpg"></a>
                 </div>
               </div>
             </div>

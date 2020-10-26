@@ -219,6 +219,16 @@ h2.invitacion {
   top: 0px;
   right: 0px;
 }
+#intro-slider .legal {
+  position: absolute;
+  bottom: 30px;
+  width: 50%;
+  font-size: 12px;
+  line-height: 15px;
+  font-family: 'Gellix-Regular';
+  color: white;
+  padding-left: 30px;
+}
 #colaboradores-slider {
   width: calc(100% - 333px);
   height: 100vh;
@@ -687,6 +697,11 @@ h2.invitacion {
   }
   header img {
     width: 30%;
+  }
+  #intro-slider .legal {
+    font-size: 20px;
+    line-height: 30px;
+    width: 100%;
   }
   .participantes {
     width: 100%;
