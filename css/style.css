@@ -568,6 +568,7 @@ h2.invitacion {
   cursor: pointer;
   margin-top: 30px;
   margin-bottom: 30px;
+  display: none;
 }
 .barra-left .info-restaurant .boton:hover {
   background-color: black;
@@ -575,6 +576,9 @@ h2.invitacion {
 }
 .barra-left .info-restaurant .boton:hover a {
   color: white;
+}
+.barra-left .info-restaurant .direccion {
+  margin-top: 20px;
 }
 .barra-left .info-restaurant .direccion p {
   font-size: 12px;
@@ -884,6 +888,7 @@ h2.invitacion {
   .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .boton {
     width: 300px;
     height: 300px;
+    display: none;
   }
   .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .boton a {
     font-size: 35px;

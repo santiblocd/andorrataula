@@ -21,7 +21,7 @@
           </div>
         </a>
         
-        <iframe style="position:absolute; top: -5%; border: none;" src="https://www.google.com/maps/d/u/0/embed?mid=1WbW2_3gntZz1FBC6OP-2fp7Dg6kdatqV&z=13" width="100%" height="120%"></iframe>
+        <iframe style="position:absolute; border: none;" src="https://www.google.com/maps/d/u/0/embed?mid=1WbW2_3gntZz1FBC6OP-2fp7Dg6kdatqV&z=13" width="100%" height="120%"></iframe>
       </div>
     </div>
 
