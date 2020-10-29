@@ -691,7 +691,7 @@ h2.invitacion {
 
 	    .direccion {
 	    	margin-top: 20px;
-	    	p {
+	    	p, a {
 	    		.FontSmall();
 	    		line-height: 15px;
 	    	}
@@ -892,9 +892,19 @@ h2.invitacion {
 		height: 400px;
 	}
 
+	.circletopo {
+		background-color: white;
+	    margin: 0 auto;
+	    padding: 50px;
+	    display: flex;
+	    width: 100%;
+	    justify-content: center;
+	}
+
 	.circle.titulo {
 		top: 100px;
     	left: ~"calc(50% - 200px)";
+    	position: inherit;
 
     	span.minus, span.mayus {
     		.FontMedium;
@@ -904,6 +914,7 @@ h2.invitacion {
 	.circle.date {
 		left: ~"calc(50% - 200px)";
 		top: 500px;
+
 
 		p {
 			.FontMedium;
@@ -1061,7 +1072,7 @@ h2.invitacion {
 							.direccion {
 								padding: 20px 0px;
 
-								p {
+								p, a {
 									.FontMedium();
 								}
 							}

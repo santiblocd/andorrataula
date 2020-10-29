@@ -593,7 +593,8 @@ h2.invitacion {
 .barra-left .info-restaurant .direccion {
   margin-top: 20px;
 }
-.barra-left .info-restaurant .direccion p {
+.barra-left .info-restaurant .direccion p,
+.barra-left .info-restaurant .direccion a {
   font-size: 12px;
   line-height: 15px;
 }
@@ -742,9 +743,18 @@ h2.invitacion {
     width: 400px;
     height: 400px;
   }
+  .circletopo {
+    background-color: white;
+    margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
   .circle.titulo {
     top: 100px;
     left: calc(50% - 200px);
+    position: inherit;
   }
   .circle.titulo span.minus,
   .circle.titulo span.mayus {
@@ -894,7 +904,8 @@ h2.invitacion {
   .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .direccion {
     padding: 20px 0px;
   }
-  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .direccion p {
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .direccion p,
+  .ficha-restaurante .loaded .restaurant .barra-left .container .info-restaurant .direccion a {
     font-size: 35px;
     line-height: 40px;
   }
