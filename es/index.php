@@ -37,7 +37,7 @@
           <div class="circle info">
             <p>Menús<br>tradicionales<br>y gastronómicos<br>maridados<br>con INEDIT de Damm<br>-<br> 14as jornadas<br>de cocina<br>andorrana</p>
           </div>
-          <a href="es/participants.php">
+          <a href="../es/participantes.php">
             <div class="circle boton">
               <p>Descubre<br>los establecimientos<br>participantes</p>
             </div>

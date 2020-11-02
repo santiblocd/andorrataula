@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" class="participantes-page">
   <head>
     <meta charset="utf-8">
     <title>Andorra a Taula 2020 - Participants</title>
@@ -8,19 +8,22 @@
   </head>
   <body>
 
+  <div class="hamburguer">
+    <span class="bar1"></span>
+    <span class="bar2"></span>
+    <span class="bar3"></span>
+  </div>
+
     <!-- define the wrapper and the container -->
     <div data-barba="wrapper">
+    <header>
       <nav class="menu-lang">
           <li><a href="../es/participantes.php">ES</a></li>
           <li><a href="../fr/participants.php">FR</a></li>
           <li><a href="../participants.php">CA</a></li>
         </nav>
-      <div class="hamburguer">
-        <span class="bar1"></span>
-        <span class="bar2"></span>
-        <span class="bar3"></span>
-      </div>
-    	<header>
+      
+    	
         <?php include "./template-parts/header.html" ?>
         <div class="texto-presentacion">
           <h2 class="invitacion">La table est dressée,<br>une bière<br>INEDIT Damm<br>bien fraîche<br>est à votre disposition :<br>nous n’attendons<br>plus que vous.</h2></h2>
