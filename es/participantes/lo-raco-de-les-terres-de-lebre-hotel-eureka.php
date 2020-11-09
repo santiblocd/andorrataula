@@ -97,8 +97,9 @@
             <div class="direccion">
               <p>Av. Carlemany, 36 · Escaldes-Engordany</p>
               <p>(+376) 880 666</p>
-              <p> De lunes a domingo, de 13 h a 16 h</p>
+              <p>Viernes y sábado, de 13 h a 16 h</p>
               <p>y de 20 h a 23 h</p>
+              <p>Domingo, de 13 h a 16 h</p>
               <p>hoteleureka@andorra.ad</p>
               <br>
               <p><a href="https://www.hoteleureka.com/">www.hoteleureka.com</a></p>
